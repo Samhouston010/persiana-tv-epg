@@ -9,8 +9,6 @@ s=requests.Session(); s.headers.update(H)
 def au(u):
     u=str(u or '')
     return u if u.startswith('http') else (SITE+u.lstrip('/') if u else '')
-def hq(u):
-    return u.replace('/w500/','/w780/') if u else u
 def dt(d,hm):
     try: h,m=[int(x) for x in str(hm).split(':')[:2]]
     except: h,m=0,0
@@ -64,8 +62,10 @@ for d,pr in allp:
         pe=ET.SubElement(tv,'programme',{'start':xt(a),'stop':xt(b),'channel':cid})
         ET.SubElement(pe,'title',{'lang':'fa'}).text=p.get('title_fa') or p.get('title_en') or 'Program'
         if p.get('title_en'): ET.SubElement(pe,'title',{'lang':'en'}).text=p['title_en']
-        ps=hq(au(p.get('poster_url') or p.get('backdrop_url')))
-        if ps.startswith('http'): ET.SubElement(pe,'icon',{'src':ps})
+        po=au(p.get('poster_url') or '')
+        bd=au(p.get('backdrop_url') or '')
+        if bd.startswith('http'): ET.SubElement(pe,'icon',{'src':bd,'width':'780','height':'439'})
+        if po.startswith('http'): ET.SubElement(pe,'icon',{'src':po,'width':'500','height':'750'})
         if p.get('desc_fa'): ET.SubElement(pe,'desc',{'lang':'fa'}).text=p['desc_fa']
         elif p.get('desc_en'): ET.SubElement(pe,'desc',{'lang':'en'}).text=p['desc_en']
         dr=p.get('director'); ca=lst(p.get('cast_list'))
@@ -76,9 +76,6 @@ for d,pr in allp:
         if p.get('year'): ET.SubElement(pe,'date').text=str(p['year'])
         gs=lst(p.get('genres_fa')) or lst(p.get('genres_en'))
         for gn in gs[:3]: ET.SubElement(pe,'category',{'lang':'fa'}).text=gn
-        if p.get('season') and p.get('episode'):
-            try: ET.SubElement(pe,'episode-num',{'system':'onscreen'}).text='S'+str(int(p['season']))+'E'+str(int(p['episode']))
-            except: pass
         im=p.get('imdb') or p.get('rating')
         if im:
             try:
