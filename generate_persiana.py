@@ -39,7 +39,7 @@ for c in ch:
     st=c.get('hls_url') or ''
     if not st: continue
     n+=1; cid=c.get('id',''); nm=c.get('name') or cid; nf=c.get('name_fa') or nm
-    lg=au(c.get('logo_url')); g=c.get('genre_fa') or 'Persiana'
+    lg=au(c.get('logo_url')); g='پرشیانا'
     L.append('#EXTINF:-1 tvg-id=\"'+cid+'\" tvg-name=\"'+nm+'\" tvg-logo=\"'+lg+'\" group-title=\"'+g+'\",'+nf)
     L.append(st)
 open('persiana.m3u','w',encoding='utf-8').write('\n'.join(L)+'\n')
