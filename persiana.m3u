@@ -1,17 +1,33 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/persiana.xml.gz"
-#EXTINF:-1 tvg-id="persiana-one" tvg-name="Persiana One" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-one.png" group-title="Persiana",Persiana One
-https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-cinema" tvg-name="Persiana Cinema" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-cinema.png" group-title="Persiana",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-family" tvg-name="Persiana Family" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-family.png" group-title="Persiana",Persiana Family
+#EXTINF:-1 tvg-id="family" tvg-name="Family" tvg-logo="assets/logos/family.png" group-title="Persiana",Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-music" tvg-name="Persiana Music" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-music.png" group-title="Persiana",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-junior" tvg-name="Persiana Junior" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-junior.png" group-title="Persiana",Persiana Junior
-https://juniorhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-comedy" tvg-name="Persiana Comedy" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-comedy.png" group-title="Persiana",Persiana Comedy
+#EXTINF:-1 tvg-id="series" tvg-name="Series" tvg-logo="assets/logos/series.png" group-title="Persiana",Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="assets/logos/cinema.png" group-title="Persiana",Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="korea" tvg-name="Korea" tvg-logo="assets/logos/korea.png" group-title="Persiana",Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="plus" tvg-name="Persiana+" tvg-logo="assets/logos/plus.png" group-title="Persiana",Persiana+
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="iranian" tvg-name="Iranian" tvg-logo="assets/logos/iranian.png" group-title="Persiana",Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="comedy" tvg-name="Comedy" tvg-logo="assets/logos/comedy.png" group-title="Persiana",Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-series" tvg-name="Persiana Series" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-series.png" group-title="Persiana",Persiana Series
-https://serieshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="persiana-doc" tvg-name="Persiana Doc" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-doc.png" group-title="Persiana",Persiana Doc
-https://dochls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="reality" tvg-name="Reality" tvg-logo="assets/logos/reality.png" group-title="Persiana",Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="turkey" tvg-name="Türkiye" tvg-logo="assets/logos/turkey.png" group-title="Persiana",Türkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="medical" tvg-name="Medical" tvg-logo="assets/logos/medical.png" group-title="Persiana",Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="docs" tvg-name="Docs" tvg-logo="assets/logos/docs.png" group-title="Persiana",Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="junior" tvg-name="Junior" tvg-logo="assets/logos/junior.png" group-title="Persiana",Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="fight" tvg-name="Fight" tvg-logo="assets/logos/fight.png" group-title="Persiana",Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="music" tvg-name="Music" tvg-logo="assets/logos/music.png" group-title="Persiana",Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-name="Nostalgia" tvg-logo="assets/logos/nostalgia.png" group-title="Persiana",Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="folk" tvg-name="Folk" tvg-logo="assets/logos/folk.png" group-title="Persiana",سنتی
+https://sonhls.persiana.live/hls/stream.m3u8
