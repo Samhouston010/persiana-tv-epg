@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/persiana.xml.gz"
+#EXTINF:-1 tvg-id="persiana-cinema" tvg-name="Persiana Cinema" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-cinema.png" group-title="Cinema",Persiana Cinema
+http://persiana.tv/stream/persiana-cinema
+#EXTINF:-1 tvg-id="persiana-serial" tvg-name="Persiana Serial" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-serial.png" group-title="Serial",Persiana Serial
+http://persiana.tv/stream/persiana-serial
+#EXTINF:-1 tvg-id="persiana-varzeshi" tvg-name="Persiana Varzeshi" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-varzeshi.png" group-title="Sports",Persiana Varzeshi
+http://persiana.tv/stream/persiana-varzeshi
+#EXTINF:-1 tvg-id="persiana-news" tvg-name="Persiana News" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-news.png" group-title="News",Persiana News
+http://persiana.tv/stream/persiana-news
+#EXTINF:-1 tvg-id="persiana-music" tvg-name="Persiana Music" tvg-logo="https://www.persianagroup.tv/assets/logos/persiana-music.png" group-title="Music",Persiana Music
+http://persiana.tv/stream/persiana-music
