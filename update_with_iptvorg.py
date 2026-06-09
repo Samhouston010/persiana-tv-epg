@@ -1,0 +1,115 @@
+﻿import re, requests
+from datetime import datetime
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+BASE_M3U_URL = "https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/all.m3u"
+IPTV_ORG_SOURCES = [
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir_telewebion.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir_wnslive.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u",
+]
+FILM_MUSIC_GROUPS = ["Entertainment","Music","Kids","Family","Series","Movies","Comedy","Animation"]
+FILM_MUSIC_KEYWORDS = ["film","movie","cinema","series","serial","music","موزیک","فیلم","سینما","سریال","موسیقی","drama","comedy","bollywood","classic","kids","junior","family","nostalgia","folk","travel","reality","korea","animation","cartoon"]
+
+def fetch(url):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        return r.text
+    except Exception as e:
+        print(f"  ERR: {e}"); return ""
+
+def parse(content):
+    channels = []
+    lines = content.splitlines()
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        if line.startswith("#EXTINF:"):
+            url = ""
+            j = i+1
+            while j < len(lines):
+                nl = lines[j].strip()
+                if nl and not nl.startswith("#"):
+                    url = nl; break
+                j += 1
+            if url:
+                channels.append({
+                    "extinf": line, "url": url,
+                    "name":     (re.search(r',(.+)$', line) or re.match(r'', '')).group(1).strip() if re.search(r',(.+)$', line) else "",
+                    "tvg_id":   (re.search(r'tvg-id="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'tvg-id="([^"]*)"', line) else "",
+                    "tvg_name": (re.search(r'tvg-name="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'tvg-name="([^"]*)"', line) else "",
+                    "group":    (re.search(r'group-title="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'group-title="([^"]*)"', line) else "",
+                })
+            i = j+1
+        else:
+            i += 1
+    return channels
+
+def norm(s): return re.sub(r'[^a-zA-Z0-9\u0600-\u06FF]','',s.lower().strip())
+
+def match(a,b):
+    if a["tvg_id"] and b["tvg_id"] and a["tvg_id"]==b["tvg_id"]: return True
+    for n1 in {norm(a["name"]),norm(a["tvg_name"])}-{""}:
+        for n2 in {norm(b["name"]),norm(b["tvg_name"])}-{""}:
+            if n1==n2: return True
+            if len(n1)>4 and len(n2)>4 and (n1 in n2 or n2 in n1): return True
+    return False
+
+def is_fm(ch):
+    text=(ch["name"]+" "+ch["group"]+" "+ch["tvg_name"]).lower()
+    if any(g.lower()==ch["group"].lower() for g in FILM_MUSIC_GROUPS): return True
+    return any(k in text for k in FILM_MUSIC_KEYWORDS)
+
+def set_group(extinf, g):
+    if 'group-title=' in extinf: return re.sub(r'group-title="[^"]*"',f'group-title="{g}"',extinf)
+    return extinf.rstrip()+f' group-title="{g}"'
+
+print("Fetching all.m3u...")
+base_content = fetch(BASE_M3U_URL)
+if not base_content:
+    with open("all.m3u","r",encoding="utf-8") as f: base_content=f.read()
+header = base_content.splitlines()[0]
+base = parse(base_content)
+print(f"  {len(base)} channels in all.m3u")
+
+print("Fetching iptv-org sources...")
+iptvorg = []
+for src in IPTV_ORG_SOURCES:
+    name=src.split("/")[-1]; print(f"  {name}...",end=" ")
+    c=fetch(src)
+    if c:
+        ch=parse(c); print(f"OK {len(ch)}"); iptvorg.extend(ch)
+    else: print("FAIL")
+
+seen=set(); uniq=[]
+for ch in iptvorg:
+    if ch["url"] not in seen: seen.add(ch["url"]); uniq.append(ch)
+print(f"  Total unique: {len(uniq)}")
+
+print("Matching...")
+updated=0; new_fm=[]; new_oth=[]
+for ipch in uniq:
+    idx=next((i for i,b in enumerate(base) if match(ipch,b)),None)
+    if idx is not None:
+        if base[idx]["url"]!=ipch["url"]:
+            print(f"  UPDATE: {base[idx]['name']}")
+            base[idx]["url"]=ipch["url"]; updated+=1
+    else:
+        (new_fm if is_fm(ipch) else new_oth).append(ipch)
+
+print(f"Updated: {updated}, New film/music: {len(new_fm)}, New others: {len(new_oth)}")
+
+now=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+out=[header,""]
+for ch in base: out+=[ch["extinf"],ch["url"],""]
+if new_fm:
+    out.append(f"# === Film & Music - iptv-org - {now} ===")
+    for ch in new_fm: out+=[set_group(ch["extinf"],"فیلم و موسیقی"),ch["url"],""]
+if new_oth:
+    out.append(f"# === Iranian Channels - iptv-org - {now} ===")
+    for ch in new_oth: out+=[set_group(ch["extinf"],"کانال‌های ایرانی"),ch["url"],""]
+
+final="\n".join(out)
+with open("all.m3u","w",encoding="utf-8") as f: f.write(final)
+print(f"Done! Total: {final.count('#EXTINF:')} channels")
