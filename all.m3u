@@ -76,7 +76,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 
 #EXTINF:-1 tvg-id="" tvg-name="VOA Persian" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/voapersian.default.png" group-title="اخبار فارسی",صدای آمریکا
-https://voaphls.wns.live/hls/stream.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Radio Farda TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg" group-title="اخبار فارسی",رادیو فردا TV
 https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
