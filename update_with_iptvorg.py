@@ -8,14 +8,35 @@ IPTV_ORG_SOURCES = [
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir_wnslive.m3u",
     "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u",
 ]
+
+# این گروه‌ها هرگز دست نمی‌خورن
+LOCKED_GROUPS = [
+    "پرشیانا", "جم تی وی", "رادیو فارسی",
+    "شبکه‌های خارجی", "سراسری", "استانی",
+    "خبری", "ورزشی", "سرگرمی", "مستند",
+    "کودک", "مذهبی", "ALL",
+]
+
+# این کانال‌ها با هر اسمی هرگز آپدیت نمی‌شن (لینک ثابت دارن)
+LOCKED_NAMES = [
+    "VOA Persian", "صدای آمریکا",
+    "BBC Persian", "بی‌بی‌سی فارسی",
+    "Radio Farda TV", "رادیو فردا TV",
+    "Manoto", "منوتو",
+    "Iran International", "ایران اینترنشنال",
+    "Pars TV", "پارس",
+    "Kanal Jadid", "کانال جدید",
+    "Press TV", "پرس TV",
+    "iFilm", "آی‌فیلم",
+]
+
 FILM_MUSIC_GROUPS = ["Entertainment","Music","Kids","Family","Series","Movies","Comedy","Animation"]
 FILM_MUSIC_KEYWORDS = ["film","movie","cinema","series","serial","music","موزیک","فیلم","سینما","سریال","موسیقی","drama","comedy","bollywood","classic","kids","junior","family","nostalgia","folk","travel","reality","korea","animation","cartoon"]
 
 def fetch(url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=20)
-        r.raise_for_status()
-        return r.text
+        r.raise_for_status(); return r.text
     except Exception as e:
         print(f"  ERR: {e}"); return ""
 
@@ -30,16 +51,15 @@ def parse(content):
             j = i+1
             while j < len(lines):
                 nl = lines[j].strip()
-                if nl and not nl.startswith("#"):
-                    url = nl; break
+                if nl and not nl.startswith("#"): url = nl; break
                 j += 1
             if url:
                 channels.append({
                     "extinf": line, "url": url,
-                    "name":     (re.search(r',(.+)$', line) or re.match(r'', '')).group(1).strip() if re.search(r',(.+)$', line) else "",
-                    "tvg_id":   (re.search(r'tvg-id="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'tvg-id="([^"]*)"', line) else "",
-                    "tvg_name": (re.search(r'tvg-name="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'tvg-name="([^"]*)"', line) else "",
-                    "group":    (re.search(r'group-title="([^"]*)"', line) or re.match(r'', '')).group(1) if re.search(r'group-title="([^"]*)"', line) else "",
+                    "name":     re.search(r',(.+)$', line).group(1).strip() if re.search(r',(.+)$', line) else "",
+                    "tvg_id":   re.search(r'tvg-id="([^"]*)"', line).group(1) if re.search(r'tvg-id="([^"]*)"', line) else "",
+                    "tvg_name": re.search(r'tvg-name="([^"]*)"', line).group(1) if re.search(r'tvg-name="([^"]*)"', line) else "",
+                    "group":    re.search(r'group-title="([^"]*)"', line).group(1) if re.search(r'group-title="([^"]*)"', line) else "",
                 })
             i = j+1
         else:
@@ -56,6 +76,13 @@ def match(a,b):
             if len(n1)>4 and len(n2)>4 and (n1 in n2 or n2 in n1): return True
     return False
 
+def is_locked(ch):
+    if ch["group"] in LOCKED_GROUPS: return True
+    name_norm = norm(ch["name"])
+    for ln in LOCKED_NAMES:
+        if norm(ln) in name_norm or name_norm in norm(ln): return True
+    return False
+
 def is_fm(ch):
     text=(ch["name"]+" "+ch["group"]+" "+ch["tvg_name"]).lower()
     if any(g.lower()==ch["group"].lower() for g in FILM_MUSIC_GROUPS): return True
@@ -64,6 +91,13 @@ def is_fm(ch):
 def set_group(extinf, g):
     if 'group-title=' in extinf: return re.sub(r'group-title="[^"]*"',f'group-title="{g}"',extinf)
     return extinf.rstrip()+f' group-title="{g}"'
+
+def dedup(channels):
+    seen = set(); result = []
+    for ch in channels:
+        if ch["url"] not in seen:
+            seen.add(ch["url"]); result.append(ch)
+    return result
 
 print("Fetching all.m3u...")
 base_content = fetch(BASE_M3U_URL)
@@ -87,18 +121,29 @@ for ch in iptvorg:
     if ch["url"] not in seen: seen.add(ch["url"]); uniq.append(ch)
 print(f"  Total unique: {len(uniq)}")
 
+# تطابق — فقط کانال‌های غیر locked آپدیت می‌شن
 print("Matching...")
+base_urls = {ch["url"] for ch in base}
 updated=0; new_fm=[]; new_oth=[]
+
 for ipch in uniq:
+    # اگه URL قبلاً توی all.m3u هست، skip کن
+    if ipch["url"] in base_urls:
+        continue
+
     idx=next((i for i,b in enumerate(base) if match(ipch,b)),None)
     if idx is not None:
+        if is_locked(base[idx]):
+            continue
         if base[idx]["url"]!=ipch["url"]:
-            print(f"  UPDATE: {base[idx]['name']}")
+            print(f"  UPDATE: {base[idx]['name']} [{base[idx]['group']}]")
             base[idx]["url"]=ipch["url"]; updated+=1
     else:
         (new_fm if is_fm(ipch) else new_oth).append(ipch)
 
-print(f"Updated: {updated}, New film/music: {len(new_fm)}, New others: {len(new_oth)}")
+# حذف تکراری‌ها
+base = dedup(base)
+print(f"Updated: {updated}, New FM: {len(new_fm)}, New others: {len(new_oth)}")
 
 now=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 out=[header,""]
