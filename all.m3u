@@ -81,62 +81,6 @@ https://kjhls.wns.live/hls/stream.m3u8
 https://wmtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="اخبار فارسی",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEM TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM TV
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Series" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Series
-https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Film" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Film
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Drama" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Drama
-https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Classic" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Classic
-https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Comedy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Bollywood" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Bollywood
-https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Junior
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Kids" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Life" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Life
-https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM River" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM River
-https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Onyx" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Onyx
-https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Entertainment" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Entertainment
-https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Food" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Food
-https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Nature" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Nature
-https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Fit" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Fit
-https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Mifa" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="شبکه جم",GEM Mifa
-https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="Manoto TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg" group-title="شبکه جم",Manoto TV
-https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="شبکه جم",English Club TV
-https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEM TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM TV
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Series" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Series
-https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Film" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Film
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Drama" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Drama
-https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Comedy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Junior
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Kids" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Life" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="جم کمکی",GEM Life
-https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="جم کمکی",English Club TV
-https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" group-title="شبکه‌های فارسی",نت TV
 https://nethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T2 TV" tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" group-title="شبکه‌های فارسی",T2
@@ -321,58 +265,8 @@ https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/zantv.default.svg" group-title="ALL",زن TV
 https://wmtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GEM TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM TV
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Series" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Series
-https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Film" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Film
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Drama" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Drama
-https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Classic" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Classic
-https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Comedy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Bollywood" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Bollywood
-https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Junior
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Kids" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Life" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Life
-https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM River" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM River
-https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Onyx" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Onyx
-https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Entertainment" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Entertainment
-https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Food" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Food
-https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Nature" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Nature
-https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Fit" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Fit
-https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Mifa" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Mifa
-https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="" tvg-name="Manoto TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg" group-title="ALL",Manoto TV
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM TV" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM TV
-https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Series" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Series
-https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Film" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Film
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Drama" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Drama
-https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Comedy" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Junior" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Junior
-https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Kids" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Kids
-https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="" tvg-name="GEM Life" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="ALL",GEM Life
-https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" group-title="ALL",نت TV
 https://nethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T2 TV" tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" group-title="ALL",T2
@@ -592,3 +486,7 @@ https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
 https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-name="شبکه یزد (تابان)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="استانی",شبکه یزد (تابان)
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+
+# جم تی وی — aparatchi.com — 2026-06-09 00:56 UTC
+#EXTINF:-1 tvg-id="MBC.Persia.ir" tvg-name="MBC Persia" tvg-logo="https://www.aparatchi.com/images/chanells-logo/mbcpersia.svg" group-title="جم تی وی",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
