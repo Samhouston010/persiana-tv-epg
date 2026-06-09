@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/all.xml.gz" tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz" https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
 
 #EXTINF:-1 tvg-id="family" tvg-name="Family" tvg-logo="https://www.persianagroup.tv/assets/logos/family.png" group-title="پرشیانا",Family
 https://familyhls.persiana.live/hls/stream.m3u8
