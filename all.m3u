@@ -270,9 +270,6 @@ https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/play
 #EXTINF:-1 tvg-id="" tvg-name="Miami TV" tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png" group-title="شبکه‌های خارجی",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VOA Persian" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/voapersian.default.png" group-title="ALL",صدای آمریکا
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" group-title="ALL",نت TV
 https://nethls.wns.live/hls/stream.m3u8
 
