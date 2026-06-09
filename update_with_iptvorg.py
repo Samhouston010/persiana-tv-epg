@@ -103,7 +103,7 @@ print("Fetching all.m3u...")
 base_content = fetch(BASE_M3U_URL)
 if not base_content:
     with open("all.m3u","r",encoding="utf-8") as f: base_content=f.read()
-header = base_content.splitlines()[0]
+header = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"'
 base = parse(base_content)
 print(f"  {len(base)} channels in all.m3u")
 
