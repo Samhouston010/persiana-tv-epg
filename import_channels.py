@@ -1,45 +1,47 @@
-﻿import re, json, requests
+﻿import json, requests
 
-# منبع کامل کانال‌های تلوبیون
-url = "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir_telewebion.m3u"
-r = requests.get(url, timeout=20)
-content = r.text
+HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://telewebion.ir/"}
+
+# API رسمی تلوبیون - لیست همه کانال‌ها
+url = "https://gateway.telewebion.ir/kandoo/channel/getChannelsList/?NumOfItems=300&v=5.9.0"
+data = requests.get(url, headers=HEADERS, timeout=20).json()
+items = data["body"]["queryChannel"]
+
+LOGO_TPL = "https://static.telewebion.ir/channelsLogo/{img}/default"
+
+# نقشه دسته‌بندی به فارسی
+TYPE_MAP = {
+    "national": "سراسری",
+    "province": "استانی",
+    "provincial": "استانی",
+    "international": "بین‌المللی",
+    "special": "ویژه",
+}
 
 channels = []
-lines = content.split("\n")
-i = 0
-while i < len(lines):
-    line = lines[i].strip()
-    if line.startswith("#EXTINF:"):
-        # اسم
-        name_m = re.search(r",(.+)$", line)
-        name = name_m.group(1).strip() if name_m else ""
-        # tvg-id
-        id_m = re.search(r'tvg-id="([^"]*)"', line)
-        tvg = id_m.group(1) if id_m else ""
-        # logo
-        logo_m = re.search(r'tvg-logo="([^"]*)"', line)
-        logo = logo_m.group(1) if logo_m else ""
-        # URL بعدی - slug رو ازش در میاریم
-        url_line = lines[i+1].strip() if i+1 < len(lines) else ""
-        slug_m = re.search(r'telewebion\.ir/([^/]+)/live', url_line)
-        slug = slug_m.group(1) if slug_m else ""
-        if slug:
-            channels.append({
-                "name": name,
-                "tvg_id": tvg,
-                "group": "تلوبیون",
-                "logo": logo,
-                "telewebion_slug": slug,
-                "sepehr_channel_id": None
-            })
-        i += 2
-    else:
-        i += 1
+for it in items:
+    slug = it.get("descriptor", "")
+    name = it.get("name", "")
+    img = it.get("image_name", "")
+    type_info = it.get("type", {})
+    type_desc = type_info.get("descriptor", "") if isinstance(type_info, dict) else ""
+    group = TYPE_MAP.get(type_desc, "تلوبیون")
+    if not slug:
+        continue
+    logo = LOGO_TPL.format(img=img) if img else ""
+    channels.append({
+        "name": name,
+        "tvg_id": "",
+        "group": group,
+        "logo": logo,
+        "telewebion_slug": slug,
+        "sepehr_channel_id": None
+    })
 
 with open("channels_master.json", "w", encoding="utf-8") as f:
     json.dump(channels, f, ensure_ascii=False, indent=2)
 
-print("Saved " + str(len(channels)) + " channels from telewebion")
-for ch in channels[:10]:
-    print("  " + ch["name"] + " -> " + ch["telewebion_slug"])
+withlogo = sum(1 for c in channels if c["logo"])
+print("Saved " + str(len(channels)) + " channels")
+print("With logo: " + str(withlogo))
+print("With Persian name: " + str(sum(1 for c in channels if c["name"])))
