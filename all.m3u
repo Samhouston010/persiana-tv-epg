@@ -459,7 +459,7 @@ https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-name="شبکه یزد (تابان)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="استانی",شبکه یزد (تابان)
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC.Persia.ir" tvg-name="MBC Persia" tvg-logo="https://www.aparatchi.com/images/chanells-logo/mbcpersia.svg" group-title="جم تی وی",MBC Persia
+#EXTINF:-1 tvg-id="" tvg-name="MBC Persia" tvg-logo="https://www.aparatchi.com/images/chanells-logo/mbcpersia.svg" group-title="جم تی وی",MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AfraFilm.ir@SD",Afra Film group-title="فیلم و موسیقی"
@@ -698,3 +698,6 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD",HodHod Farsi TV (1080p) group-title="کانال‌های ایرانی"
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Persia" tvg-logo="https://www.aparatchi.com/images/chanells-logo/mbcpersia.svg" group-title="سراسری",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
