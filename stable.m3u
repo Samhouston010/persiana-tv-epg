@@ -1,0 +1,145 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
+# Generated 2026-06-09 15:30 UTC
+
+#EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-name="Abadan" tvg-logo="" group-title="تلوبیون",Abadan
+https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-name="Aflak" tvg-logo="" group-title="تلوبیون",Aflak
+https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AftabTV.ir@SD" tvg-name="Aftab" tvg-logo="" group-title="تلوبیون",Aftab
+https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-name="Alborz" tvg-logo="" group-title="تلوبیون",Alborz
+https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AmouzeshTV.ir@SD" tvg-name="Amouzesh" tvg-logo="" group-title="تلوبیون",Amouzesh
+https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AraTV.ir@SD" tvg-name="Ara" tvg-logo="" group-title="تلوبیون",Ara
+https://ncdn.telewebion.ir/ara/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AtrakTV.ir@SD" tvg-name="Atrak" tvg-logo="" group-title="تلوبیون",Atrak
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-name="Azerbaijan Gharbi" tvg-logo="" group-title="تلوبیون",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BaranTV.ir@SD" tvg-name="Baran" tvg-logo="" group-title="تلوبیون",Baran
+https://ncdn.telewebion.ir/baran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BoushehrTV.ir@SD" tvg-name="Bushehr" tvg-logo="" group-title="تلوبیون",Bushehr
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DenaTV.ir@SD" tvg-name="Dena" tvg-logo="" group-title="تلوبیون",Dena
+https://ncdn.telewebion.ir/dena/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Energy.ir@SD" tvg-name="Energy" tvg-logo="" group-title="تلوبیون",Energy
+https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EshraghNetwork.ir@SD" tvg-name="Eshragh" tvg-logo="" group-title="تلوبیون",Eshragh
+https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FarsTV.ir@SD" tvg-name="Fars" tvg-logo="" group-title="تلوبیون",Fars
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GolkhaneTv.ir@SD" tvg-name="Golkhane TV" tvg-logo="" group-title="تلوبیون",Golkhane TV
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HabibTV.ir@SD" tvg-name="Habib TV" tvg-logo="" group-title="تلوبیون",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HamedanTV.ir@SD" tvg-name="Hamedan" tvg-logo="" group-title="تلوبیون",Hamedan
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HamoonTV.ir@SD" tvg-name="Hamoon" tvg-logo="" group-title="تلوبیون",Hamoon
+https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-name="iFilm" tvg-logo="" group-title="تلوبیون",iFilm
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-name="Ilam" tvg-logo="" group-title="تلوبیون",Ilam
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-name="IRIB1" tvg-logo="" group-title="تلوبیون",IRIB1
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB2.ir@SD" tvg-name="IRIB2" tvg-logo="" group-title="تلوبیون",IRIB2
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir@SD" tvg-name="IRIB3" tvg-logo="" group-title="تلوبیون",IRIB3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-name="IRIB4" tvg-logo="" group-title="تلوبیون",IRIB4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN2.ir@SD" tvg-name="IRINN2 Live Farsi News" tvg-logo="" group-title="تلوبیون",IRINN2 Live Farsi News
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-name="IRINN Live Farsi News" tvg-logo="" group-title="تلوبیون",IRINN Live Farsi News
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-name="Isfahan" tvg-logo="" group-title="تلوبیون",Isfahan
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-name="Jahanbin" tvg-logo="" group-title="تلوبیون",Jahanbin
+https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KaroonTV.ir@SD" tvg-name="Karoon TV" tvg-logo="" group-title="تلوبیون",Karoon TV
+https://ncdn.telewebion.ir/karoon/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-name="Kerman" tvg-logo="" group-title="تلوبیون",Kerman
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-name="Khalij-e Fars" tvg-logo="" group-title="تلوبیون",Khalij-e Fars
+https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-name="Khavaran" tvg-logo="" group-title="تلوبیون",Khavaran
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD" tvg-name="Khorasan Razavi" tvg-logo="" group-title="تلوبیون",Khorasan Razavi
+https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-name="Khozestan" tvg-logo="" group-title="تلوبیون",Khozestan
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KishTV.ir@SD" tvg-name="Kish" tvg-logo="" group-title="تلوبیون",Kish
+https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-name="Kordestan" tvg-logo="" group-title="تلوبیون",Kordestan
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LabbaykTV.ir@SD" tvg-name="Labbayk TV" tvg-logo="" group-title="تلوبیون",Labbayk TV
+https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-name="Mahabad" tvg-logo="" group-title="تلوبیون",Mahabad
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-name="Mostanad" tvg-logo="" group-title="تلوبیون",Mostanad
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NamaTV.ir@SD" tvg-name="Nama TV" tvg-logo="" group-title="تلوبیون",Nama TV
+https://ncdn.telewebion.ir/nama/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NamayeshTV.ir@SD" tvg-name="Namayesh" tvg-logo="" group-title="تلوبیون",Namayesh
+https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Nasim.ir@SD" tvg-name="Nasim" tvg-logo="" group-title="تلوبیون",Nasim
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nesfejahan" tvg-logo="" group-title="تلوبیون",Nesfejahan
+https://ncdn.telewebion.ir/nesfejahan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-name="Noor" tvg-logo="" group-title="تلوبیون",Noor
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OfoghTV.ir@SD" tvg-name="Ofogh" tvg-logo="" group-title="تلوبیون",Ofogh
+https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIBOmid.ir@SD" tvg-name="Omid" tvg-logo="" group-title="تلوبیون",Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-name="Palestine" tvg-logo="" group-title="تلوبیون",Palestine
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-name="Pooya & Nahal" tvg-logo="" group-title="تلوبیون",Pooya & Nahal
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD" tvg-name="Pooya TV Plus" tvg-logo="" group-title="تلوبیون",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QazvinTV.ir@SD" tvg-name="Qazvin" tvg-logo="" group-title="تلوبیون",Qazvin
+https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-name="Quran" tvg-logo="" group-title="تلوبیون",Quran
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RazaviTV.ir@SD" tvg-name="Razavi TV" tvg-logo="" group-title="تلوبیون",Razavi TV
+https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.ir@SD" tvg-name="Roya TV" tvg-logo="" group-title="تلوبیون",Roya TV
+https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-name="Sabalan" tvg-logo="" group-title="تلوبیون",Sabalan
+https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SabzTV.ir@SD" tvg-name="Sabz" tvg-logo="" group-title="تلوبیون",Sabz
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SahandTV.ir@SD" tvg-name="Sahand" tvg-logo="" group-title="تلوبیون",Sahand
+https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SalamatTV.ir@SD" tvg-name="Salamat" tvg-logo="" group-title="تلوبیون",Salamat
+https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SarbedaranTV.ir@SD" tvg-name="Sarbedaran" tvg-logo="" group-title="تلوبیون",Sarbedaran
+https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SemnanTV.ir@SD" tvg-name="Semnan" tvg-logo="" group-title="تلوبیون",Semnan
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SepehrTV.ir@SD" tvg-name="Sepehr" tvg-logo="" group-title="تلوبیون",Sepehr
+https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TabarestanTV.ir@SD" tvg-name="Tabarestan" tvg-logo="" group-title="تلوبیون",Tabarestan
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taftan" tvg-logo="" group-title="تلوبیون",Taftan
+https://ncdn.telewebion.ir/taftan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamasha.ir@SD" tvg-name="Tamasha" tvg-logo="" group-title="تلوبیون",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-name="Tehran" tvg-logo="" group-title="تلوبیون",Tehran
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tekyemadahi.ir@SD" tvg-name="Tekyemadahi" tvg-logo="" group-title="تلوبیون",Tekyemadahi
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV1 Plus [Not 24/7]" tvg-logo="" group-title="تلوبیون",TV1 Plus [Not 24/7]
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVANava.ir@SD" tvg-name="TVA Nava" tvg-logo="" group-title="تلوبیون",TVA Nava
+https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir@SD" tvg-name="Varzesh TV" tvg-logo="" group-title="تلوبیون",Varzesh TV
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="VelayatTV.ir@SD" tvg-name="Velayat TV" tvg-logo="" group-title="تلوبیون",Velayat TV
+https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="YazdTV.ir@SD" tvg-name="Yazd" tvg-logo="" group-title="تلوبیون",Yazd
+https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-name="Zagros" tvg-logo="" group-title="تلوبیون",Zagros
+https://ncdn.telewebion.ir/zagros/live/playlist.m3u8

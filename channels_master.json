@@ -1,0 +1,586 @@
+[
+  {
+    "name": "Abadan",
+    "tvg_id": "AbadanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "abadan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Aflak",
+    "tvg_id": "AflakTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "aflak",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Aftab",
+    "tvg_id": "AftabTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "aftab",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Alborz",
+    "tvg_id": "AlborzTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "alborz",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Amouzesh",
+    "tvg_id": "AmouzeshTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "amouzesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Ara",
+    "tvg_id": "AraTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "ara",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Atrak",
+    "tvg_id": "AtrakTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "atrak",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Azerbaijan Gharbi",
+    "tvg_id": "WestAzerbaijanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "azarbayjangharbi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Baran",
+    "tvg_id": "BaranTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "baran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Bushehr",
+    "tvg_id": "BoushehrTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "bushehr",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Dena",
+    "tvg_id": "DenaTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "dena",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Energy",
+    "tvg_id": "Energy.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "baenergy",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Eshragh",
+    "tvg_id": "EshraghNetwork.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "eshragh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Fars",
+    "tvg_id": "FarsTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "fars",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Golkhane TV",
+    "tvg_id": "GolkhaneTv.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "golkhane",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Habib TV",
+    "tvg_id": "HabibTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "habib",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Hamedan",
+    "tvg_id": "HamedanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sina",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Hamoon",
+    "tvg_id": "HamoonTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "hamoon",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "iFilm",
+    "tvg_id": "iFilmPersian.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "ifilm",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Ilam",
+    "tvg_id": "IlamTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "ilam",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Iraneman",
+    "tvg_id": "Iraneman.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "iraneman",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRIB1",
+    "tvg_id": "IRIB1.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tv1",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRIB2",
+    "tvg_id": "IRIB2.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tv2",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRIB3",
+    "tvg_id": "IRIB3.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tv3",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRIB4",
+    "tvg_id": "IRIB4.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tv4",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRIB UHD (2160p)",
+    "tvg_id": "IRIBUHD.ir@4K",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "faratar",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRINN2 Live Farsi News",
+    "tvg_id": "IRINN2.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "irinn2",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IRINN Live Farsi News",
+    "tvg_id": "IRINN.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "irinn",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Isfahan",
+    "tvg_id": "IsfahanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "esfahan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Jahanbin",
+    "tvg_id": "JahanbinTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "jahanbin",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Karoon TV",
+    "tvg_id": "KaroonTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "karoon",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Kerman",
+    "tvg_id": "KermanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "kerman",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Khalij-e Fars",
+    "tvg_id": "KhalijeFarsTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "khalijefars",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Khavaran",
+    "tvg_id": "KhavaranTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "khavaran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Khorasan Razavi",
+    "tvg_id": "KhorasanRazaviTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "khorasanrazavi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Khozestan",
+    "tvg_id": "KhozestanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "khoozestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Kish",
+    "tvg_id": "KishTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "kish",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Kordestan",
+    "tvg_id": "KordestanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "kordestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Labbayk TV",
+    "tvg_id": "LabbaykTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "labbayk",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Mahabad",
+    "tvg_id": "MahabadTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "mahabad",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Mostanad",
+    "tvg_id": "IRIBMostanad.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "mostanad",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Nama TV",
+    "tvg_id": "NamaTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "nama",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Namayesh",
+    "tvg_id": "NamayeshTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "namayesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Nasim",
+    "tvg_id": "Nasim.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "nasim",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Nesfejahan",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "nesfejahan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Noor",
+    "tvg_id": "NoorTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "noor",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Ofogh",
+    "tvg_id": "OfoghTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "ofogh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Omid",
+    "tvg_id": "IRIBOmid.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "omid",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Palestine",
+    "tvg_id": "Palestinetv.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "palestine",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Pooya & Nahal",
+    "tvg_id": "PooyaTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "pooya",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Pooya TV Plus",
+    "tvg_id": "PooyaTVPlus.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "javaneh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Qazvin",
+    "tvg_id": "QazvinTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "qazvin",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Quran",
+    "tvg_id": "QuranTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "quran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Razavi TV",
+    "tvg_id": "RazaviTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "razavi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Roya TV",
+    "tvg_id": "RoyaTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "iribu",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Sabalan",
+    "tvg_id": "SabalanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sabalan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Sabz",
+    "tvg_id": "SabzTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sabz",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Sahand",
+    "tvg_id": "SahandTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sahand",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Salamat",
+    "tvg_id": "SalamatTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "salamat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Sarbedaran",
+    "tvg_id": "SarbedaranTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sarbedaran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Semnan",
+    "tvg_id": "SemnanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "semnan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Sepehr",
+    "tvg_id": "SepehrTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "sepehr",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Tabarestan",
+    "tvg_id": "TabarestanTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tabarestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Taftan",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "taftan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Tamasha",
+    "tvg_id": "Tamasha.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "hdtest",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Tehran",
+    "tvg_id": "TehranTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tehran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Tekyemadahi",
+    "tvg_id": "Tekyemadahi.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tekyemadahi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "TV1 Plus [Not 24/7]",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "tv1plus",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "TVA Nava",
+    "tvg_id": "TVANava.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "nava",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Varzesh TV",
+    "tvg_id": "VarzeshTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "varzesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Velayat TV",
+    "tvg_id": "VelayatTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "velayat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Yazd",
+    "tvg_id": "YazdTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "taban",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "Zagros",
+    "tvg_id": "ZagrosTV.ir@SD",
+    "group": "تلوبیون",
+    "logo": "",
+    "telewebion_slug": "zagros",
+    "sepehr_channel_id": null
+  }
+]
