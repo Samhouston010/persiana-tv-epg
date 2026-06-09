@@ -1,7 +1,7 @@
 [
   {
     "name": "شبکه 1",
-    "tvg_id": "",
+    "tvg_id": "IRIB1.ir",
     "group": "سراسری",
     "logo": "https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default",
     "telewebion_slug": "tv1",
@@ -17,7 +17,7 @@
   },
   {
     "name": "شبکه 3",
-    "tvg_id": "",
+    "tvg_id": "IRIB3.ir",
     "group": "سراسری",
     "logo": "https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default",
     "telewebion_slug": "tv3",
@@ -209,7 +209,7 @@
   },
   {
     "name": "جهانبین",
-    "tvg_id": "",
+    "tvg_id": "JahanbinTV.ir",
     "group": "استانی",
     "logo": "https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default",
     "telewebion_slug": "jahanbin",
@@ -233,7 +233,7 @@
   },
   {
     "name": "اترک",
-    "tvg_id": "",
+    "tvg_id": "AtrakTV.ir",
     "group": "استانی",
     "logo": "https://static.telewebion.ir/channelsLogo/c059616c-053f-4044-baf1-4444c7101161/default",
     "telewebion_slug": "atrak",
@@ -249,7 +249,7 @@
   },
   {
     "name": "خوزستان",
-    "tvg_id": "",
+    "tvg_id": "KhozestanTV.ir",
     "group": "استانی",
     "logo": "https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default",
     "telewebion_slug": "khoozestan",
