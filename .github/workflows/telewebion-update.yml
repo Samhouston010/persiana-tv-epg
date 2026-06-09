@@ -1,0 +1,41 @@
+name: Update Telewebion stable.m3u
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests requests-oauthlib
+
+      - name: Refresh channel list from Telewebion API
+        run: python import_channels.py
+        continue-on-error: true
+
+      - name: Re-apply tvg-id for EPG channels
+        run: python set_tvg.py
+        continue-on-error: true
+
+      - name: Build stable.m3u
+        run: python iptv_builder.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stable.m3u channels_master.json
+          git diff --cached --quiet || git commit -m "Auto-update telewebion - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
