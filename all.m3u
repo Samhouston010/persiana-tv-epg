@@ -698,6 +698,3 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD",HodHod Farsi TV (1080p) group-title="کانال‌های ایرانی"
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC Persia" tvg-logo="https://www.aparatchi.com/images/chanells-logo/mbcpersia.svg" group-title="سراسری",MBC Persia
-https://hls.mbcpersia.live/hls/stream.m3u8
