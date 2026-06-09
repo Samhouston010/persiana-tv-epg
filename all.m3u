@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main/all.xml.gz"
 
 #EXTINF:-1 tvg-id="family" tvg-name="Family" tvg-logo="https://www.persianagroup.tv/assets/logos/family.png" group-title="پرشیانا",Family
-https://familyhls.avatv.live/hls/stream.m3u8
+https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="series" tvg-name="Series" tvg-logo="https://www.persianagroup.tv/assets/logos/series.png" group-title="پرشیانا",Series
-https://avaserieshls.wns.live/hls/stream.m3u8
+https://onehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://www.persianagroup.tv/assets/logos/cinema.png" group-title="پرشیانا",Cinema
-https://todayhls.wns.live/hls/stream.m3u8
+https://cinehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="korea" tvg-name="Korea" tvg-logo="https://www.persianagroup.tv/assets/logos/korea.png" group-title="پرشیانا",Korea
 https://korhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="plus" tvg-name="Persiana+" tvg-logo="https://www.persianagroup.tv/assets/logos/plus.png" group-title="پرشیانا",Persiana+
-https://mardomhls.wns.live/hls/stream.m3u8
+https://euhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="iranian" tvg-name="Iranian" tvg-logo="https://www.persianagroup.tv/assets/logos/iranian.png" group-title="پرشیانا",Iranian
-https://tv.iraniancongress.com/stream/tv.m3u8
+https://irhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="comedy" tvg-name="Comedy" tvg-logo="https://www.persianagroup.tv/assets/logos/comedy.png" group-title="پرشیانا",Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
@@ -40,7 +40,7 @@ https://junhls.persiana.live/hls/stream.m3u8
 https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="music" tvg-name="Music" tvg-logo="https://www.persianagroup.tv/assets/logos/music.png" group-title="پرشیانا",Music
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
+https://musichls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="nostalgia" tvg-name="Nostalgia" tvg-logo="https://www.persianagroup.tv/assets/logos/nostalgia.png" group-title="پرشیانا",Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
