@@ -1,11 +1,22 @@
 # -*- coding: utf-8 -*-
-import os, re, subprocess, requests
+import os, re, subprocess, shutil, requests
 from flask import Flask, request, jsonify, Response
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 M3U_FILE = os.path.join(APP_DIR, "final.m3u")
 HDR = {"User-Agent": "Mozilla/5.0", "Referer": "https://telewebion.ir/"}
 app = Flask(__name__)
+
+VLC_PATHS = [
+    r"C:\Program Files\VideoLAN\VLC\vlc.exe",
+    r"C:\Program Files (x86)\VideoLAN\VLC\vlc.exe",
+]
+
+def find_vlc():
+    for p in VLC_PATHS:
+        if os.path.exists(p): return p
+    w = shutil.which("vlc")
+    return w if w else None
 
 def parse():
     if not os.path.exists(M3U_FILE): return []
@@ -52,6 +63,18 @@ def test_api():
     except Exception as e:
         return jsonify({"alive": False, "status": type(e).__name__})
 
+@app.route("/api/play", methods=["POST"])
+def play_api():
+    url = request.get_json().get("url","")
+    vlc = find_vlc()
+    if not vlc:
+        return jsonify({"ok": False, "error": "VLC not found"})
+    try:
+        subprocess.Popen([vlc, url])
+        return jsonify({"ok": True})
+    except Exception as e:
+        return jsonify({"ok": False, "error": str(e)})
+
 @app.route("/api/push", methods=["POST"])
 def push_api():
     try:
@@ -69,13 +92,16 @@ def index(): return Response(PAGE, mimetype="text/html")
 PAGE = r"""<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>Panel</title>
 <style>body{font-family:Tahoma;background:#0f1419;color:#e0e0e0;margin:0;padding:20px}
-h1{color:#2dd4bf;font-size:19px}.bar{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap}
+h1{color:#2dd4bf;font-size:19px}.bar{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap;align-items:center}
 button{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:8px 13px;border-radius:8px;cursor:pointer;font-family:inherit}
 button:hover{background:#334155}.primary{background:#0d9488;border-color:#0d9488}.danger{background:#7f1d1d;border-color:#7f1d1d}
+.play{background:#1d4ed8;border-color:#1d4ed8}
 input,select{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:7px;border-radius:6px;font-family:inherit}
-table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:right;padding:7px;border-bottom:1px solid #1e293b}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:right;padding:6px;border-bottom:1px solid #1e293b;vertical-align:middle}
 th{color:#2dd4bf}tr:hover{background:#1a2332}.grp{color:#fbbf24}.live{color:#4ade80}.dead{color:#f87171}
-.small{font-size:11px;color:#94a3b8}#search{width:200px}</style></head><body>
+.small{font-size:11px;color:#94a3b8}#search{width:200px}
+img.logo{width:34px;height:34px;object-fit:contain;background:#000;border-radius:5px;border:1px solid #334155}
+.noimg{width:34px;height:34px;background:#1e293b;border-radius:5px;display:inline-block}</style></head><body>
 <h1>Playlist Manager - final.m3u</h1>
 <div class="bar"><input id="search" placeholder="search...">
 <select id="gf"><option value="">all groups</option></select>
@@ -84,7 +110,7 @@ th{color:#2dd4bf}tr:hover{background:#1a2332}.grp{color:#fbbf24}.live{color:#4ad
 <button class="primary" onclick="save()">save</button>
 <button onclick="push()">save + push</button>
 <span id="status" class="small"></span></div>
-<table><thead><tr><th>#</th><th>name</th><th>group</th><th>url</th><th>status</th><th>act</th></tr></thead>
+<table><thead><tr><th>#</th><th>name</th><th>logo</th><th>logo url / epg-id</th><th>group</th><th>url</th><th>status</th><th>act</th></tr></thead>
 <tbody id="rows"></tbody></table><script>
 let C=[];
 async function load(){C=await(await fetch('/api/channels')).json();render();}
@@ -95,22 +121,28 @@ function render(){
  let q=document.getElementById('search').value.toLowerCase(),fg=gf.value,tb=document.getElementById('rows');tb.innerHTML='';
  C.forEach((c,i)=>{if(q&&!c.name.toLowerCase().includes(q))return;if(fg&&c.group!==fg)return;
   let tr=document.createElement('tr');
+  let img=c.logo?('<img class=logo src="'+esc(c.logo)+'" onerror="this.style.display=0xa">'):'<span class=noimg></span>';
   tr.innerHTML='<td>'+(i+1)+'</td>'+
-  '<td><input value="'+esc(c.name)+'" onchange="u('+i+",'name',this.value)\" style=\"width:140px\"></td>"+
-  '<td><input value="'+esc(c.group)+'" onchange="u('+i+",'group',this.value)\" class=\"grp\" style=\"width:110px\"></td>"+
-  '<td><input value="'+esc(c.url)+'" onchange="u('+i+",'url',this.value)\" style=\"width:250px\" class=\"small\"></td>"+
+  '<td><input value="'+esc(c.name)+'" onchange="u('+i+",'name',this.value)\" style=\"width:130px\"></td>"+
+  '<td>'+img+'</td>'+
+  '<td><input value="'+esc(c.logo)+'" onchange="u('+i+",'logo',this.value);render()\" style=\"width:160px\" class=\"small\" placeholder=\"logo url\"><br><input value=\""+esc(c.tvgid)+'" onchange="u('+i+",'tvgid',this.value)\" style=\"width:160px;margin-top:3px\" class=\"small\" placeholder=\"epg tvg-id\"></td>"+
+  '<td><input value="'+esc(c.group)+'" onchange="u('+i+",'group',this.value)\" class=\"grp\" style=\"width:100px\"></td>"+
+  '<td><input value="'+esc(c.url)+'" onchange="u('+i+",'url',this.value)\" style=\"width:220px\" class=\"small\"></td>"+
   '<td id="st'+i+'" class="small">-</td>'+
-  '<td><button onclick="t('+i+')">test</button> <button class="danger" onclick="d('+i+')">del</button></td>';
+  '<td><button class="play" onclick="play('+i+')">play</button> <button onclick="t('+i+')">test</button> <button class="danger" onclick="d('+i+')">del</button></td>';
   tb.appendChild(tr);});
  document.getElementById('status').textContent=C.length+' channels';}
 function esc(s){return(s||'').replace(/"/g,'&quot;');}
 function u(i,k,v){C[i][k]=v;}
 function d(i){if(confirm('delete '+C[i].name+'?')){C.splice(i,1);render();}}
 function add(){let n=prompt('name:');if(!n)return;let url=prompt('url:');if(!url)return;
- let g=prompt('group:','new')||'';C.unshift({name:n,url:url,group:g,logo:'',tvgid:''});render();}
+ let g=prompt('group:','new')||'';let lg=prompt('logo url (optional):','')||'';
+ C.unshift({name:n,url:url,group:g,logo:lg,tvgid:''});render();}
 async function t(i){let st=document.getElementById('st'+i);st.textContent='...';
  let d=await(await fetch('/api/test',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:C[i].url})})).json();
  st.innerHTML=d.alive?'<span class=live>live</span>':'<span class=dead>dead('+d.status+')</span>';}
+async function play(i){let d=await(await fetch('/api/play',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:C[i].url})})).json();
+ if(!d.ok)document.getElementById('status').textContent='VLC error: '+(d.error||'');}
 async function testAll(){for(let i=0;i<C.length;i++){if(document.getElementById('st'+i))await t(i);}}
 async function save(){let d=await(await fetch('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({channels:C})})).json();
  document.getElementById('status').textContent='saved';}
@@ -127,4 +159,4 @@ if __name__ == "__main__":
     print(" Playlist Manager running")
     print(" Open: http://127.0.0.1:8080")
     print("="*50)
-    app.run(host="127.0.0.1", port=5500, debug=False)
+    app.run(host="127.0.0.1", port=8080, debug=False)
