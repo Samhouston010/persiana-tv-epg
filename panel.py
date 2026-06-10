@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
-import os, re, subprocess, shutil, requests
+import os, re, gzip, subprocess, shutil, requests
+import xml.etree.ElementTree as ET
 from flask import Flask, request, jsonify, Response
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 M3U_FILE = os.path.join(APP_DIR, "final.m3u")
+EPG_FILE = os.path.join(APP_DIR, "final.xml.gz")
 HDR = {"User-Agent": "Mozilla/5.0", "Referer": "https://telewebion.ir/"}
 app = Flask(__name__)
 
@@ -15,10 +17,9 @@ VLC_PATHS = [
 def find_vlc():
     for p in VLC_PATHS:
         if os.path.exists(p): return p
-    w = shutil.which("vlc")
-    return w if w else None
+    return shutil.which("vlc")
 
-def parse():
+def parse_m3u():
     if not os.path.exists(M3U_FILE): return []
     lines = open(M3U_FILE, encoding="utf-8").read().splitlines()
     ch, ext = [], None
@@ -33,7 +34,7 @@ def parse():
             ext = None
     return ch
 
-def write(ch):
+def write_m3u(ch):
     q = chr(34); out = ["#EXTM3U"]
     for c in ch:
         p = ["#EXTINF:-1"]
@@ -43,12 +44,47 @@ def write(ch):
         out.append(" ".join(p)+","+c["name"]); out.append(c["url"])
     open(M3U_FILE,"w",encoding="utf-8").write("\n".join(out)+"\n")
 
+def epg_map():
+    res = {}
+    if not os.path.exists(EPG_FILE): return res
+    try:
+        with gzip.open(EPG_FILE, "rb") as f:
+            tree = ET.parse(f)
+        for ch in tree.getroot().findall("channel"):
+            cid = ch.get("id","")
+            icon = ch.find("icon")
+            res[cid] = icon.get("src","") if icon is not None else ""
+    except Exception:
+        pass
+    return res
+
+def parse_m3u_text(text, fallback_group):
+    lines = text.splitlines()
+    ch, ext = [], None
+    for line in lines:
+        s = line.strip()
+        if s.startswith("#EXTINF"): ext = s
+        elif s and not s.startswith("#") and ext is not None:
+            def gv(k):
+                m = re.search(k + r'="([^"]*)"', ext); return m.group(1) if m else ""
+            g = gv("group-title") or fallback_group
+            ch.append({"name": ext.split(",",1)[-1].strip(), "logo": gv("tvg-logo"),
+                       "tvgid": gv("tvg-id"), "group": g, "url": s})
+            ext = None
+    return ch
+
 @app.route("/api/channels")
-def ch_api(): return jsonify(parse())
+def ch_api():
+    chans = parse_m3u()
+    em = epg_map()
+    for c in chans:
+        c["epg_logo"] = em.get(c["tvgid"], "")
+        c["has_epg"] = bool(c["tvgid"] and c["tvgid"] in em)
+    return jsonify(chans)
 
 @app.route("/api/save", methods=["POST"])
 def save_api():
-    write(request.get_json().get("channels", []))
+    write_m3u(request.get_json().get("channels", []))
     return jsonify({"ok": True})
 
 @app.route("/api/test", methods=["POST"])
@@ -67,11 +103,22 @@ def test_api():
 def play_api():
     url = request.get_json().get("url","")
     vlc = find_vlc()
-    if not vlc:
-        return jsonify({"ok": False, "error": "VLC not found"})
+    if not vlc: return jsonify({"ok": False, "error": "VLC not found"})
     try:
-        subprocess.Popen([vlc, url])
-        return jsonify({"ok": True})
+        subprocess.Popen([vlc, url]); return jsonify({"ok": True})
+    except Exception as e:
+        return jsonify({"ok": False, "error": str(e)})
+
+@app.route("/api/import", methods=["POST"])
+def import_api():
+    d = request.get_json()
+    url = d.get("url",""); name = d.get("name","import")
+    try:
+        r = requests.get(url, headers=HDR, timeout=25)
+        if r.status_code != 200 or "#EXT" not in r.text:
+            return jsonify({"ok": False, "error": "bad m3u (HTTP %s)" % r.status_code})
+        new = parse_m3u_text(r.text, name)
+        return jsonify({"ok": True, "channels": new, "count": len(new)})
     except Exception as e:
         return jsonify({"ok": False, "error": str(e)})
 
@@ -91,66 +138,95 @@ def index(): return Response(PAGE, mimetype="text/html")
 
 PAGE = r"""<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>Panel</title>
-<style>body{font-family:Tahoma;background:#0f1419;color:#e0e0e0;margin:0;padding:20px}
-h1{color:#2dd4bf;font-size:19px}.bar{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap;align-items:center}
-button{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:8px 13px;border-radius:8px;cursor:pointer;font-family:inherit}
-button:hover{background:#334155}.primary{background:#0d9488;border-color:#0d9488}.danger{background:#7f1d1d;border-color:#7f1d1d}
-.play{background:#1d4ed8;border-color:#1d4ed8}
-input,select{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:7px;border-radius:6px;font-family:inherit}
-table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:right;padding:6px;border-bottom:1px solid #1e293b;vertical-align:middle}
-th{color:#2dd4bf}tr:hover{background:#1a2332}.grp{color:#fbbf24}.live{color:#4ade80}.dead{color:#f87171}
-.small{font-size:11px;color:#94a3b8}#search{width:200px}
-img.logo{width:34px;height:34px;object-fit:contain;background:#000;border-radius:5px;border:1px solid #334155}
-.noimg{width:34px;height:34px;background:#1e293b;border-radius:5px;display:inline-block}</style></head><body>
+<style>body{font-family:Tahoma;background:#0f1419;color:#e0e0e0;margin:0;padding:18px}
+h1{color:#2dd4bf;font-size:19px}.bar{display:flex;gap:8px;margin:12px 0;flex-wrap:wrap;align-items:center}
+button{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:7px 12px;border-radius:8px;cursor:pointer;font-family:inherit;font-size:13px}
+button:hover{background:#334155}.primary{background:#0d9488;border-color:#0d9488}.danger{background:#7f1d1d;border-color:#7f1d1d}.play{background:#1d4ed8;border-color:#1d4ed8}
+input,select{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:6px;border-radius:6px;font-family:inherit;font-size:12px}
+.grphead{background:#13202e;padding:10px 14px;margin-top:8px;border-radius:8px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;border:1px solid #1e293b}
+.grphead:hover{background:#1a2a3a}.grphead .gname{color:#fbbf24;font-size:15px;font-weight:bold}
+.grphead .gcount{color:#94a3b8;font-size:12px}
+table{width:100%;border-collapse:collapse;font-size:12px}
+td{text-align:right;padding:5px;border-bottom:1px solid #1e293b;vertical-align:middle}
+tr:hover{background:#1a2332}.live{color:#4ade80}.dead{color:#f87171}.small{font-size:11px;color:#94a3b8}
+img.logo{width:30px;height:30px;object-fit:contain;background:#000;border-radius:5px;border:1px solid #334155;vertical-align:middle}
+.epgbadge{background:#0d9488;color:#fff;font-size:10px;padding:2px 6px;border-radius:4px}
+.noepg{color:#64748b;font-size:10px}</style></head><body>
 <h1>Playlist Manager - final.m3u</h1>
 <div class="bar"><input id="search" placeholder="search...">
-<select id="gf"><option value="">all groups</option></select>
-<button class="primary" onclick="add()">+ new</button>
-<button onclick="testAll()">test all</button>
+<button class="primary" onclick="add()">+ channel</button>
+<button class="primary" onclick="doImport()">import m3u</button>
+<button onclick="expandAll()">expand all</button>
+<button onclick="collapseAll()">collapse all</button>
 <button class="primary" onclick="save()">save</button>
 <button onclick="push()">save + push</button>
 <span id="status" class="small"></span></div>
-<table><thead><tr><th>#</th><th>name</th><th>logo</th><th>logo url / epg-id</th><th>group</th><th>url</th><th>status</th><th>act</th></tr></thead>
-<tbody id="rows"></tbody></table><script>
-let C=[];
+<div id="groups"></div>
+<script>
+let C=[], OPEN={};
 async function load(){C=await(await fetch('/api/channels')).json();render();}
-function grps(){return[...new Set(C.map(c=>c.group))].filter(Boolean);}
+function grps(){let o=[];C.forEach(c=>{if(!o.includes(c.group))o.push(c.group);});return o;}
 function render(){
- let gf=document.getElementById('gf'),cur=gf.value;
- gf.innerHTML='<option value="">all groups</option>'+grps().map(g=>'<option '+(g===cur?'selected':'')+'>'+g+'</option>').join('');
- let q=document.getElementById('search').value.toLowerCase(),fg=gf.value,tb=document.getElementById('rows');tb.innerHTML='';
- C.forEach((c,i)=>{if(q&&!c.name.toLowerCase().includes(q))return;if(fg&&c.group!==fg)return;
-  let tr=document.createElement('tr');
-  let img=c.logo?('<img class=logo src="'+esc(c.logo)+'" onerror="this.style.display=0xa">'):'<span class=noimg></span>';
-  tr.innerHTML='<td>'+(i+1)+'</td>'+
-  '<td><input value="'+esc(c.name)+'" onchange="u('+i+",'name',this.value)\" style=\"width:130px\"></td>"+
-  '<td>'+img+'</td>'+
-  '<td><input value="'+esc(c.logo)+'" onchange="u('+i+",'logo',this.value);render()\" style=\"width:160px\" class=\"small\" placeholder=\"logo url\"><br><input value=\""+esc(c.tvgid)+'" onchange="u('+i+",'tvgid',this.value)\" style=\"width:160px;margin-top:3px\" class=\"small\" placeholder=\"epg tvg-id\"></td>"+
-  '<td><input value="'+esc(c.group)+'" onchange="u('+i+",'group',this.value)\" class=\"grp\" style=\"width:100px\"></td>"+
-  '<td><input value="'+esc(c.url)+'" onchange="u('+i+",'url',this.value)\" style=\"width:220px\" class=\"small\"></td>"+
-  '<td id="st'+i+'" class="small">-</td>'+
-  '<td><button class="play" onclick="play('+i+')">play</button> <button onclick="t('+i+')">test</button> <button class="danger" onclick="d('+i+')">del</button></td>';
-  tb.appendChild(tr);});
- document.getElementById('status').textContent=C.length+' channels';}
+ let q=document.getElementById('search').value.toLowerCase();
+ let box=document.getElementById('groups');box.innerHTML='';
+ grps().forEach(g=>{
+  let items=C.map((c,i)=>[c,i]).filter(x=>x[0].group===g&&(!q||x[0].name.toLowerCase().includes(q)));
+  if(items.length===0)return;
+  let head=document.createElement('div');head.className='grphead';
+  head.innerHTML='<span class="gname">'+(OPEN[g]?'\u25bc ':'\u25b6 ')+esc(g)+'</span><span class="gcount">'+items.length+' channels</span>';
+  head.onclick=()=>{OPEN[g]=!OPEN[g];render();};
+  box.appendChild(head);
+  if(OPEN[g]){
+   let tbl=document.createElement('table');
+   items.forEach(([c,i])=>{
+    let tr=document.createElement('tr');
+    let img=c.logo?('<img class=logo src="'+esc(c.logo)+'">'):'';
+    let epg=c.has_epg?'<span class=epgbadge>EPG</span>':'<span class=noepg>no epg</span>';
+    tr.innerHTML='<td>'+img+'</td>'+
+    '<td><input value="'+esc(c.name)+'" onchange="u('+i+",'name',this.value)\" style=\"width:120px\"></td>"+
+    '<td>'+epg+'</td>'+
+    '<td><input value="'+esc(c.logo)+'" onchange="u('+i+",'logo',this.value);render()\" class=small style=\"width:140px\" placeholder=\"logo m3u\"></td>"+
+    '<td><input value="'+esc(c.tvgid)+'" onchange="u('+i+",'tvgid',this.value)\" class=small style=\"width:110px\" placeholder=\"epg tvg-id\"></td>"+
+    '<td>'+(c.epg_logo?('<img class=logo src="'+esc(c.epg_logo)+'" title="epg logo">'):'<span class=noepg>-</span>')+'</td>'+
+    '<td><input value="'+esc(c.url)+'" onchange="u('+i+",'url',this.value)\" class=small style=\"width:200px\"></td>"+
+    '<td id="st'+i+'" class=small>-</td>'+
+    '<td><button class=play onclick="play('+i+')">play</button> <button onclick="t('+i+')">test</button> <button class=danger onclick="d('+i+')">del</button></td>';
+    tbl.appendChild(tr);
+   });
+   box.appendChild(tbl);
+  }
+ });
+ document.getElementById('status').textContent=C.length+' channels / '+grps().length+' groups';
+}
 function esc(s){return(s||'').replace(/"/g,'&quot;');}
 function u(i,k,v){C[i][k]=v;}
 function d(i){if(confirm('delete '+C[i].name+'?')){C.splice(i,1);render();}}
+function expandAll(){grps().forEach(g=>OPEN[g]=true);render();}
+function collapseAll(){OPEN={};render();}
 function add(){let n=prompt('name:');if(!n)return;let url=prompt('url:');if(!url)return;
  let g=prompt('group:','new')||'';let lg=prompt('logo url (optional):','')||'';
- C.unshift({name:n,url:url,group:g,logo:lg,tvgid:''});render();}
-async function t(i){let st=document.getElementById('st'+i);st.textContent='...';
+ C.push({name:n,url:url,group:g,logo:lg,tvgid:'',epg_logo:'',has_epg:false});OPEN[g]=true;render();}
+async function doImport(){
+ let url=prompt('m3u link to import:');if(!url)return;
+ let name=prompt('group name (used only if channels have no group):','new source')||'new';
+ document.getElementById('status').textContent='importing...';
+ let d=await(await fetch('/api/import',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url,name:name})})).json();
+ if(!d.ok){document.getElementById('status').textContent='import error: '+d.error;return;}
+ d.channels.forEach(c=>{c.epg_logo='';c.has_epg=false;C.push(c);});
+ document.getElementById('status').textContent='imported '+d.count+' channels (remember to save)';
+ render();
+}
+async function t(i){let st=document.getElementById('st'+i);if(!st)return;st.textContent='...';
  let d=await(await fetch('/api/test',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:C[i].url})})).json();
  st.innerHTML=d.alive?'<span class=live>live</span>':'<span class=dead>dead('+d.status+')</span>';}
 async function play(i){let d=await(await fetch('/api/play',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:C[i].url})})).json();
  if(!d.ok)document.getElementById('status').textContent='VLC error: '+(d.error||'');}
-async function testAll(){for(let i=0;i<C.length;i++){if(document.getElementById('st'+i))await t(i);}}
-async function save(){let d=await(await fetch('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({channels:C})})).json();
+async function save(){await fetch('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({channels:C})});
  document.getElementById('status').textContent='saved';}
 async function push(){await save();document.getElementById('status').textContent='pushing...';
  let d=await(await fetch('/api/push',{method:'POST'})).json();
  document.getElementById('status').textContent=d.ok?'pushed to github':'error';}
 document.getElementById('search').addEventListener('input',render);
-document.getElementById('gf').addEventListener('change',render);
 load();
 </script></body></html>"""
 
