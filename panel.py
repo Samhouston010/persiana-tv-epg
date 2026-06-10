@@ -138,6 +138,44 @@ def push_api():
     except Exception as e:
         return jsonify({"ok": False, "error": str(e)})
 
+
+@app.route("/api/inspect", methods=["POST"])
+def inspect_api():
+    url = request.get_json().get("url","")
+    try:
+        r = requests.get(url, headers=HDR, timeout=25)
+        if r.status_code != 200 or "#EXT" not in r.text:
+            return jsonify({"ok": False, "error": "bad m3u (HTTP %s)" % r.status_code})
+        chans = parse_m3u_text(r.text, "imported")
+        return jsonify({"ok": True, "channels": chans, "count": len(chans)})
+    except Exception as e:
+        return jsonify({"ok": False, "error": str(e)})
+
+@app.route("/api/quality", methods=["POST"])
+def quality_api():
+    url = request.get_json().get("url","")
+    try:
+        r = requests.get(url, headers=HDR, timeout=12, allow_redirects=True)
+        if r.status_code != 200:
+            return jsonify({"alive": False, "status": r.status_code, "quality": "-"})
+        body = r.text
+        quals = []
+        if "#EXT-X-STREAM-INF" in body:
+            for line in body.splitlines():
+                m = re.search(r"RESOLUTION=(\d+x\d+)", line)
+                if m: quals.append(m.group(1))
+            qtxt = "adaptive: " + ", ".join(quals) if quals else "adaptive"
+        elif "#EXTINF" in body or "#EXTM3U" in body:
+            qtxt = "single"
+        else:
+            qtxt = "raw"
+        return jsonify({"alive": True, "status": 200, "quality": qtxt})
+    except Exception as e:
+        return jsonify({"alive": False, "status": type(e).__name__, "quality": "-"})
+
+@app.route("/lab")
+def lab_page(): return Response(LAB, mimetype="text/html")
+
 @app.route("/")
 def index(): return Response(PAGE, mimetype="text/html")
 
@@ -166,6 +204,7 @@ input[type=checkbox]{width:16px;height:16px}</style></head><body>
 <button class="dl" onclick="dlSelected()">download selected (<span id=selcount>0</span>)</button>
 <button class="primary" onclick="save()">save</button>
 <button onclick="push()">save + push</button>
+<button class="primary" onclick="location.href='/lab'">link lab</button>
 <span id="status" class="small"></span></div>
 <div id="groups"></div>
 <script>
@@ -208,7 +247,7 @@ function render(){
  document.getElementById('selcount').textContent=selcount();
 }
 function esc(s){return(s||'').replace(/"/g,'&quot;');}
-function u(i,k,v){C.find(x=>x._id===i)[k]=v;}
+function u(i,k,v){C[i][k]=v;}
 function sel(i,v){SEL[i]=v;document.getElementById('selcount').textContent=selcount();}
 function toggle(g){OPEN[g]=!OPEN[g];render();}
 function renameGroup(oldg){
@@ -217,7 +256,7 @@ function renameGroup(oldg){
  OPEN[n]=true;render();
  document.getElementById('status').textContent='group renamed (remember to save)';
 }
-function d(i){let c=C.find(x=>x._id===i);if(confirm('delete '+c.name+'?')){C=C.filter(x=>x._id!==i);delete SEL[i];render();}}
+function d(i){if(confirm('delete '+C[i].name+'?')){C=C.filter(c=>c._id!==i);delete SEL[i];render();}}
 function expandAll(){grps().forEach(g=>OPEN[g]=true);render();}
 function collapseAll(){OPEN={};render();}
 function add(){let n=prompt('name:');if(!n)return;let url=prompt('url:');if(!url)return;
@@ -255,6 +294,55 @@ async function push(){await save();document.getElementById('status').textContent
  document.getElementById('status').textContent=d.ok?'pushed to github':'error';}
 document.getElementById('search').addEventListener('input',render);
 load();
+</script></body></html>"""
+
+
+LAB = r"""<!DOCTYPE html><html lang="fa" dir="rtl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Link Lab</title>
+<style>body{font-family:Tahoma;background:#0f1419;color:#e0e0e0;margin:0;padding:18px}
+h1{color:#a78bfa;font-size:19px}.bar{display:flex;gap:8px;margin:12px 0;flex-wrap:wrap;align-items:center}
+button{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:7px 12px;border-radius:8px;cursor:pointer;font-family:inherit;font-size:13px}
+button:hover{background:#334155}.primary{background:#7c3aed;border-color:#7c3aed}.play{background:#1d4ed8;border-color:#1d4ed8}
+input{background:#1e293b;color:#e0e0e0;border:1px solid #334155;padding:8px;border-radius:6px;font-family:inherit;font-size:13px}
+#u{width:420px}
+table{width:100%;border-collapse:collapse;font-size:12px;margin-top:10px}
+th,td{text-align:right;padding:6px;border-bottom:1px solid #1e293b;vertical-align:middle}th{color:#a78bfa}
+tr:hover{background:#1a2332}.live{color:#4ade80}.dead{color:#f87171}.small{font-size:11px;color:#94a3b8}
+img.logo{width:30px;height:30px;object-fit:contain;background:#000;border-radius:5px;border:1px solid #334155}</style></head><body>
+<h1>Link Lab - inspect any m3u (nothing is added to your list)</h1>
+<div class="bar">
+<input id="u" placeholder="paste m3u link here...">
+<button class="primary" onclick="inspect()">inspect</button>
+<button onclick="testAll()">test all</button>
+<button onclick="location.href='/'">back to panel</button>
+<span id="status" class="small"></span></div>
+<table><thead><tr><th>#</th><th>logo</th><th>name</th><th>group</th><th>url</th><th>quality</th><th>status</th><th>play</th></tr></thead><tbody id="rows"></tbody></table>
+<script>
+let L=[];
+async function inspect(){
+ let url=document.getElementById('u').value.trim();if(!url)return;
+ document.getElementById('status').textContent='loading...';
+ let d=await(await fetch('/api/inspect',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})).json();
+ if(!d.ok){document.getElementById('status').textContent='error: '+d.error;return;}
+ L=d.channels;render();document.getElementById('status').textContent=d.count+' channels found';
+}
+function esc(s){return(s||'').replace(/"/g,'&quot;');}
+function render(){let tb=document.getElementById('rows');tb.innerHTML='';
+ L.forEach((c,i)=>{let tr=document.createElement('tr');
+  let img=c.logo?('<img class=logo src="'+esc(c.logo)+'">'):'';
+  tr.innerHTML='<td>'+(i+1)+'</td><td>'+img+'</td><td>'+esc(c.name)+'</td><td>'+esc(c.group)+'</td>'+
+  '<td class=small style="max-width:240px;word-break:break-all">'+esc(c.url)+'</td>'+
+  '<td id="q'+i+'" class=small>-</td><td id="s'+i+'" class=small>-</td>'+
+  '<td><button class=play onclick="play('+i+')">play</button></td>';
+  tb.appendChild(tr);});
+}
+async function chk(i){let s=document.getElementById('s'+i),q=document.getElementById('q'+i);if(!s)return;s.textContent='...';
+ let d=await(await fetch('/api/quality',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:L[i].url})})).json();
+ s.innerHTML=d.alive?'<span class=live>live</span>':'<span class=dead>dead('+d.status+')</span>';q.textContent=d.quality||'-';
+}
+async function testAll(){for(let i=0;i<L.length;i++)await chk(i);}
+async function play(i){let d=await(await fetch('/api/play',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:L[i].url})})).json();
+ if(!d.ok)document.getElementById('status').textContent='VLC error: '+(d.error||'');}
 </script></body></html>"""
 
 if __name__ == "__main__":
