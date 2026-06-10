@@ -1,0 +1,682 @@
+[
+  {
+    "name": "شبکه 1",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default",
+    "telewebion_slug": "tv1",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "شبکه 2",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/MzYyMzM1NmVhYjc5MmZlY2ZmNzJlMGY3ZmJjZjc5Y2UwNDkyODQxNDU4YzU5MjE0MzFlYjg4NWM4NDZiNzA5NA/default",
+    "telewebion_slug": "tv2",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "شبکه 3",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default",
+    "telewebion_slug": "tv3",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "شبکه 4",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default",
+    "telewebion_slug": "tv4",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خبر",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
+    "telewebion_slug": "irinn",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "نسیم",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default",
+    "telewebion_slug": "nasim",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "ورزش",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default",
+    "telewebion_slug": "varzesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تماشا",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/N2ZjYjI0ZWFmMDdhZTk0MTljZjg5NDI1MjVhYzFjNThiNWU4NDVlMjJlYTI4MWRkMjI1Mjc2YmJmN2FiMzVjYw/default",
+    "telewebion_slug": "hdtest",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "پویا",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/Y2U2NGUwOTYxMjczYzIwNjQwNDEzMzI0YTY0OWRlYjQ2NTU4NjYyYzg5MjIwOWZkZTUyOGE1ZmRiNjMwZjA4ZA/default",
+    "telewebion_slug": "pooya",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "IFilm",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default",
+    "telewebion_slug": "ifilm",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "نمایش",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default",
+    "telewebion_slug": "namayesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "شبکه تهران",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/NzQyZGZmZmI2MTlkZmYxZTdkMzFjNmVlYzY3MzdmNTJkNzZmYTZkOGYxM2U5YjJmMjk2NGQyMDhmZWMyYjY2Yw/default",
+    "telewebion_slug": "tehran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "مستند",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default",
+    "telewebion_slug": "mostanad",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "قرآن",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default",
+    "telewebion_slug": "quran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "آموزش",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/80849bee-6fb3-4e82-8047-da2ead8b61bf/default",
+    "telewebion_slug": "amouzesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "سلامت",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/b24edd34-d2ef-4c18-9f95-7978c719ead6/default",
+    "telewebion_slug": "salamat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "افق",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/OTc3YjJkNzk0MmJjMjkxMTRmNjk2MmNhNTdiNGNkNjMxNjE2NWU1ZDI5MzlhMjI0MzZiYzljNDVkMjRkZTkxMA/default",
+    "telewebion_slug": "ofogh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "امید",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/NzRjZTk4ZmFjMGNlNzMzMjM2N2JjYWE1YTFmYmVkOTMzYTVmNzgzNzk1ZGZlMDJiMGM5NzU1YTM3NDkyZmY0Zg/default",
+    "telewebion_slug": "omid",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خبر 2",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/0a85d80d-6380-4fe4-b23f-23a2615a411e/default",
+    "telewebion_slug": "irinn2",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "آذربایجان غربی",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/b1a30927-c269-4c05-a02f-d6056d59eae7/default",
+    "telewebion_slug": "azarbayjangharbi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "سهند",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NjQ0MTQyODE5ZTYzZmZjNTliNTBmY2I2NDk1MjczM2JlOTk1NTljYWExODY0ZjFiMWU0OTZiY2Y4OTc4MjQ4MQ/default",
+    "telewebion_slug": "sahand",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "البرز",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/f38a5e88-f85d-4b1e-a102-74b0889cae33/default",
+    "telewebion_slug": "alborz",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "اصفهان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/YTM3Zjk1NjI2NDljM2Q0NjA3ZGY2OGJkMTFhNDU4MjRmOWFkZDc5MGMwYThjZTVjN2UxYWQ0MWEwOTFlNGNkOQ/default",
+    "telewebion_slug": "esfahan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "سبلان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/Njg3ZWFiNjYzNzc4ZWE3MmVhZjUyMDFmNzFkZGY5NGNiNGUyN2UyZjgwY2I3ZGUxZWMxM2M4ZjYzYWEwODgzZQ/default",
+    "telewebion_slug": "sabalan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "ایلام",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZjZmYWFkMDdlY2Q1Nzg1OGI5YTEzNjk2NDBjODc4Njk1YzNiY2U5ODRmODRkNDA1Mzk4M2IwNzY3MjIwMzQ2MQ/default",
+    "telewebion_slug": "ilam",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "بوشهر",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/Y2NmODlmYjdiOWM0MTVmMGU0ZjM5NGEwOGIxMDliZjg0MjhmMTU3MDNlNzViZDJjNDMzNWQ2OTkzNzc0N2MxZA/default",
+    "telewebion_slug": "bushehr",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "جهانبین",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default",
+    "telewebion_slug": "jahanbin",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "آبادان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/Y2ZmOWFkZDdhNmJjNzE1NjM3OTk3ZGQ1NGJlOTM0NWUzODUyZWUxZDdhYjg4YWM5ZDUwMzllMTJhNjkyOWRjNg/default",
+    "telewebion_slug": "abadan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خراسان رضوی",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/YzExZDIzZDJmOTQyMDMzYTdmMThiY2U2YTk5ZTA1NjBkOTc4ZjNiMGVhNDQ4YjI0YTkxOTE4NmQyYzQ1NjRlYw/default",
+    "telewebion_slug": "khorasanrazavi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "اترک",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/c059616c-053f-4044-baf1-4444c7101161/default",
+    "telewebion_slug": "atrak",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خلیج فارس",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/OWNlMTMxMzA4YTA2Y2NjZDhiMGVhNmQwYzE2YTc2OGI2ZTQ3MTRlYmU5ZjFhOWMzNzU4YmNkYTlkOWI1NmQ3Yg/default",
+    "telewebion_slug": "khalijefars",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خوزستان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default",
+    "telewebion_slug": "khoozestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "اشراق",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/Yjc3NjRhMGJiZWJiNTk1ZDM5MDU3ODZlMTcyNmQ1YjMxMDkyNWVhYzYyNzQ4NDQ5MzM2OTFjZTEzMWU4NmMzNQ/default",
+    "telewebion_slug": "eshragh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "سمنان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/OTM3YWVhYmU4NDgzOWRlMWY1ZTI0ODYyNzgyOWJiZGFkOWU5NzBjMjQ2NDY2ZWQ0MmFjZGQ2MjRkOGNiMWEzOQ/default",
+    "telewebion_slug": "semnan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "هامون",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZTY4OThmNTUxNmNhZmNlOThjMzk0MzYyZDBlMWVkNTg1MGJkZGRiMTdmYzNlNDY0ZGM1ZTc5NTU4OGE1NDc3MQ/default",
+    "telewebion_slug": "hamoon",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "فارس",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/177dcbe7-db46-45cb-956c-784bde0b4a2e/default",
+    "telewebion_slug": "fars",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "قزوین",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NzFjZGViYWEzZjFkYjVkZTc2MDE0NzBjZDA5N2E5YjZmNDFmNmI0YzA1YzgxMjQ0Y2U5MDQ1MmE5ODdiNzAwMw/default",
+    "telewebion_slug": "qazvin",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "نور",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/OTQzMjA1YTA1OTVjYmIxZjExYjZjYjk3ZjgzOWE1YmYwOTM3YzY1YzIyMmM3NzZmYWQwNjBmZDhkMjU0NDkwNw/default",
+    "telewebion_slug": "noor",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "لرستان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/f44138b1-62ac-4c87-80c9-d20516ae2007/default",
+    "telewebion_slug": "aflak",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "کرمان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ODE1YWIxNjcxYTU1NWM2YmJkYmRkNzE5OGJiOTQ0YmEyNzhjMDBkMGU2N2MwOTlhMGFjYzZhYjc1MjRjM2E5OA/default",
+    "telewebion_slug": "kerman",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "زاگرس",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZDcwNjM3MjMwODE0MzdlNDQ5YTEzNTZjMGE5MzMwNjBkOTcwOTRmNDE3YmZmMmQxNGM2MDI5MjI2MWFlZWM5MA/default",
+    "telewebion_slug": "zagros",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "دنا",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ODZhMTE0Y2FmNzk4MzIxMTVhY2UxNjI0ZGY5MmI3Y2NhMzY3ZDE3ZDA4MjgzYmZhZTU2ODhjYmUyOGQ2ZTUzNw/default",
+    "telewebion_slug": "dena",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "کیش",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NWI5MDUzZTJhOTZlOThmOTgzZDQyMmNiYzVlYjhiZGUyOWY3OTg2NDM5YjUwOWVmMDU3OGEwYjVjZDQ0NjU2NQ/default",
+    "telewebion_slug": "kish",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "گلستان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/MDFiMjQwMTlkMGM3OGNkZWM2ZmFmODM4MGI1YWYyZWM5N2UxOTkxYjUxMjRlMWYyNzVkNTQyOGVkZWFlMTZkMw/default",
+    "telewebion_slug": "sabz",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "باران",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZGM5ODhlYWY4NTE4YWRiMDg1OTk2Yzg4OWI1ODc1YWNmYzhhM2VkNThiYmM2ZjczM2U0Njk4OWU4N2Q4ZWQ3Zg/default",
+    "telewebion_slug": "baran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "کردستان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZTFiYWUwYTkzZmQ3OWU3Y2VmMzgwYTBiMGRjZTE5ZmFkOTUwNmY0N2JkNWNlZDRkMDZiMmQzYzhkOTZmZjIwNw/default",
+    "telewebion_slug": "kordestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "یزد",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/MmVhYzA4YWU1NTkxMmIzNTE1MWY2MmM4YTE5OWQyMzRjZDViM2JhMWQ2MGU1NTIxMzNjMzYzNjYzYjMyYjMxOQ/default",
+    "telewebion_slug": "taban",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تبرستان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZWZlOGFhZWM3ZDI4MDVmZWVjZDhkNWJjMjliZDYwOGZiMDkyYTA2NzIzNTQ5NDBiYmU2NThiYzA4MDEwMWJlMQ/default",
+    "telewebion_slug": "tabarestan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "آفتاب",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/86b54cc3-4955-46c6-a0f5-9db1fe1160ae/default",
+    "telewebion_slug": "aftab",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "مهاباد",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/YmQyYmI3ZGY1YWQ4YjViODgyZGM5ZTQyOTI4NmM2MzBmNWMzMjM1MzQ2ZWYwMDg4NjQ1M2JiNTFiNjA3YjM2Zg/default",
+    "telewebion_slug": "mahabad",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "همدان",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NTlmNTJkOGUyOTMwZjAxNmJhODAwMjdmYTkxNzM4NTIyZjg2ZWI4YTc4MTUzOThkMGEzNTI5N2ZkZjM0YTY3Ng/default",
+    "telewebion_slug": "sina",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خاوران",
+    "tvg_id": "",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NWE2YjUwNDhlMTYwM2U4MjdjNjRhY2E0Yjg0NGYzMGYwMzBjN2E5OTNjNWViMjRhNWFlMWI0OTYwOWVmZGVhMA/default",
+    "telewebion_slug": "khavaran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "مثبت یک",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/1a4aba4f-bb6e-410c-b3e9-79dcf0136938/default",
+    "telewebion_slug": "tv1plus",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "حبیب",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default",
+    "telewebion_slug": "habib",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "گلخانه",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default",
+    "telewebion_slug": "golkhane",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "لبیک",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default",
+    "telewebion_slug": "labbayk",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رویا",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
+    "telewebion_slug": "iribu",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رضوی",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default",
+    "telewebion_slug": "razavi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تکیه مداحی ",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default",
+    "telewebion_slug": "tekyemadahi",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "انرژی",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default",
+    "telewebion_slug": "baenergy",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "ولایت",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default",
+    "telewebion_slug": "velayat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تلوبیون اسپرت 1",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/7bc81b96-3a06-4d5a-9349-a3ed837e3f0f/default",
+    "telewebion_slug": "sport1",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تلوبیون اسپرت 2",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/1e069759-9dc0-47bd-b95c-9ea1891849ee/default",
+    "telewebion_slug": "sport2",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "تلوبیون اسپرت 3",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/b3f16501-cca7-415c-8069-79de502eeeba/default",
+    "telewebion_slug": "sport3",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "فلسطین",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/c60682d2-7f57-43d1-934d-268da20d1846/default",
+    "telewebion_slug": "palestine",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "نصف جهان",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/b7e08873-2f50-4d6b-86cf-e4be4177852c/default",
+    "telewebion_slug": "nesfejahan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "الکوثر",
+    "tvg_id": "",
+    "group": "بین‌المللی",
+    "logo": "https://static.telewebion.ir/channelsLogo/NGViODhkMWM0MzFiMzI4MDE0YWJmMDI3NDYzMmY0ZWRhMzJhMmEzODJmMjhlMjYwNjc2MjM3ZDkxNjlhNTg3Zg/default",
+    "telewebion_slug": "kawthar",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "پرس تی‌وی",
+    "tvg_id": "",
+    "group": "بین‌المللی",
+    "logo": "https://static.telewebion.ir/channelsLogo/efcb8d29-8ff5-47f7-926e-ad4a1a577c15/default",
+    "telewebion_slug": "presstv",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "العالم",
+    "tvg_id": "",
+    "group": "بین‌المللی",
+    "logo": "https://static.telewebion.ir/channelsLogo/0dbbf481-899d-484b-84cb-4c83c5aca4a0/default",
+    "telewebion_slug": "alalam",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو آوا",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/ODk2OGQ4OGUzODRiYTVkYTNkZTk1ODcxNDdmY2NhOTdjNjdiMmFjM2Q1NDljMzY5YjZkODFjZTU4MGQxNmE4YQ/default",
+    "telewebion_slug": "radioava",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو گفتگو",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/YThmMDY0MTQ4MWEzNzdjNDUxNmJhZjdlODNjNWY4ODNkMmQzNDI4OTBhYjYyZDgyZDI0MDdlMzU4MTlmOWZmZQ/default",
+    "telewebion_slug": "radiogoftogo",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو معارف",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MzQ3NmE5NjZiYTY1Y2NjNTlmODk3ZmRjNDc1OTVjNWEyMTM5Mzc3MThiMjExYTU3Y2I5OGZlZDE5OThlNTE3MA/default",
+    "telewebion_slug": "radiomaaref",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو قرآن ",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MDE1ZjBhNzk0ZDJlNjRmY2IyNGRmY2E2MDMzOGEwYTI4N2EwZTIwYWZmODBiNGZjODE4ZGYwNGM2YTVkNjdkYw/default",
+    "telewebion_slug": "radioquran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو ورزش",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/YjZlMmQyMmM3MDkxNmRkOTYwNWM3MDBmM2FmOGEyZWRjNTE5NjliN2Y2Njc5N2JlNjY4NTZmYTMzOWE2ZTc4Yw/default",
+    "telewebion_slug": "radiovarzesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو اقتصاد",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MjdiMjY4YzEzYmI2ZjY1OWQ1NzRlZGY2NTNiYzBkMTMxOTFjZDMyOWJmYWU1MGM1YTc1ODRlNDUwNTIyOGRlNA/default",
+    "telewebion_slug": "radioeghtesad",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو ایران",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MGJkNGU4MTYzOWE3MGQ5NmU2ODk0Yzc5OGRhOTNjOTk2MTllNjAwYmYyMzE0NjUyMTg0ZDZhMTQwZDMzZDhhNQ/default",
+    "telewebion_slug": "radioiran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو نمایش",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/ZmNjYWM4YWFkM2VhMmJiMWY1NzRhMWVmY2VlODljZWFmYWZiZGY4NWQ0OTAxYmU2YjQ3OGFlNjk0YTU1YTc4YQ/default",
+    "telewebion_slug": "radionamayesh",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو صبا",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/NDAyZGMwOTgyNTZmMTNlNDRmNjJkMWUzZTlhNmEwMzJiODhmZmFiNTIzZDRiMTVhNDA0MDZlYTljOGM3Y2MyNQ/default",
+    "telewebion_slug": "radiosaba",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو تهران",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/6bd4f383-6b4d-45b6-b69c-5e030a93a042/default",
+    "telewebion_slug": "radiotehran",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو زیارت",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MjRhZTBhMDU2YmJmMDVlN2RjNTAyZDMyMjc5ZTlmMDg4ZjU0ZDJiM2Y2Yzk3ZTMzMDY4YTQxNjdlNWY1NjJmMA/default",
+    "telewebion_slug": "radioziarat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو فرهنگ",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/2016a911-5b68-4e64-a68b-b130fc065546/default",
+    "telewebion_slug": "radiofarhang",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو جوان",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/YzFkOTVmNDI3NTI4MDkzYTEwMWQzNDIyNzhhZmM3NzhmMzc4MTExOTVjYzJmYzI1OWMwOTE5MzM0ZTVkZTVjYQ/default",
+    "telewebion_slug": "radiojavan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو پیام",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/OGRiM2I1ZjY3ZmNlOTdlMTgwYjk1MTg1YWY3MDYyYWIwMzZiYzJjNzgzNTViYTIzYWMwNTg3MzFlYjRmZTNhNQ/default",
+    "telewebion_slug": "radiopayam",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو سلامت",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/MTFkZDZlMWM2OTJlYWJiZDFkMWZjZTc2ZmRjYmJiODhlOTUzNWZiN2MzYWFhNGExOTk4ZjBhYzA3ZmEwOGY4Mw/default",
+    "telewebion_slug": "radiosalamat",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "رادیو ترتیل",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/YjAxZWZlYzljYTdkOGUwY2FkMjIzZjUzM2EyODkwMDkwMmQzOGViODAzYTFlYWMyZTlkYjIyNzI3YzZhZGVmNg/default",
+    "telewebion_slug": "radiotartil",
+    "sepehr_channel_id": null
+  }
+]

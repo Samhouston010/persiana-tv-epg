@@ -1,0 +1,40 @@
+name: GEM Group Auto Update
+
+on:
+  schedule:
+    - cron: '30 */6 * * *'   # har 6 saat
+  workflow_dispatch:          # ejra-ye dasti az tab-e Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-gem:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run GEM updater
+        run: python gem_updater.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add gem.m3u gem_cache.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Auto-update GEM playlist"
+            git pull --rebase origin main || true
+            git push
+          fi
