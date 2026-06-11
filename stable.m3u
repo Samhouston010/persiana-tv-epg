@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-06-11 16:11 UTC
+# Generated 2026-06-11 18:42 UTC
 
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه 1" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
@@ -141,17 +141,23 @@ https://ncdn.telewebion.ir/alalam/live/playlist.m3u8
 https://ncdn.telewebion.ir/radioava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو گفتگو" tvg-logo="https://static.telewebion.ir/channelsLogo/YThmMDY0MTQ4MWEzNzdjNDUxNmJhZjdlODNjNWY4ODNkMmQzNDI4OTBhYjYyZDgyZDI0MDdlMzU4MTlmOWZmZQ/default" group-title="تلوبیون",رادیو گفتگو
 https://ncdn.telewebion.ir/radiogoftogo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو معارف" tvg-logo="https://static.telewebion.ir/channelsLogo/MzQ3NmE5NjZiYTY1Y2NjNTlmODk3ZmRjNDc1OTVjNWEyMTM5Mzc3MThiMjExYTU3Y2I5OGZlZDE5OThlNTE3MA/default" group-title="تلوبیون",رادیو معارف
+https://ncdn.telewebion.ir/radiomaaref/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو قرآن " tvg-logo="https://static.telewebion.ir/channelsLogo/MDE1ZjBhNzk0ZDJlNjRmY2IyNGRmY2E2MDMzOGEwYTI4N2EwZTIwYWZmODBiNGZjODE4ZGYwNGM2YTVkNjdkYw/default" group-title="تلوبیون",رادیو قرآن 
 https://ncdn.telewebion.ir/radioquran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو ورزش" tvg-logo="https://static.telewebion.ir/channelsLogo/YjZlMmQyMmM3MDkxNmRkOTYwNWM3MDBmM2FmOGEyZWRjNTE5NjliN2Y2Njc5N2JlNjY4NTZmYTMzOWE2ZTc4Yw/default" group-title="تلوبیون",رادیو ورزش
 https://ncdn.telewebion.ir/radiovarzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="رادیو نمایش" tvg-logo="https://static.telewebion.ir/channelsLogo/ZmNjYWM4YWFkM2VhMmJiMWY1NzRhMWVmY2VlODljZWFmYWZiZGY4NWQ0OTAxYmU2YjQ3OGFlNjk0YTU1YTc4YQ/default" group-title="تلوبیون",رادیو نمایش
-https://ncdn.telewebion.ir/radionamayesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو اقتصاد" tvg-logo="https://static.telewebion.ir/channelsLogo/MjdiMjY4YzEzYmI2ZjY1OWQ1NzRlZGY2NTNiYzBkMTMxOTFjZDMyOWJmYWU1MGM1YTc1ODRlNDUwNTIyOGRlNA/default" group-title="تلوبیون",رادیو اقتصاد
+https://ncdn.telewebion.ir/radioeghtesad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو ایران" tvg-logo="https://static.telewebion.ir/channelsLogo/MGJkNGU4MTYzOWE3MGQ5NmU2ODk0Yzc5OGRhOTNjOTk2MTllNjAwYmYyMzE0NjUyMTg0ZDZhMTQwZDMzZDhhNQ/default" group-title="تلوبیون",رادیو ایران
+https://ncdn.telewebion.ir/radioiran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو صبا" tvg-logo="https://static.telewebion.ir/channelsLogo/NDAyZGMwOTgyNTZmMTNlNDRmNjJkMWUzZTlhNmEwMzJiODhmZmFiNTIzZDRiMTVhNDA0MDZlYTljOGM3Y2MyNQ/default" group-title="تلوبیون",رادیو صبا
+https://ncdn.telewebion.ir/radiosaba/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو تهران" tvg-logo="https://static.telewebion.ir/channelsLogo/6bd4f383-6b4d-45b6-b69c-5e030a93a042/default" group-title="تلوبیون",رادیو تهران
 https://ncdn.telewebion.ir/radiotehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو فرهنگ" tvg-logo="https://static.telewebion.ir/channelsLogo/2016a911-5b68-4e64-a68b-b130fc065546/default" group-title="تلوبیون",رادیو فرهنگ
 https://ncdn.telewebion.ir/radiofarhang/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="رادیو پیام" tvg-logo="https://static.telewebion.ir/channelsLogo/OGRiM2I1ZjY3ZmNlOTdlMTgwYjk1MTg1YWY3MDYyYWIwMzZiYzJjNzgzNTViYTIzYWMwNTg3MzFlYjRmZTNhNQ/default" group-title="تلوبیون",رادیو پیام
-https://ncdn.telewebion.ir/radiopayam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو سلامت" tvg-logo="https://static.telewebion.ir/channelsLogo/MTFkZDZlMWM2OTJlYWJiZDFkMWZjZTc2ZmRjYmJiODhlOTUzNWZiN2MzYWFhNGExOTk4ZjBhYzA3ZmEwOGY4Mw/default" group-title="تلوبیون",رادیو سلامت
+https://ncdn.telewebion.ir/radiosalamat/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو ترتیل" tvg-logo="https://static.telewebion.ir/channelsLogo/YjAxZWZlYzljYTdkOGUwY2FkMjIzZjUzM2EyODkwMDkwMmQzOGViODAzYTFlYWMyZTlkYjIyNzI3YzZhZGVmNg/default" group-title="تلوبیون",رادیو ترتیل
 https://ncdn.telewebion.ir/radiotartil/live/playlist.m3u8
