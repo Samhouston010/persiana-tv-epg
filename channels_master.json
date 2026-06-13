@@ -32,19 +32,19 @@
     "sepehr_channel_id": null
   },
   {
-    "name": "خبر",
-    "tvg_id": "",
-    "group": "سراسری",
-    "logo": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
-    "telewebion_slug": "irinn",
-    "sepehr_channel_id": null
-  },
-  {
     "name": "نسیم",
     "tvg_id": "",
     "group": "سراسری",
     "logo": "https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default",
     "telewebion_slug": "nasim",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "خبر",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
+    "telewebion_slug": "irinn",
     "sepehr_channel_id": null
   },
   {
@@ -141,6 +141,14 @@
     "group": "سراسری",
     "logo": "https://static.telewebion.ir/channelsLogo/NzRjZTk4ZmFjMGNlNzMzMjM2N2JjYWE1YTFmYmVkOTMzYTVmNzgzNzk1ZGZlMDJiMGM5NzU1YTM3NDkyZmY0Zg/default",
     "telewebion_slug": "omid",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "فراتر",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/6495b89d-0463-4544-9f09-0321b26ad116/default",
+    "telewebion_slug": "faratar",
     "sepehr_channel_id": null
   },
   {
