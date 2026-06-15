@@ -1,0 +1,36 @@
+name: Persian EPG + Playlist (Persiana + News)
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # daily at 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Regenerate Persiana M3U + EPG (fresh program guide)
+        run: python generate_persiana.py
+
+      - name: Build combined Persiana + News playlist
+        run: python build_persian_all.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add persiana.m3u persiana.xml persiana.xml.gz persian_all.m3u news.m3u
+          git diff --cached --quiet || git commit -m "Auto-update Persian EPG + playlist - $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
