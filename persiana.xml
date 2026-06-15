@@ -247,6 +247,9 @@
   <programme start="20260614223000 -0500" stop="20260614232000 -0500" channel="comedy">
     <title lang="fa">ساخت ایران</title>
     <title lang="en">Made In Iran</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/1pk39WFyJFkMkPAMgYFij41BGJg.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/owVOxEa6WWcLXtmU6ahAseoKDbJ.jpg" width="500" height="750"/>
+    <desc lang="fa">«ساخت ایران» یک سریال کمدی خانوادگی است که با طنز و شوخ‌طبعی از زندگی روزمره ایرانی‌ها پرده برمی‌دارد و مسائل اجتماعی و فرهنگی را به گونه‌ای سرگرم‌کننده بررسی می‌کند. این مجموعه با نقش‌آفرینی جذاب و داستان‌های پیچیده، خانواده‌های معمولی را در تلاش برای تطابق با تغییرات زندگی مدرن به تصویر می‌کشد.</desc>
     <date>2022</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -257,6 +260,9 @@
   <programme start="20260614233000 -0500" stop="20260615001700 -0500" channel="comedy">
     <title lang="fa">محله‌ها</title>
     <title lang="en">The Boroughs</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/iftYIh1OjJb99EOTHIrDcx59zWb.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg" width="500" height="750"/>
+    <desc lang="fa">سریال «محله‌ها» داستان خانواده‌ای را روایت می‌کند که در دل شهری پرتلاطم زندگی می‌کنند و روزانه با چالش‌های طنز‌آمیز و لحظات دل‌آرام سروکار دارند. این مجموعه به نقش تعاون همسایگان و اهمیت پیوندهای انسانی در دنیایی پرشلوغ می‌پردازد و در هر قسمت فصل جدیدی از خنده و احساسات به نمایش می‌گذارد.</desc>
     <date>2026</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -314,6 +320,9 @@
   <programme start="20260614230000 -0500" stop="20260614234500 -0500" channel="family">
     <title lang="fa">ماجراهای اسپایدرویک</title>
     <title lang="en">The Spiderwick Chronicles</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/cVfaHnjOOS5qX8z10qnBsslq2Oi.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" width="500" height="750"/>
+    <desc lang="fa">خانواده گریس پس از انتقال به یک خانهٔ قدیمی و رازآلود، خود را در دنیایی پنهان از موجودات جادویی و خطرناک می‌یابند. این کودکان باید از کتاب رازآمیز اسپایدریک استفاده کنند تا از خود دفاع کنند و راز تاریخ تاریک خانه را کشف کنند. سفری پُرهیجان میان جهان واقعی و عالم فانتزی آنها را به مواجهه با چالش‌های بی‌پایان وادار می‌کند.</desc>
     <date>2024</date>
     <category lang="fa">اکشن</category>
     <category lang="fa">ماجراجویی</category>
@@ -663,6 +672,9 @@
   <programme start="20260614203000 -0500" stop="20260614213600 -0500" channel="korea">
     <title lang="fa">دیگه برات تموم شده</title>
     <title lang="en">Sold Out on You</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg" width="500" height="750"/>
+    <desc lang="fa">«دیگه برات تموم شده» داستان یک انتقام تاریک و خشمگین را روایت می‌کند که زندگی یک مرد را به هم می‌ریزد، تنها برای آن که بفهمد درون رابطه‌ای که برای آن همه چیز فدا کرده، بسیاری از رازهای تاریک پنهان است. در میان کشمکش‌های خطرناک و لحظات عصیب‌افزای اکشن، او باید بین انتقام و بخشش انتخاب کند.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
@@ -688,6 +700,9 @@
   <programme start="20260614233000 -0500" stop="20260615003500 -0500" channel="korea">
     <title lang="fa">همه‌مون اینجا داریم تلاش می‌کنیم</title>
     <title lang="en">We Are All Trying Here</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg" width="500" height="750"/>
+    <desc lang="fa">در این سریال درام‌انگیز، شخصیت‌های متنوعی با چالش‌های شخصی و اجتماعی روبه‌رو می‌شوند که در پس‌زمینه‌ای شدید و پر‌تنش تاریخی‌اند. داستان به‌طور عمیق به بررسی تلاش‌های انسانی برای بقا و تطابق با شرایط بحرانی می‌پردازد. گویی رابطه پیچیده‌ی میان جنایت، جنگ و خصوصیات انسانی را در شرایط نابسامان بررسی می‌کند.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -1003,6 +1018,9 @@
   <programme start="20260614233000 -0500" stop="20260615003000 -0500" channel="sport1">
     <title lang="fa">پبنگ پنگ</title>
     <title lang="en">WTTZagreb 2026</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/1rEPk87q49PspQmBJ74bwsXBVkH.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/frgVn3ww547TVQH8vS2bWKZnEBu.jpg" width="500" height="750"/>
+    <desc lang="fa">برنامه‌ای ورزشی که از مسابقات تنیس روی میز در زاگرب سال ۲۰۲۶ پوشش می‌دهد و بهترین بازیکنان جهان را در حال رقابت برای کسب عنوان قهرمانی نشان می‌دهد. این رویداد بین‌المللی توانایی‌های فنی و تاکتیکی ورزشکاران را به نمایش می‌گذارد و لحظات هیجان‌انگیز و پیروزی‌های یادماندنی را به تماشاگران ارائه می‌دهد.</desc>
   </programme>
   <programme start="20260614220000 -0500" stop="20260614233000 -0500" channel="sport2">
     <title lang="fa">لیگ ملت‌های والیبال</title>
@@ -1207,6 +1225,8 @@
   <programme start="20260615000000 -0500" stop="20260615014100 -0500" channel="cinema">
     <title lang="fa">قایق رانی نگهبان</title>
     <title lang="en">The Watchman's Canoe</title>
+    <icon src="https://image.tmdb.org/t/p/w500/pVLh1cXWnRnK8ylOatjcI73M2ir.jpg" width="500" height="750"/>
+    <desc lang="fa">یک نگهبان تنهایی که در کنار رودخانه‌ای دور افتاده زندگی می‌کند، روزانه با قایق خود گشت می‌زند و بر آرامش طبیعت پاسبانی می‌کند. اما وقتی غریبی به این سرزمین‌های خموش می‌رسد، گذشته‌ای بنهان و درامی برای نگهبان به بار می‌آید که او را مجبور می‌کند تا دوباره با خاطرات پوشیده شده روبرو شود.</desc>
     <date>2017</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -1216,6 +1236,9 @@
   <programme start="20260615021500 -0500" stop="20260615034600 -0500" channel="cinema">
     <title lang="fa"> عبور از مرگ</title>
     <title lang="en">To Live Through Death</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ur2eRYna05jfRS5L9SpGdZNFTFf.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/uXw9aAAlMdAIwJKZsxFeFTPJUQq.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مرد تاریک‌پوش در دنیای خطرناک جنایت درگیر می‌شود و برای نجات جانش باید از مرزهای ممنوعه عبور کند. در این مسیر خونین، او با دشمنان قدرتمند روبه‌رو می‌شود و تنها راه بقایش را در انتقام و خودداری پیدا می‌کند. اکشن و پیچش‌های شگفت‌انگیزی این فیلم، تماشاگر را تا آخر نفس‌گیر نگاه می‌دارد.</desc>
     <date>2024</date>
     <category lang="fa">اکشن</category>
     <category lang="fa">جنایی</category>
@@ -1226,6 +1249,9 @@
   <programme start="20260615043000 -0500" stop="20260615055700 -0500" channel="cinema">
     <title lang="fa">هفت تک‌تیرانداز</title>
     <title lang="en">Seven Snipers</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/g2aOpyCO1vEyUZURh3V5uaHu187.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg" width="500" height="750"/>
+    <desc lang="fa">هفت تک‌تیرانداز ماهری یک تیم نظامی متخصص را دنبال می‌کند که برای انجام یک ماموریت مرموز و خطرناک گرد هم می‌آیند. این جنگجویان بی‌رحم باید علیه دشمنان قدرتمندی بجنگند و از هم‌دیگر در لحظات حساس دفاع کنند. فیلمی پر از اکشن و تنش‌های روانی که تاب‌آوری و وفاداری را به امتحان می‌گذارد.</desc>
     <date>2026</date>
     <category lang="fa">اکشن</category>
     <category lang="fa">هیجان‌انگیز</category>
@@ -1236,6 +1262,9 @@
   <programme start="20260615071500 -0500" stop="20260615084100 -0500" channel="cinema">
     <title lang="fa">اختلال شیطانی</title>
     <title lang="en">The Demon Disorder</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ujkVmpItWDLSkDCc7flsPywJhle.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/Oqlmo1bhDQWWBPrMxMauuHL7y7.jpg" width="500" height="750"/>
+    <desc lang="fa">در این فیلم ترسناک، یک خانواده به خانه‌ای قدیمی نقل مکان می‌کند که توسط نیروهای شیطانی تسخیر شده است و باید با پدیده‌های فوق‌العاده‌ای که زندگی‌شان را به خطر می‌اندازد مبارزه کنند. با گذشت زمان، اعضای خانواده یکی‌یکی تحت تأثیر این نیروهای تاریک قرار می‌گیرند و باید برای نجات روح‌های خود تلاش کنند. این داستان ترسناک پر از لحظات هیجان‌انگیز و ترس است.</desc>
     <date>2024</date>
     <category lang="fa">ترسناک</category>
     <star-rating system="IMDB">
@@ -1245,6 +1274,9 @@
   <programme start="20260615093000 -0500" stop="20260615111700 -0500" channel="cinema">
     <title lang="fa">آسمان اکتبر</title>
     <title lang="en">October Sky</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/umWrXCIWdcYPf764ruvMRCpG3cA.jpg" width="500" height="750"/>
+    <desc lang="fa">فیلمی درباره پسری جوان در آمریکا که تحت تأثیر پرتاب ماهواره اسپوتنیک، شروع به ساخت موشک می‌کند و در برابر مخالفت پدرش، رویای فضایی خود را دنبال می‌کند. این درام تاریخی داستان واقعی اصرار و تصمیم یک نوجوان را روایت می‌کند که از طریق علم و مهندسی، به شناخت و اعتماد دست می‌یابد.</desc>
     <date>1999</date>
     <category lang="fa">درام</category>
     <category lang="fa">تاریخی</category>
@@ -1268,6 +1300,9 @@
   <programme start="20260615140000 -0500" stop="20260615160400 -0500" channel="cinema">
     <title lang="fa">بازگشت قهرمان لنگ</title>
     <title lang="en">The Return of the Lame Hero</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/j4u6f31uHpePtmbejx3d4JbI4v7.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/vP2tCUDhvgqTShBNdtfuGtqJH9R.jpg" width="500" height="750"/>
+    <desc lang="fa">یک قهرمان سابق که با اختلالات جسمانی دست و پنجه نرم می‌کند، پس از سال‌ها انزوا به شهر بازمی‌گردد تا حقیقت پنهان‌شده‌ای را کشف کند که زندگی‌اش را تغییر داده است. در یک سفر پرخطر میان دنیای تاریک جنایت و انتقام شخصی، او باید بین ماضی تاریک خود و آینده‌ای نامعلوم انتخاب کند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -1278,6 +1313,9 @@
   <programme start="20260615164500 -0500" stop="20260615185300 -0500" channel="cinema">
     <title lang="fa">مایکل</title>
     <title lang="en">Michael</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" width="500" height="750"/>
+    <desc lang="fa">مایکل داستان زندگی شخصیتی درخشان و پر تلاطم را بازگو می‌کند که موسیقی او جهان را تغییر داده است. این اثر درام‌موزیکال، سفری هیجان‌انگیز به دنیای خلقت و فنّاوری است که موضوعات پیچیده‌ای همچون هویت و کسب مشهورت را تحقیق می‌کند. فیلم نغمات خاطره‌انگیز و صحنه‌های دراماتیک را در هم می‌بافد تا تصویری عمیق از این تاریخ‌ساز ارائه دهد.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">موزیکال</category>
@@ -1301,6 +1339,9 @@
   <programme start="20260615213000 -0500" stop="20260615231700 -0500" channel="cinema">
     <title lang="fa">آسمان اکتبر</title>
     <title lang="en">October Sky</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/c6uIPrMgvDzhEGSKuZc8aw6NfC.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/umWrXCIWdcYPf764ruvMRCpG3cA.jpg" width="500" height="750"/>
+    <desc lang="fa">فیلمی درباره پسری جوان در آمریکا که تحت تأثیر پرتاب ماهواره اسپوتنیک، شروع به ساخت موشک می‌کند و در برابر مخالفت پدرش، رویای فضایی خود را دنبال می‌کند. این درام تاریخی داستان واقعی اصرار و تصمیم یک نوجوان را روایت می‌کند که از طریق علم و مهندسی، به شناخت و اعتماد دست می‌یابد.</desc>
     <date>1999</date>
     <category lang="fa">درام</category>
     <category lang="fa">تاریخی</category>
@@ -1324,6 +1365,9 @@
   <programme start="20260615223000 -0500" stop="20260615232000 -0500" channel="comedy">
     <title lang="fa">ساخت ایران</title>
     <title lang="en">Made In Iran</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/1pk39WFyJFkMkPAMgYFij41BGJg.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/owVOxEa6WWcLXtmU6ahAseoKDbJ.jpg" width="500" height="750"/>
+    <desc lang="fa">«ساخت ایران» یک سریال کمدی خانوادگی است که با طنز و شوخ‌طبعی از زندگی روزمره ایرانی‌ها پرده برمی‌دارد و مسائل اجتماعی و فرهنگی را به گونه‌ای سرگرم‌کننده بررسی می‌کند. این مجموعه با نقش‌آفرینی جذاب و داستان‌های پیچیده، خانواده‌های معمولی را در تلاش برای تطابق با تغییرات زندگی مدرن به تصویر می‌کشد.</desc>
     <date>2022</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -1334,6 +1378,9 @@
   <programme start="20260615233000 -0500" stop="20260616001200 -0500" channel="comedy">
     <title lang="fa">محله‌ها</title>
     <title lang="en">The Boroughs</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/iftYIh1OjJb99EOTHIrDcx59zWb.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg" width="500" height="750"/>
+    <desc lang="fa">سریال «محله‌ها» داستان خانواده‌ای را روایت می‌کند که در دل شهری پرتلاطم زندگی می‌کنند و روزانه با چالش‌های طنز‌آمیز و لحظات دل‌آرام سروکار دارند. این مجموعه به نقش تعاون همسایگان و اهمیت پیوندهای انسانی در دنیایی پرشلوغ می‌پردازد و در هر قسمت فصل جدیدی از خنده و احساسات به نمایش می‌گذارد.</desc>
     <date>2026</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -1395,6 +1442,9 @@
   <programme start="20260615230000 -0500" stop="20260615234500 -0500" channel="family">
     <title lang="fa">ماجراهای اسپایدرویک</title>
     <title lang="en">The Spiderwick Chronicles</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/cVfaHnjOOS5qX8z10qnBsslq2Oi.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" width="500" height="750"/>
+    <desc lang="fa">خانواده گریس پس از انتقال به یک خانهٔ قدیمی و رازآلود، خود را در دنیایی پنهان از موجودات جادویی و خطرناک می‌یابند. این کودکان باید از کتاب رازآمیز اسپایدریک استفاده کنند تا از خود دفاع کنند و راز تاریخ تاریک خانه را کشف کنند. سفری پُرهیجان میان جهان واقعی و عالم فانتزی آنها را به مواجهه با چالش‌های بی‌پایان وادار می‌کند.</desc>
     <date>2024</date>
     <category lang="fa">اکشن</category>
     <category lang="fa">ماجراجویی</category>
@@ -1745,6 +1795,9 @@
   <programme start="20260615203000 -0500" stop="20260615213800 -0500" channel="korea">
     <title lang="fa">دیگه برات تموم شده</title>
     <title lang="en">Sold Out on You</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dL5mViE22ZHnhrUU9wlklzIU4Iy.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg" width="500" height="750"/>
+    <desc lang="fa">«دیگه برات تموم شده» داستان یک انتقام تاریک و خشمگین را روایت می‌کند که زندگی یک مرد را به هم می‌ریزد، تنها برای آن که بفهمد درون رابطه‌ای که برای آن همه چیز فدا کرده، بسیاری از رازهای تاریک پنهان است. در میان کشمکش‌های خطرناک و لحظات عصیب‌افزای اکشن، او باید بین انتقام و بخشش انتخاب کند.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
@@ -1770,6 +1823,9 @@
   <programme start="20260615233000 -0500" stop="20260616005200 -0500" channel="korea">
     <title lang="fa">همه‌مون اینجا داریم تلاش می‌کنیم</title>
     <title lang="en">We Are All Trying Here</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg" width="500" height="750"/>
+    <desc lang="fa">در این سریال درام‌انگیز، شخصیت‌های متنوعی با چالش‌های شخصی و اجتماعی روبه‌رو می‌شوند که در پس‌زمینه‌ای شدید و پر‌تنش تاریخی‌اند. داستان به‌طور عمیق به بررسی تلاش‌های انسانی برای بقا و تطابق با شرایط بحرانی می‌پردازد. گویی رابطه پیچیده‌ی میان جنایت، جنگ و خصوصیات انسانی را در شرایط نابسامان بررسی می‌کند.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -1873,6 +1929,9 @@
   <programme start="20260615073000 -0500" stop="20260615100100 -0500" channel="plus">
     <title lang="fa">لوکا بخش 1: چاندرا</title>
     <title lang="en">Lokah Chapter 1: Chandra</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/tkRZ8BpIlvQIFBQWwEHuAlxczyb.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg" width="500" height="750"/>
+    <desc lang="fa">در این فیلم اکشن و فانتزی، قهرمان داستان با نام چاندرا وارد دنیای پر رمز و راز لوکا می‌شود و باید با موجودات افسانه‌ای و نیروهای پنهان درگیر شود. او در یک سفر شگفت‌انگیز و خطرناک قرار می‌گیرد که سرنوشت کل جهان را تغییر می‌دهد. این اولین فصل از یک حماسه بزرگ است که تماشاگران را به دنیایی شناخته‌نشده می‌برد.</desc>
     <date>2025</date>
     <category lang="fa">اکشن</category>
     <category lang="fa">ماجراجویی</category>
@@ -1979,6 +2038,9 @@
   <programme start="20260615193000 -0500" stop="20260615214800 -0500" channel="plus">
     <title lang="fa">شهر ممنوعه</title>
     <title lang="en">The Forbidden City</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/nhEDmT8s7zEZNIx6Wnlc1ilY7nx.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/eSwDbpNHm19QVfX2Da6jdvaPWTh.jpg" width="500" height="750"/>
+    <desc lang="fa">در دل امپراتوری چین باستان، داستان عشق و خیانت میان یک جنگجوی شجاع و زنی از خاندان سلطنتی رقم می‌خورد که باید بین وفاداری به خاندادشان و احساسات درونی‌شان انتخاب کنند. در شهری که قوانین سخت آن هیچ اجازه‌ای برای عشق نمی‌دهد، آن‌ها مجبور می‌شوند در سایه‌های شهر ممنوعه برای آزادی خود مبارزه کنند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
@@ -2030,6 +2092,9 @@
   <programme start="20260615230000 -0500" stop="20260616010000 -0500" channel="reality">
     <title lang="fa">ادای احترام به فردی مرکوری: کنسرتی برای آگاهی‌بخشی در مورد ایدز</title>
     <title lang="en">The Freddie Mercury Tribute Concert PART 01</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/tX7NoiMDc2dqv2i0GiOCnCpDKIV.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ruDIZj4M7Mw4TU58dVEISHkz54C.jpg" width="500" height="750"/>
+    <desc lang="fa">این مستند کنسرتی، جمع‌آوری از اجرای زنده‌ی خیراتی است که به یادبود فردی مرکوری، خواننده‌ی افسانه‌ای گروه کوئین، برگزار شد. اجرای بزرگانی از هنرمندان معاصر، آهنگ‌های ماندگار مرکوری را به تصحیح درآورند و همزمان برای افزایش‌آگاهی درباره‌ی بیماری ایدز و یادبود قربانیان آن تلاش می‌کنند.</desc>
     <date>1992</date>
     <category lang="fa">مستند</category>
     <category lang="fa">موزیکال</category>
@@ -2063,14 +2128,20 @@
   <programme start="20260615163000 -0500" stop="20260615173000 -0500" channel="sport1">
     <title lang="fa">تنیس</title>
     <title lang="en">Sabalenka v Rakotomanga</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/7apk7MDXON2zZ2ntXgaIusHrUNa.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/atwLUO5yHwMteP9TcW1LQSbWyqA.jpg" width="500" height="750"/>
+    <desc lang="fa">تماشای دیدار تنیس هیجان‌انگیز میان سابالنکا، یکی از بازیکنان برتر جهان، و راکوتومانگا در این برنامه ورزشی پخش زنده است. این مسابقه فشردگی و تیزی را به نمایش می‌گذارد که در تنیس حرفه‌ای وجود دارد و تماشاگران را به ردیف صندلی‌ها می‌کشاند. هر پوئنت و حرکت دقیق بازیکنان درام و انرژی بی‌پایانی به این دیدار می‌بخشد.</desc>
   </programme>
   <programme start="20260615181500 -0500" stop="20260615191500 -0500" channel="sport1">
     <title lang="fa">فوتبال خاطره انگیز</title>
     <title lang="en">South Africa v Mexico 2010</title>
+    <desc lang="fa">این برنامه ورزشی یادگار دیدار تاریخی بین تیم های ملی آفریقای جنوبی و مکزیک را در جام جهانی ۲۰۱۰ به تصویر می‌کشد. بازی فوتبالی هیجان‌انگیز بین دو تیم متقابل، لحظات درخشان بازیکنان و اشتیاق هوادارانی را به نمایش می‌گذارد که یکی از برترین مسابقات این تورنمنت جهانی محسوب می‌شود.</desc>
   </programme>
   <programme start="20260615203000 -0500" stop="20260615213000 -0500" channel="sport1">
     <title lang="fa">NBA</title>
     <title lang="en">Historic 3PT Playoff Duel</title>
+    <icon src="https://image.tmdb.org/t/p/w500/rLwcPOhtlBZggspJ528OoYQbtYs.jpg" width="500" height="750"/>
+    <desc lang="fa">دوئل تاریخی سه‌امتیازی در پلی‌آف NBA به تصویر کشیده می‌شود که دو تیم برتر بسکتبال در مسابقه‌ای هیجان‌انگیز و روز به روز فشرده با یکدیگر رقابت می‌کنند. این برنامه ورزشی لحظات حساس و شلیک‌های دقیق بازیکنان ستاره را نشان می‌دهد که تاریخ NBA را دچار تغییر کرده‌اند.</desc>
   </programme>
   <programme start="20260615220000 -0500" stop="20260615234500 -0500" channel="sport1">
     <title lang="fa">جام جهانی فوتبال مردان</title>
@@ -2083,6 +2154,7 @@
   <programme start="20260615223000 -0500" stop="20260615233000 -0500" channel="sport1">
     <title lang="fa">هایلایت ورزشی</title>
     <title lang="en">Premier League's BEST VOLLEYS</title>
+    <desc lang="fa">مجموعه‌ای از بهترین ضربات بدون کنترل بازیکنان در لیگ برتر انگلیس که هر کدام از آن‌ها نمونه‌ای از مهارت فنی و شجاعت ورزشی است. این برنامه ورزشی برجسته‌ترین و زیباترین لحظات فوتبال را به تصویر می‌کشد و از گلهای آرزومندانه‌ای روایت می‌کند که خاطره‌ای پایدار از خود به جا گذاشته‌اند.</desc>
   </programme>
   <programme start="20260615220000 -0500" stop="20260615234500 -0500" channel="sport2">
     <title lang="fa">جام جهانی فوتبال مردان</title>
@@ -2113,6 +2185,9 @@
   <programme start="20260615203000 -0500" stop="20260615222900 -0500" channel="turkey">
     <title lang="fa">خدا به همراهت</title>
     <title lang="en">Godspeed</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/mvyh8tXxuuaAFGR6QGQEbxfsd1s.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/iddfS5fGtMeI2oexwCl7xPhBuhS.jpg" width="500" height="750"/>
+    <desc lang="fa">فیلمی تماشایی درباره پیمایشی خطرناک و عاطفی که در آن قهرمان اصلی باید میان وظایف شغلی و احساسات شخصی خود انتخاب کند. این درام پرتنش‌آلود با صحنه‌های اکشن تماشایی، داستان عشقی را به تصویر می‌کشد که در سایه خطر و ریسک رشد می‌یابد و تا پایان بیننده را در انتظار می‌نگهدارد.</desc>
     <date>2022</date>
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
@@ -2138,6 +2213,9 @@
   <programme start="20260616020000 -0500" stop="20260616040400 -0500" channel="cinema">
     <title lang="fa">بازگشت قهرمان لنگ</title>
     <title lang="en">The Return of the Lame Hero</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/j4u6f31uHpePtmbejx3d4JbI4v7.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/vP2tCUDhvgqTShBNdtfuGtqJH9R.jpg" width="500" height="750"/>
+    <desc lang="fa">یک قهرمان سابق که با اختلالات جسمانی دست و پنجه نرم می‌کند، پس از سال‌ها انزوا به شهر بازمی‌گردد تا حقیقت پنهان‌شده‌ای را کشف کند که زندگی‌اش را تغییر داده است. در یک سفر پرخطر میان دنیای تاریک جنایت و انتقام شخصی، او باید بین ماضی تاریک خود و آینده‌ای نامعلوم انتخاب کند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -2148,6 +2226,9 @@
   <programme start="20260616044500 -0500" stop="20260616065300 -0500" channel="cinema">
     <title lang="fa">مایکل</title>
     <title lang="en">Michael</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" width="500" height="750"/>
+    <desc lang="fa">مایکل داستان زندگی شخصیتی درخشان و پر تلاطم را بازگو می‌کند که موسیقی او جهان را تغییر داده است. این اثر درام‌موزیکال، سفری هیجان‌انگیز به دنیای خلقت و فنّاوری است که موضوعات پیچیده‌ای همچون هویت و کسب مشهورت را تحقیق می‌کند. فیلم نغمات خاطره‌انگیز و صحنه‌های دراماتیک را در هم می‌بافد تا تصویری عمیق از این تاریخ‌ساز ارائه دهد.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <category lang="fa">موزیکال</category>
@@ -2185,6 +2266,9 @@
   <programme start="20260616120000 -0500" stop="20260616133800 -0500" channel="cinema">
     <title lang="fa">هیولا</title>
     <title lang="en">Monster</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg" width="500" height="750"/>
+    <desc lang="fa">هیولا روایت تلخی از زندگی یک نوجوان است که در مرزهای جامعه‌ای بی‌رحم قرار دارد و باید بین گناه و بی‌گناهی، حقیقت و دروغ راه خودش را بیابد. این فیلم درام کریمینال، رابطه‌ی پیچیده‌ی مادر و فرزند را بررسی می‌کند و نشان می‌دهد که چگونه تنهایی و تبعیض می‌تواند انسان را به هیولایی تبدیل کند.</desc>
     <date>2021</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -2195,6 +2279,9 @@
   <programme start="20260616141500 -0500" stop="20260616155300 -0500" channel="cinema">
     <title lang="fa">مولان: آتش سرنوشت</title>
     <title lang="en">Mulan: Light A fire</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/kwPN5eeCEcEh347j7aW8BudNVF4.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/n8zEzmTbuK8auDNlua7C7K5ALDA.jpg" width="500" height="750"/>
+    <desc lang="fa">مولان باید برای نجات خاندانش و کشورش از بند سنت‌های محدودکننده رهایی یابد و به جنگجویی شجاع تبدیل شود. در سفری پرتلاطم و خطرناک، او قدرت داخلی خود را کشف می‌کند و یاد می‌گیرد که واقعی ترین قهرمان آن کسی است که جسارت دارد خود باشد.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -2204,6 +2291,9 @@
   <programme start="20260616163000 -0500" stop="20260616180300 -0500" channel="cinema">
     <title lang="fa">من نفوذی هستم</title>
     <title lang="en">I’m Undercover</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مأمور مخفی در میان باندهای خطرناک شهر تهران به ماموریتی سخت دست می‌یابد که نه تنها جانش را در خطر می‌اندازد، بلکه هویتش را نیز به مخاطره ای تدریجی دچار می‌کند. این فیلم داستان تنش‌آلود و احساسات پیچیده‌ای را روایت می‌کند که در میان دروغ و واقعیت نهفته است.</desc>
     <date>2026</date>
     <star-rating system="IMDB">
       <value>6.0/10</value>
@@ -2212,6 +2302,9 @@
   <programme start="20260616184500 -0500" stop="20260616205500 -0500" channel="cinema">
     <title lang="fa">جنگجوی نفرین شده</title>
     <title lang="en">Suyodhana</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/z6K4kbXT4D5o0t52ZX2m6RkFqfz.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/xKFffg930NgDsPg1LAKNRsFSk9I.jpg" width="500" height="750"/>
+    <desc lang="fa">جنگجوی نفرین شده داستان تاریک مردی را روایت می‌کند که تحت تأثیر نیروی تاریک و فرهنگ باستانی قرار گرفته است. این فیلم هیجان‌انگیز پر از رازهای خانوادگی است که به تدریج برملا می‌شوند و قهرمان را به سفری خطرناک برای رهایی از نفرین کشاند. در میان نبردهای شدید و لحظات تاریک، امید و فداکاری به تنهایی می‌تواند راه نجات باشد.</desc>
     <date>2026</date>
     <category lang="fa">هیجان‌انگیز</category>
     <category lang="fa">خانوادگی</category>
@@ -2237,6 +2330,9 @@
   <programme start="20260616223000 -0500" stop="20260616232000 -0500" channel="comedy">
     <title lang="fa">ساخت ایران</title>
     <title lang="en">Made In Iran</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/1pk39WFyJFkMkPAMgYFij41BGJg.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/owVOxEa6WWcLXtmU6ahAseoKDbJ.jpg" width="500" height="750"/>
+    <desc lang="fa">«ساخت ایران» یک سریال کمدی خانوادگی است که با طنز و شوخ‌طبعی از زندگی روزمره ایرانی‌ها پرده برمی‌دارد و مسائل اجتماعی و فرهنگی را به گونه‌ای سرگرم‌کننده بررسی می‌کند. این مجموعه با نقش‌آفرینی جذاب و داستان‌های پیچیده، خانواده‌های معمولی را در تلاش برای تطابق با تغییرات زندگی مدرن به تصویر می‌کشد.</desc>
     <date>2022</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -2247,6 +2343,9 @@
   <programme start="20260616233000 -0500" stop="20260617001400 -0500" channel="comedy">
     <title lang="fa">محله‌ها</title>
     <title lang="en">The Boroughs</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/iftYIh1OjJb99EOTHIrDcx59zWb.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg" width="500" height="750"/>
+    <desc lang="fa">سریال «محله‌ها» داستان خانواده‌ای را روایت می‌کند که در دل شهری پرتلاطم زندگی می‌کنند و روزانه با چالش‌های طنز‌آمیز و لحظات دل‌آرام سروکار دارند. این مجموعه به نقش تعاون همسایگان و اهمیت پیوندهای انسانی در دنیایی پرشلوغ می‌پردازد و در هر قسمت فصل جدیدی از خنده و احساسات به نمایش می‌گذارد.</desc>
     <date>2026</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -2795,6 +2894,9 @@
   <programme start="20260616073000 -0500" stop="20260616094800 -0500" channel="plus">
     <title lang="fa">شهر ممنوعه</title>
     <title lang="en">The Forbidden City</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/nhEDmT8s7zEZNIx6Wnlc1ilY7nx.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/eSwDbpNHm19QVfX2Da6jdvaPWTh.jpg" width="500" height="750"/>
+    <desc lang="fa">در دل امپراتوری چین باستان، داستان عشق و خیانت میان یک جنگجوی شجاع و زنی از خاندان سلطنتی رقم می‌خورد که باید بین وفاداری به خاندادشان و احساسات درونی‌شان انتخاب کنند. در شهری که قوانین سخت آن هیچ اجازه‌ای برای عشق نمی‌دهد، آن‌ها مجبور می‌شوند در سایه‌های شهر ممنوعه برای آزادی خود مبارزه کنند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
@@ -2806,6 +2908,9 @@
   <programme start="20260616103000 -0500" stop="20260616115900 -0500" channel="plus">
     <title lang="fa">همسایه</title>
     <title lang="en">Vecina</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/qvcOovScPoRalRxDy50rYSYFree.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg" width="500" height="750"/>
+    <desc lang="fa">همسایه، یک کمدی طنزآمیز است که داستان روابط پیچیده و خنده‌دار بین دو همسایه را به تصویر می‌کشد. این فیلم با شرایط غیرمنتظره‌ای که زندگی روزمره را به هم می‌زند، تماشاگران را در سفری پر از خنده و لحظات ناباور می‌برد. تصادفات و سوء تفاهم‌ها در این اثر کمدی به یک درام شخصی پر از احساس تبدیل می‌شوند.</desc>
     <date>2025</date>
     <category lang="fa">کمدی</category>
     <star-rating system="IMDB">
@@ -2909,6 +3014,9 @@
   <programme start="20260616223000 -0500" stop="20260616235900 -0500" channel="plus">
     <title lang="fa">همسایه</title>
     <title lang="en">Vecina</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/qvcOovScPoRalRxDy50rYSYFree.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg" width="500" height="750"/>
+    <desc lang="fa">همسایه، یک کمدی طنزآمیز است که داستان روابط پیچیده و خنده‌دار بین دو همسایه را به تصویر می‌کشد. این فیلم با شرایط غیرمنتظره‌ای که زندگی روزمره را به هم می‌زند، تماشاگران را در سفری پر از خنده و لحظات ناباور می‌برد. تصادفات و سوء تفاهم‌ها در این اثر کمدی به یک درام شخصی پر از احساس تبدیل می‌شوند.</desc>
     <date>2025</date>
     <category lang="fa">کمدی</category>
     <star-rating system="IMDB">
@@ -2945,6 +3053,9 @@
   <programme start="20260616230000 -0500" stop="20260617010000 -0500" channel="reality">
     <title lang="fa">ادای احترام به فردی مرکوری: کنسرتی برای آگاهی‌بخشی در مورد ایدز</title>
     <title lang="en">The Freddie Mercury Tribute Concert PART 02</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/tX7NoiMDc2dqv2i0GiOCnCpDKIV.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ruDIZj4M7Mw4TU58dVEISHkz54C.jpg" width="500" height="750"/>
+    <desc lang="fa">این مستند کنسرت خیری، ادای احترام به فردی مرکوری خواننده افسانه‌ای گروه کوئین است که برای آگاهی‌بخشی درباره بیماری ایدز برگزار شد. این کنسرت تاریخی با حضور هنرمندان برجسته جهان و پرفورمنس‌های خاطره‌انگیز، میراث فنی و انسانی فردی مرکوری را گرامی می‌داشت و برای کمک به مبتلایان به این بیماری جمع‌آوری کرد.</desc>
     <date>1992</date>
     <category lang="fa">مستند</category>
     <category lang="fa">موزیکال</category>
@@ -2978,6 +3089,7 @@
   <programme start="20260616183000 -0500" stop="20260616193000 -0500" channel="sport1">
     <title lang="fa">تنیس</title>
     <title lang="en">مسایقات تنیس atp 500 امتیازی لندن</title>
+    <desc lang="fa">مسابقات تنیس ATP 500 امتیازی لندن یکی از مهم‌ترین رویدادهای تنیس حرفه‌ای در جهان است که برترین بازیکنان جهان را در رقابتی تنگاتنگ به میدان می‌آورد. این مسابقه‌ی پرشور هر سال درخشش و توانایی‌های ویژه‌ی ستاره‌های تنیس را به نمایش می‌گذارد و هزاران طرفدار را به تماشاگاهی دعوت می‌کند.</desc>
   </programme>
   <programme start="20260616200000 -0500" stop="20260616210000 -0500" channel="sport1">
     <title lang="fa">هایلایت ورزشی</title>
@@ -3014,17 +3126,20 @@
   <programme start="20260616043000 -0500" stop="20260616053000 -0500" channel="sport3">
     <title lang="fa">ورزش در خانه</title>
     <title lang="en">ورزش در خانه</title>
+    <desc lang="fa">برنامه‌ی ورزشی «ورزش در خانه» پیشنهادی جامع برای تمام افرادی است که می‌خواهند بدون نیاز به باشگاه و تجهیزات پیچیده، در محیط خانگی به ورزش مشغول شوند. این برنامه روش‌های کارآمد و متنوع را برای تقویت بدن، افزایش انعطاف‌پذیری و بهبود سلامت قلبی و عروقی ارائه می‌دهد و هر فرد را قادر می‌سازد تا با سرعت خود و زمانی که بخواهد ورزش کند.</desc>
     <date>2026</date>
     <category lang="fa">ورزشی</category>
   </programme>
   <programme start="20260616053000 -0500" stop="20260616080000 -0500" channel="sport3">
     <title lang="fa">Korea vs. Qatar | AVC Men's Nations Cup</title>
     <title lang="en">Korea vs. Qatar | AVC Men's Nations Cup</title>
+    <desc lang="fa">این برنامه مستند یک دیدار حساس والیبال بین تیم‌های ملی کره و قطر در رقابت‌های قهرمانی مردان آسیا را نمایش می‌دهد. تیم‌ها در این مسابقه مهم برای کسب افتخار و صعود در جدول رده‌بندی با تمام توان خود مبارزه می‌کنند و هنرنمایی‌های تاثیرگذاری از خود بروز می‌دهند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260616080000 -0500" stop="20260616103000 -0500" channel="sport3">
     <title lang="fa">NCAA DI men's swimming &amp; diving championship</title>
     <title lang="en">NCAA DI men's swimming &amp; diving championship</title>
+    <desc lang="fa">مسابقه قهرمانی شنای و پریدن مردان NCAA Division I، رویدادی سالانه است که برترین شناگران و پریندگان دانشگاهی ایالات متحده در آن رقابت می‌کنند. این مسابقه تخصصی در سطح ملی، استعدادهای برجسته ورزشی را به نمایش می‌گذارد و نتایج آن در تعیین قهرمان ملی نقش تعیین‌کننده دارد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616103000 -0500" stop="20260616133000 -0500" channel="sport3">
@@ -3036,6 +3151,8 @@
   <programme start="20260616103000 -0500" stop="20260616133000 -0500" channel="sport3">
     <title lang="fa">Kansas City Chiefs vs. San Francisco 49ers | Super Bowl 54</title>
     <title lang="en">Kansas City Chiefs vs. San Francisco 49ers | Super Bowl 54</title>
+    <icon src="https://image.tmdb.org/t/p/w500/hJapkb5DU75EnoigRFHYVzvTQHs.jpg" width="500" height="750"/>
+    <desc lang="fa">دیدار تاریخی سوپربول 54 میان تیم های شهر کنزاس و سان فرانسیسکو، یکی از متنفّس‌ترین مسابقات فوتبال آمریکایی است که در سال 2020 برگزار شد. این رقابت دیدنی میان دو تیم پرقدرت، لحظات هیجان‌انگیز و بازی‌های فوق‌العاده را به ارمغان آورد و میلیون‌ها تماشاگر را به پای صفحه‌های تلویزیون کشاند.</desc>
     <date>2020</date>
   </programme>
   <programme start="20260616133000 -0500" stop="20260616160000 -0500" channel="sport3">
@@ -3060,12 +3177,14 @@
   <programme start="20260616163000 -0500" stop="20260616173000 -0500" channel="sport3">
     <title lang="fa">ورزش در خانه</title>
     <title lang="en">ورزش در خانه</title>
+    <desc lang="fa">برنامه‌ی ورزشی «ورزش در خانه» پیشنهادی جامع برای تمام افرادی است که می‌خواهند بدون نیاز به باشگاه و تجهیزات پیچیده، در محیط خانگی به ورزش مشغول شوند. این برنامه روش‌های کارآمد و متنوع را برای تقویت بدن، افزایش انعطاف‌پذیری و بهبود سلامت قلبی و عروقی ارائه می‌دهد و هر فرد را قادر می‌سازد تا با سرعت خود و زمانی که بخواهد ورزش کند.</desc>
     <date>2026</date>
     <category lang="fa">ورزشی</category>
   </programme>
   <programme start="20260616173000 -0500" stop="20260616200000 -0500" channel="sport3">
     <title lang="fa">Korea vs. Qatar | AVC Men's Nations Cup</title>
     <title lang="en">Korea vs. Qatar | AVC Men's Nations Cup</title>
+    <desc lang="fa">این برنامه مستند یک دیدار حساس والیبال بین تیم‌های ملی کره و قطر در رقابت‌های قهرمانی مردان آسیا را نمایش می‌دهد. تیم‌ها در این مسابقه مهم برای کسب افتخار و صعود در جدول رده‌بندی با تمام توان خود مبارزه می‌کنند و هنرنمایی‌های تاثیرگذاری از خود بروز می‌دهند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260616173000 -0500" stop="20260616200000 -0500" channel="sport3">
@@ -3077,6 +3196,7 @@
   <programme start="20260616200000 -0500" stop="20260616223000 -0500" channel="sport3">
     <title lang="fa">NCAA DI men's swimming &amp; diving championship</title>
     <title lang="en">NCAA DI men's swimming &amp; diving championship</title>
+    <desc lang="fa">مسابقه قهرمانی شنای و پریدن مردان NCAA Division I، رویدادی سالانه است که برترین شناگران و پریندگان دانشگاهی ایالات متحده در آن رقابت می‌کنند. این مسابقه تخصصی در سطح ملی، استعدادهای برجسته ورزشی را به نمایش می‌گذارد و نتایج آن در تعیین قهرمان ملی نقش تعیین‌کننده دارد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616200000 -0500" stop="20260616223000 -0500" channel="sport3">
@@ -3088,6 +3208,8 @@
   <programme start="20260616223000 -0500" stop="20260617013000 -0500" channel="sport3">
     <title lang="fa">Kansas City Chiefs vs. San Francisco 49ers | Super Bowl 54</title>
     <title lang="en">Kansas City Chiefs vs. San Francisco 49ers | Super Bowl 54</title>
+    <icon src="https://image.tmdb.org/t/p/w500/hJapkb5DU75EnoigRFHYVzvTQHs.jpg" width="500" height="750"/>
+    <desc lang="fa">دیدار تاریخی سوپربول 54 میان تیم های شهر کنزاس و سان فرانسیسکو، یکی از متنفّس‌ترین مسابقات فوتبال آمریکایی است که در سال 2020 برگزار شد. این رقابت دیدنی میان دو تیم پرقدرت، لحظات هیجان‌انگیز و بازی‌های فوق‌العاده را به ارمغان آورد و میلیون‌ها تماشاگر را به پای صفحه‌های تلویزیون کشاند.</desc>
     <date>2020</date>
   </programme>
   <programme start="20260616021500 -0500" stop="20260616043000 -0500" channel="sport4">
@@ -3099,12 +3221,14 @@
   <programme start="20260616043000 -0500" stop="20260616053000 -0500" channel="sport4">
     <title lang="fa">ورزش در خانه</title>
     <title lang="en">ورزش در خانه</title>
+    <desc lang="fa">برنامه‌ای جامع و کاربردی که به شما کمک می‌کند تا بدون نیاز به تجهیزات پیچیده و در فضای محدود منزل، تمرینات ورزشی مؤثر انجام دهید. این برنامه با ارائه روش‌های ساده و علمی، برای همه سنین و سطح‌های فیتنس مناسب است و باعث بهبود سلامتی و تناسب اندام می‌شود.</desc>
     <date>2025</date>
     <category lang="fa">ورزشی</category>
   </programme>
   <programme start="20260616053000 -0500" stop="20260616074500 -0500" channel="sport4">
     <title lang="fa">Iowa vs. UConn | ACC Women’s Final Four</title>
     <title lang="en">Iowa vs. UConn | ACC Women’s Final Four</title>
+    <desc lang="fa">این مسابقه‌ی هیجان‌انگیز بین تیم‌های بسکتبال زنان آیووا و یوکان در فینال چهار تیمی ACC در سال ۲۰۲۴ برگزار شد که یکی از مهم‌ترین بازی‌های فصل بود. دو تیم برتر کشور با تمام توانشان برای رسیدن به نهایی مسابقه با هم رقابت کردند و بسکتبالی تماشایی و پر از درام را به نمایش گذاشتند.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616074500 -0500" stop="20260616100000 -0500" channel="sport4">
@@ -3122,6 +3246,7 @@
   <programme start="20260616100000 -0500" stop="20260616133000 -0500" channel="sport4">
     <title lang="fa">Women's Individual All-Around Artistic Gymnastics Final</title>
     <title lang="en">Women's Individual All-Around Artistic Gymnastics Final</title>
+    <desc lang="fa">در این مسابقه ورزشی آرام‌بخش، بهترین ژیمناستکاران زن جهان بر روی تجهیزات مختلف به رقابت می‌پردازند تا عنوان قهرمان مسابقات هنری را کسب کنند. هر ورزشکار با نمایش مهارت‌های فوق‌العاده خود در دستگاه‌های مختلف برای کسب مدال طلا تلاش می‌کند. این فینال یکی از درخشان‌ترین لحظات رویدادهای المپیکی است که استعداد و تصمیم‌گیری را به نمایش می‌گذارد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616104500 -0500" stop="20260616141500 -0500" channel="sport4">
@@ -3133,6 +3258,7 @@
   <programme start="20260616133000 -0500" stop="20260616153000 -0500" channel="sport4">
     <title lang="fa">Mexico All Stars vs Los Angeles Black Storm</title>
     <title lang="en">Mexico All Stars vs Los Angeles Black Storm</title>
+    <desc lang="fa">در این مسابقهٔ ورزشی هیجان‌انگیز، تیم ستاره‌های مکسیکو با قوت و شور خود را برای رویارویی با طوفان سیاه لس‌آنجلس آماده می‌کند. این دو تیم در سال ۲۰۲۲ در یک بازی فوق‌العاده به رقابت می‌پردازند که هواداران را در انتظار یک پیروزی درخشان نگاه‌دارد.</desc>
     <date>2022</date>
   </programme>
   <programme start="20260616141500 -0500" stop="20260616163000 -0500" channel="sport4">
@@ -3150,12 +3276,14 @@
   <programme start="20260616163000 -0500" stop="20260616173000 -0500" channel="sport4">
     <title lang="fa">ورزش در خانه</title>
     <title lang="en">ورزش در خانه</title>
+    <desc lang="fa">برنامه‌ای جامع و کاربردی که به شما کمک می‌کند تا بدون نیاز به تجهیزات پیچیده و در فضای محدود منزل، تمرینات ورزشی مؤثر انجام دهید. این برنامه با ارائه روش‌های ساده و علمی، برای همه سنین و سطح‌های فیتنس مناسب است و باعث بهبود سلامتی و تناسب اندام می‌شود.</desc>
     <date>2025</date>
     <category lang="fa">ورزشی</category>
   </programme>
   <programme start="20260616173000 -0500" stop="20260616194500 -0500" channel="sport4">
     <title lang="fa">Iowa vs. UConn | ACC Women’s Final Four</title>
     <title lang="en">Iowa vs. UConn | ACC Women’s Final Four</title>
+    <desc lang="fa">این مسابقه‌ی هیجان‌انگیز بین تیم‌های بسکتبال زنان آیووا و یوکان در فینال چهار تیمی ACC در سال ۲۰۲۴ برگزار شد که یکی از مهم‌ترین بازی‌های فصل بود. دو تیم برتر کشور با تمام توانشان برای رسیدن به نهایی مسابقه با هم رقابت کردند و بسکتبالی تماشایی و پر از درام را به نمایش گذاشتند.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616181500 -0500" stop="20260616203000 -0500" channel="sport4">
@@ -3173,21 +3301,31 @@
   <programme start="20260616220000 -0500" stop="20260617013000 -0500" channel="sport4">
     <title lang="fa">Women's Individual All-Around Artistic Gymnastics Final</title>
     <title lang="en">Women's Individual All-Around Artistic Gymnastics Final</title>
+    <desc lang="fa">در این مسابقه ورزشی آرام‌بخش، بهترین ژیمناستکاران زن جهان بر روی تجهیزات مختلف به رقابت می‌پردازند تا عنوان قهرمان مسابقات هنری را کسب کنند. هر ورزشکار با نمایش مهارت‌های فوق‌العاده خود در دستگاه‌های مختلف برای کسب مدال طلا تلاش می‌کند. این فینال یکی از درخشان‌ترین لحظات رویدادهای المپیکی است که استعداد و تصمیم‌گیری را به نمایش می‌گذارد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616223000 -0500" stop="20260616233000 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">Life in Tehran Iran Left Me Speechless</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rGf1jTRsuIwWFakid7VAS9CkF2f.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/j2tbmoUYlILffvPJpCqMzXGGZfU.jpg" width="500" height="750"/>
+    <desc lang="fa">یک سفر بصری شگفت‌انگیز به دل تهران که در آن شهر باستانی با تمام پیچیدگی‌ها و زیبایی‌های خود نمایان می‌شود. این فیلم کوتاه با لحنی صادقانه، تناقض‌های شهری، رنگ‌های زندگی روزمره و لحظات فراموش‌نشدنی را ثبت می‌کند که ناظر را بی‌صدا می‌گذارد. تهران به عنوان یک شخصیت زنده، با داستان‌های خود را به روایت‌گر بازگو می‌کند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260616231500 -0500" stop="20260617001500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">Life in IRAN</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/9Q7Q6B4hVE6DWl72m02mJceMCQS.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/gqkKWCfIGYvrdRWBVXn5Uy8jDiO.jpg" width="500" height="750"/>
+    <desc lang="fa">این مستند کوتاه به تصویر کشیدن زندگی روزمره مردم ایران و تنوع فرهنگی آن‌ها را دنبال می‌کند. از خیابان‌های شهری گرفته تا روستاهای دورافتاده، فیلم نقش حیاتی انسان‌ها و رویاها را در این سرزمین تاریخی به نمایش می‌گذارد. این اثر پنجره‌ای به درون روح ایران و تاب‌آوری فرهنگی آن باز می‌کند.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260616203000 -0500" stop="20260616221300 -0500" channel="turkey">
     <title lang="fa">بهشت حتماً همین است</title>
     <title lang="en">It Must Be Heaven</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/8ZReT0toet7uqMlz04KxwT8gSNP.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ljor2pWczSOQFBGAMevqZ7s8D4W.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مرد فلسطینی تصمیم می‌گیرد تا از میهن خود فرار کند و به دنبال بهشتی بر روی زمین باشد، اما در هر شهری که می‌رود، با وضعیتی مشابه و دردناک روبرو می‌شود. این فیلم با تلفیقی از طنز و حزن، سفر پر فریب و اندوه این مرد را به تصویر می‌کشد که در جستجوی صلح و آرامش است.</desc>
     <date>2019</date>
     <category lang="fa">درام</category>
     <category lang="fa">کمدی</category>
@@ -3199,6 +3337,9 @@
   <programme start="20260616223000 -0500" stop="20260616233000 -0500" channel="turkey">
     <title lang="fa">آنتن</title>
     <title lang="en">Anten</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/uhUVbbJEqp7Y2X6gUvoP9Pdc2kd.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/9lUo8FpaAvJDDaPs8sIYYlRMlAo.jpg" width="500" height="750"/>
+    <desc lang="fa">آنتن یک سریال خانوادگی و کمدی است که داستان‌های طنز‌آمیز و دل‌انگیزی از زندگی روزمره خانواده‌ای ایرانی را به تصویر می‌کشد. این مجموعه با نقد ملایم و شوخ‌طبعانه به معضلات اجتماعی و روابط خانوادگی پرداخته و با وقایع کمیک سراسر سرگرمی بخش است.</desc>
     <date>1401</date>
     <category lang="fa">کمدی</category>
     <category lang="fa">خانوادگی</category>
@@ -3220,12 +3361,18 @@
   <programme start="20260616234500 -0500" stop="20260617004500 -0500" channel="turkey">
     <title lang="fa">یاغی</title>
     <title lang="en">Asi</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/3VZ8BJl1KZVvIjgEeCsl4l6LC1X.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/mJfigyqlcMGrDmd0FytlA0Bnrna.jpg" width="500" height="750"/>
+    <desc lang="fa">یاغی درام‌ای تلویزیونی است که داستان زنی را روایت می‌کند که در برابر ظلم و ستم سر برمی‌آورد و برای آزادی و عدالت مبارزه می‌کند. این سریال با تصویری نو از شخصیت‌های شریف و متمرد، بینندگان را به دنیایی پر از درام و احساسات عمیق می‌برد.</desc>
     <date>1401</date>
     <category lang="fa">درام</category>
   </programme>
   <programme start="20260617000000 -0500" stop="20260617013800 -0500" channel="cinema">
     <title lang="fa">هیولا</title>
     <title lang="en">Monster</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg" width="500" height="750"/>
+    <desc lang="fa">هیولا روایت تلخی از زندگی یک نوجوان است که در مرزهای جامعه‌ای بی‌رحم قرار دارد و باید بین گناه و بی‌گناهی، حقیقت و دروغ راه خودش را بیابد. این فیلم درام کریمینال، رابطه‌ی پیچیده‌ی مادر و فرزند را بررسی می‌کند و نشان می‌دهد که چگونه تنهایی و تبعیض می‌تواند انسان را به هیولایی تبدیل کند.</desc>
     <date>2021</date>
     <category lang="fa">درام</category>
     <category lang="fa">جنایی</category>
@@ -3236,6 +3383,9 @@
   <programme start="20260617021500 -0500" stop="20260617035300 -0500" channel="cinema">
     <title lang="fa">مولان: آتش سرنوشت</title>
     <title lang="en">Mulan: Light A fire</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/kwPN5eeCEcEh347j7aW8BudNVF4.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/n8zEzmTbuK8auDNlua7C7K5ALDA.jpg" width="500" height="750"/>
+    <desc lang="fa">مولان باید برای نجات خاندانش و کشورش از بند سنت‌های محدودکننده رهایی یابد و به جنگجویی شجاع تبدیل شود. در سفری پرتلاطم و خطرناک، او قدرت داخلی خود را کشف می‌کند و یاد می‌گیرد که واقعی ترین قهرمان آن کسی است که جسارت دارد خود باشد.</desc>
     <date>2026</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -3245,6 +3395,9 @@
   <programme start="20260617043000 -0500" stop="20260617060300 -0500" channel="cinema">
     <title lang="fa">من نفوذی هستم</title>
     <title lang="en">I’m Undercover</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6EObfIe4akZGvCLXwXLJw3kPitQ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/c09XdTLpLku2tqHt158NZBgC4hi.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مأمور مخفی در میان باندهای خطرناک شهر تهران به ماموریتی سخت دست می‌یابد که نه تنها جانش را در خطر می‌اندازد، بلکه هویتش را نیز به مخاطره ای تدریجی دچار می‌کند. این فیلم داستان تنش‌آلود و احساسات پیچیده‌ای را روایت می‌کند که در میان دروغ و واقعیت نهفته است.</desc>
     <date>2026</date>
     <star-rating system="IMDB">
       <value>6.0/10</value>
@@ -3253,6 +3406,9 @@
   <programme start="20260617064500 -0500" stop="20260617085500 -0500" channel="cinema">
     <title lang="fa">جنگجوی نفرین شده</title>
     <title lang="en">Suyodhana</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/z6K4kbXT4D5o0t52ZX2m6RkFqfz.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/xKFffg930NgDsPg1LAKNRsFSk9I.jpg" width="500" height="750"/>
+    <desc lang="fa">جنگجوی نفرین شده داستان تاریک مردی را روایت می‌کند که تحت تأثیر نیروی تاریک و فرهنگ باستانی قرار گرفته است. این فیلم هیجان‌انگیز پر از رازهای خانوادگی است که به تدریج برملا می‌شوند و قهرمان را به سفری خطرناک برای رهایی از نفرین کشاند. در میان نبردهای شدید و لحظات تاریک، امید و فداکاری به تنهایی می‌تواند راه نجات باشد.</desc>
     <date>2026</date>
     <category lang="fa">هیجان‌انگیز</category>
     <category lang="fa">خانوادگی</category>
@@ -3264,6 +3420,9 @@
   <programme start="20260617093000 -0500" stop="20260617110300 -0500" channel="cinema">
     <title lang="fa">دختر خوب</title>
     <title lang="en">The Good Girl</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/jLom2BO1yMLUGLqDhVnzAGFkCZK.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zu4yuNaClCd6iEIsAeRcEdgbiqP.jpg" width="500" height="750"/>
+    <desc lang="fa">دختر خوب داستان زنی میانسال را دنبال می‌کند که در زندگی روزمره‌اش احساس خالی‌پنی می‌کند و برای فرار از یکنواختی زندگی زناشویی‌اش در ریسک‌های بزرگی تر می‌افتد. این فیلم با ترکیب طنزآمیز از درام و کمدی، ابعاد پیچیده‌ی آرزوها و خواهش‌های مخفی انسان را به نمایش می‌گذارد.</desc>
     <date>2002</date>
     <category lang="fa">درام</category>
     <category lang="fa">کمدی</category>
@@ -3275,6 +3434,9 @@
   <programme start="20260617114500 -0500" stop="20260617134000 -0500" channel="cinema">
     <title lang="fa">حس دلتنگی</title>
     <title lang="en">Nostalgia</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/z0ZAEC2aZuflzua3HOSygVzE6Jq.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مرد میانسال که سال‌ها از وطنش دور زندگی کرده، تصمیم می‌گیرد به شهر کودکی خود بازگردد تا خاطرات گمشده‌ای را دوباره زنده کند. در این سفر احساسی، او با تغییرات شهر، افراد قدیمی و تنهایی‌های ناپذیر روبرو می‌شود. فیلم درام تاثیرگذاری است که درباره قدرت خاطرات و سختی‌های بازگشت به گذشته می‌گوید.</desc>
     <date>2018</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -3284,6 +3446,9 @@
   <programme start="20260617141500 -0500" stop="20260617161900 -0500" channel="cinema">
     <title lang="fa">آخرین شب عشق</title>
     <title lang="en">Last Night of Amore</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/mUwtIH6Zl9tcl3Vo5IHoj5zG8MZ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/yKxmEfFrLjPLutpi7alffLOwMSj.jpg" width="500" height="750"/>
+    <desc lang="fa">یک شب تاریک و خطرناک در شهری پر از رازها، جایی که عشق و خیانت با یکدیگر درهم‌ریختند و هر لحظه ممکن است سرنوشت را تغییر دهد. دو شخصیت در میان بازی‌های کشنده و انتقام‌جویانه، آخرین شب زندگی خود را سپری می‌کنند. فیلمی پر از تنش و غافل‌گیری که پایان آن را نتوان پیش‌بینی کرد.</desc>
     <date>2023</date>
     <category lang="fa">هیجان‌انگیز</category>
     <category lang="fa">جنایی</category>
@@ -3294,6 +3459,9 @@
   <programme start="20260617170000 -0500" stop="20260617185600 -0500" channel="cinema">
     <title lang="fa">معجزه ایمان</title>
     <title lang="en">Unexplainable</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/65ysk3EEssozUCFDGiYi495ChKw.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/43wvYeSBYjMRln5VvAL452nT7Pj.jpg" width="500" height="750"/>
+    <desc lang="fa">یک خانواده معمولی با درام‌های ناشی از بیماری و ناامیدی روبه‌رو می‌شود، اما حوادثی غیرقابل‌توضیح و شگفت‌انگیز به ترتیب اعضای خانواده را تغییر می‌دهد. این فیلم داستان پیدایش ایمان و امید را در میان تاریکی‌ترین لحظات زندگی بیان می‌کند. معجزات ظاهری نه تنها جسم، بلکه روح‌های شکست‌خورده را شفا می‌بخشند.</desc>
     <date>2024</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -3303,6 +3471,9 @@
   <programme start="20260617193000 -0500" stop="20260617205300 -0500" channel="cinema">
     <title lang="fa">اوماها</title>
     <title lang="en">Omaha</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rf8V9z28gJre58U9ObHN3NJph4A.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg" width="500" height="750"/>
+    <desc lang="fa">اومالا داستان نفوذ عمیق خانواده‌ای است که در مواجهه با چالش‌های ناپذیری و تغییرات زندگی، به دنبال معنای واقعی وابستگی و محبت می‌گردند. این فیلم درام‌اتیک حقایق تلخ و شیرین روابط انسانی را به نمایش می‌گذارد و از طریق لحظات حساس و صادق، درس‌هایی بنیادی درباره تاب‌آوری و امید را منتقل می‌کند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <category lang="fa">خانوادگی</category>
@@ -3313,6 +3484,9 @@
   <programme start="20260617213000 -0500" stop="20260617230300 -0500" channel="cinema">
     <title lang="fa">دختر خوب</title>
     <title lang="en">The Good Girl</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/jLom2BO1yMLUGLqDhVnzAGFkCZK.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zu4yuNaClCd6iEIsAeRcEdgbiqP.jpg" width="500" height="750"/>
+    <desc lang="fa">دختر خوب داستان زنی میانسال را دنبال می‌کند که در زندگی روزمره‌اش احساس خالی‌پنی می‌کند و برای فرار از یکنواختی زندگی زناشویی‌اش در ریسک‌های بزرگی تر می‌افتد. این فیلم با ترکیب طنزآمیز از درام و کمدی، ابعاد پیچیده‌ی آرزوها و خواهش‌های مخفی انسان را به نمایش می‌گذارد.</desc>
     <date>2002</date>
     <category lang="fa">درام</category>
     <category lang="fa">کمدی</category>
@@ -3324,6 +3498,9 @@
   <programme start="20260617234500 -0500" stop="20260618014000 -0500" channel="cinema">
     <title lang="fa">حس دلتنگی</title>
     <title lang="en">Nostalgia</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/z0ZAEC2aZuflzua3HOSygVzE6Jq.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg" width="500" height="750"/>
+    <desc lang="fa">یک مرد میانسال که سال‌ها از وطنش دور زندگی کرده، تصمیم می‌گیرد به شهر کودکی خود بازگردد تا خاطرات گمشده‌ای را دوباره زنده کند. در این سفر احساسی، او با تغییرات شهر، افراد قدیمی و تنهایی‌های ناپذیر روبرو می‌شود. فیلم درام تاثیرگذاری است که درباره قدرت خاطرات و سختی‌های بازگشت به گذشته می‌گوید.</desc>
     <date>2018</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -3766,6 +3943,9 @@
   <programme start="20260617103000 -0500" stop="20260617120100 -0500" channel="plus">
     <title lang="fa">مرز</title>
     <title lang="en">OBEX</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/77aCeoWOA5toCWk67lTAzrfW92Y.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/989voQxc9qAJKuBaoBHngqnpLsD.jpg" width="500" height="750"/>
+    <desc lang="fa">گروهی از ماجراجویان به دنبال کشف راز یک مرز مرموز می‌روند که میان دو جهان موازی قرار دارد و تاریکی‌های ناشناخته‌ای را در خود پنهان کرده است. با هر گامی که به سوی این مرز برمی‌دارند، وحشت‌های ابدی بر آنها سایه می‌افکند و باید برای بقا و فرار از این دام جادویی تمام توان خود را به کار گیرند.</desc>
     <date>2026</date>
     <category lang="fa">ترسناک</category>
     <category lang="fa">ماجراجویی</category>
@@ -3844,6 +4024,9 @@
   <programme start="20260617190000 -0500" stop="20260617203100 -0500" channel="plus">
     <title lang="fa">مرز</title>
     <title lang="en">OBEX</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/77aCeoWOA5toCWk67lTAzrfW92Y.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/989voQxc9qAJKuBaoBHngqnpLsD.jpg" width="500" height="750"/>
+    <desc lang="fa">گروهی از ماجراجویان به دنبال کشف راز یک مرز مرموز می‌روند که میان دو جهان موازی قرار دارد و تاریکی‌های ناشناخته‌ای را در خود پنهان کرده است. با هر گامی که به سوی این مرز برمی‌دارند، وحشت‌های ابدی بر آنها سایه می‌افکند و باید برای بقا و فرار از این دام جادویی تمام توان خود را به کار گیرند.</desc>
     <date>2026</date>
     <category lang="fa">ترسناک</category>
     <category lang="fa">ماجراجویی</category>
@@ -3855,6 +4038,9 @@
   <programme start="20260617193000 -0500" stop="20260617211100 -0500" channel="plus">
     <title lang="fa">در حال سقوط</title>
     <title lang="en">On Falling</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/AgTy5IsOv1FAx02gunir8ZSiUxG.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/7x8x6dl4leOSw6KGUcOrQew7Eua.jpg" width="500" height="750"/>
+    <desc lang="fa">فیلمی درام که داستان انسانی از فروپاشی و تجدید زندگی را روایت می‌کند؛ قهرمان اصلی در لحظاتی که همه چیز از دست می‌رود، با خود و دنیای اطرافش دوباره مواجه می‌شود. این اثر با عمق احساسی، سفر درونی انسان را در برابر چالش‌های ناپذیر تصویر می‌کند و امید را میان تاریکی‌ها جستجو می‌کند.</desc>
     <date>2025</date>
     <category lang="fa">درام</category>
     <star-rating system="IMDB">
@@ -3904,6 +4090,8 @@
   <programme start="20260617230000 -0500" stop="20260618004000 -0500" channel="reality">
     <title lang="fa">انکور جین ران، روز اول</title>
     <title lang="en">RUNSEOKJIN_EP.TOUR in GOYANG: Day 1</title>
+    <icon src="https://image.tmdb.org/t/p/w500/bvs60gwaoGcsP0qye1u9ZGl5T7c.jpg" width="500" height="750"/>
+    <desc lang="fa">جین‌ران با برگزاری کنسرت بزرگ خود در گویانگ، یک شب فراموش‌نشدنی را به تماشاچیان هدیه می‌دهد. این مستند موزیکال، لحظات درخشان اجرای هنری و انرژی پر شور فنان روی صحنه را ثبت می‌کند و از پس‌پردۀ صحنه تا لحظات تعاملی با طرفداران، سفری جادویی را ترسیم می‌نماید.</desc>
     <date>2025</date>
     <category lang="fa">مستند</category>
     <category lang="fa">موزیکال</category>
@@ -3937,26 +4125,41 @@
   <programme start="20260617160000 -0500" stop="20260617170000 -0500" channel="sport1">
     <title lang="fa">فوتبال ساحلی</title>
     <title lang="en">Iran vs. Indonesia</title>
+    <desc lang="fa">دیدار فوتبال ساحلی میان تیم‌های ملی ایران و اندونزی، رویدادی هیجان‌انگیز در عرصه ورزش ساحلی که نمایش‌دهنده تواناییها و مهارت‌های فوتبالیستان دو کشور است. این برنامه ورزشی، تماشاگران را با لحظات هیجان‌انگیز و رقابت سطح بالای میان دو تیم آشنا می‌کند.</desc>
   </programme>
   <programme start="20260617171500 -0500" stop="20260617181500 -0500" channel="sport1">
     <title lang="fa">گلف</title>
     <title lang="en">India Championship 2025</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/fU3vgSKLnlTS8fOXRDcgyj1aYco.jpg" width="500" height="750"/>
+    <desc lang="fa">این برنامه ورزشی به پوشش مسابقات گلف قهرمانی هند اختصاص دارد که بهترین بازیکنان گلف کشور برای کسب عنوان قهرمانی رقابت می‌کنند. تماشاگران شاهد رقابت‌های هیجان‌انگیز و درام‌آمیز خواهند بود که در حین مسابقات بر روی زمین‌های سبز و چالش‌انگیز هند برگزار می‌شود.</desc>
   </programme>
   <programme start="20260617183000 -0500" stop="20260617193000 -0500" channel="sport1">
     <title lang="fa">اسکی</title>
     <title lang="en">Women’s Ski Knuckle Huck</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/iZLtHdy8supE79NsAXERN5Vju1K.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/qyMRPJbinasC0AY19qjwR0xD9i4.jpg" width="500" height="750"/>
+    <desc lang="fa">این برنامه ورزشی هیجان‌انگیز به دنبال زنان اسکی‌باز توانمندی است که در مسابقات پرخطر اسکی شرکت می‌کنند و از حدود معمول فراتر می‌روند. داستان تلاش‌های ایستادگی و شجاعت این ورزشکاران را به تصویر می‌کشد که در حالی سخت‌گیرانه تمرین می‌کنند، به دنبال عملکرد خارق‌العاده و کسب افتخار در عرصه بین‌المللی هستند.</desc>
   </programme>
   <programme start="20260617193000 -0500" stop="20260617203000 -0500" channel="sport1">
     <title lang="fa">پبنگ پنگ</title>
     <title lang="en">WTTZagreb 2026</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/1rEPk87q49PspQmBJ74bwsXBVkH.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/frgVn3ww547TVQH8vS2bWKZnEBu.jpg" width="500" height="750"/>
+    <desc lang="fa">برنامه‌ای ورزشی که از مسابقات تنیس روی میز در زاگرب سال ۲۰۲۶ پوشش می‌دهد و بهترین بازیکنان جهان را در حال رقابت برای کسب عنوان قهرمانی نشان می‌دهد. این رویداد بین‌المللی توانایی‌های فنی و تاکتیکی ورزشکاران را به نمایش می‌گذارد و لحظات هیجان‌انگیز و پیروزی‌های یادماندنی را به تماشاگران ارائه می‌دهد.</desc>
   </programme>
   <programme start="20260617210000 -0500" stop="20260617220000 -0500" channel="sport1">
     <title lang="fa">فوتبال خاطره انگیز</title>
     <title lang="en">Netherlands v Spain | 2010</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/kYYLFAFJ9HW5vBzXzCM0IkuosWV.jpg" width="780" height="439"/>
+    <desc lang="fa">این برنامه ورزشی یادی از دیدار تاریخی بین تیم‌های هلند و اسپانیا در سال ۲۰۱۰ را ثبت می‌کند که یکی از درخشان‌ترین لحظات فوتبال جهانی بود. این مسابقه پرشور و پر‌تنش، خاطرات لذیذی برای طرفداران فوتبال به جای گذاشت و ستاره‌های درخشان این دو تیم را به نمایش گذاشت.</desc>
   </programme>
   <programme start="20260617001500 -0500" stop="20260617011500 -0500" channel="sport2">
     <title lang="fa">والیبال ساحلی</title>
     <title lang="en">Alanya 2026 </title>
+    <icon src="https://image.tmdb.org/t/p/w1280/pcA8Pk0Va1CPr6EKqZSnAdvHk0e.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/iL3et3wmG11NRuTCCAw437aso8G.jpg" width="500" height="750"/>
+    <desc lang="fa">والیبال ساحلی؛ یک برنامه ورزشی هیجان‌انگیز که بهترین تیم‌های جهان را در شهر ساحلی آلانیا گرد هم می‌آورد. این مسابقات پرشور، نمایشی از مهارت، تیم‌کاری و روح ورزشی است که تماشاگران را به حاشیه صندلی‌های خود می‌کشاند.</desc>
   </programme>
   <programme start="20260617010000 -0500" stop="20260617024500 -0500" channel="sport2">
     <title lang="fa">جام جهانی فوتبال مردان</title>
@@ -3969,10 +4172,13 @@
   <programme start="20260617020000 -0500" stop="20260617030000 -0500" channel="sport2">
     <title lang="fa">موتو جی پی</title>
     <title lang="en">Grand Prix Build Up | 2026 Hungarian GP</title>
+    <icon src="https://image.tmdb.org/t/p/w500/AuuKUeUczjceQyuUeGNXAocscD4.jpg" width="500" height="750"/>
+    <desc lang="fa">این مستند ورزشی به بررسی آمادگی‌های فشرده برای مسابقه بزرگ جایزه گرند پری مجارستان سال ۲۰۲۶ می‌پردازد و زندگی پشت صحنه تیم‌ها، راننده‌ها و تکنسین‌ها را در حین تدارک برای یکی از رقابت‌های شدید فرمول یک نشان می‌دهد. فشار، استراتژی و اشتیاق برای پیروزی در این برنامه به تصویر کشیده شده است.</desc>
   </programme>
   <programme start="20260617030000 -0500" stop="20260617040000 -0500" channel="sport2">
     <title lang="fa">راگبی</title>
     <title lang="en">بازی کامل وایلدکتس اف سی در مقابل فاوندرز اف اف سی</title>
+    <desc lang="fa">این برنامه ورزشی تماشایی، بازی راگبی بین تیم‌های وایلدکتس و فاوندرز را به تصویر می‌کشد که پر از لحظات هیجان‌انگیز و حرکات تاکتیکی است. تماشاگران شاهد نبردی خیره‌کننده خواهند بود که هر دو تیم تمامی توان خود را به کار می‌برند تا پیروزی را به دست آورند.</desc>
   </programme>
   <programme start="20260617040000 -0500" stop="20260617054500 -0500" channel="sport2">
     <title lang="fa">جام جهانی فوتبال مردان</title>
@@ -3985,18 +4191,22 @@
   <programme start="20260617040000 -0500" stop="20260617050000 -0500" channel="sport2">
     <title lang="fa">فوتبال خاطره‌انگیز </title>
     <title lang="en">انگلیس در مقابل اروگوئه | جام جهانی فوتبال ۲۰۱۴ برزیل </title>
+    <desc lang="fa">این برنامه ورزشی خاطره‌انگیز داستان دیدار تاریخی بین تیم‌های انگلیس و اروگوئه در جام جهانی فوتبال ۲۰۱۴ برزیل را بازگو می‌کند. مسابقه‌ای که لحظات هیجان‌انگیز و شکست‌های دل‌خراش را برای هواداران به ارمغان آورد. این فیلم یکی از تاثیرگذارترین بازی‌های تاریخ فوتبال را به تصویر می‌کشد.</desc>
   </programme>
   <programme start="20260617041500 -0500" stop="20260617051500 -0500" channel="sport2">
     <title lang="fa">هایلایت ورزشیتنیس</title>
     <title lang="en">ماریا شاراپووا در مقابل سرنا ویلیامز: فینال ویمبلدون ۲۰۰۴ </title>
+    <desc lang="fa">این برنامه ورزشی بخش‌هایی از یکی از مهم‌ترین مسابقات تنیس تاریخ را به نمایش می‌گذارد: فینال ویمبلدون ۲۰۰۴ میان ماریا شاراپووا جوان و سرنا ویلیامز. این دیدار تاریخی شاهد ظهور یک ستاره جدید در دنیای تنیس بود و لحظاتی هیجان‌انگیز و تعیین‌کننده را برای تماشاگران جهان به ارمغان آورد.</desc>
   </programme>
   <programme start="20260617060000 -0500" stop="20260617070000 -0500" channel="sport2">
     <title lang="fa">ورزش و نرمش</title>
     <title lang="en">ورزش و نرمش</title>
+    <desc lang="fa">برنامهای ورزشی که به معرفی انواع تمرینات بدنی و روشهای سلامتبخش توجه دارد. این برنامه به مخاطبان کمک میکند تا با تمرینات ساده و موثر، سلامت و تناسب اندام خود را بهبود بخشند و به سبک زندگی فعالتری دست یابند. با تمرکز بر اهمیت ورزش منظم، برنامه راهنمایی عملی برای همه سنین فراهم میکند.</desc>
   </programme>
   <programme start="20260617061500 -0500" stop="20260617071500 -0500" channel="sport2">
     <title lang="fa">هایلایت ورزشی</title>
     <title lang="en">تمام گل های مرحله حذفی جام جهانی 2022</title>
+    <desc lang="fa">این برنامه ورزشی تمام لحظات درخشان و گل های هیجان‌انگیز مرحله حذفی جام جهانی ۲۰۲۲ را به تماشاگران ارائه می‌دهد. از شانزدهم نهایی تا فینال، هر لحظه تاریخ‌ساز و درام‌دار این مسابقات جهانی در اینجا خلاصه شده است. این مجموعه برای هواداران فوتبال فرصتی بی‌نظیر است تا بهترین لحظات یکی از بزرگ‌ترین رویدادهای ورزشی جهان را دوباره ببینند.</desc>
   </programme>
   <programme start="20260617063000 -0500" stop="20260617073000 -0500" channel="sport2">
     <title lang="fa">تنیس</title>
@@ -4008,6 +4218,9 @@
   <programme start="20260617103000 -0500" stop="20260617113000 -0500" channel="sport2">
     <title lang="fa">اسکواش</title>
     <title lang="en">New Zealand Open 2026</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/IGJA6QumuRN42sq1lN9LQPTg8q.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/eoS18fGliTTXoResh67QdNzjatw.jpg" width="500" height="750"/>
+    <desc lang="fa">مسابقات اسکواش نیوزیلند ۲۰۲۶ یکی از برجسته‌ترین رویدادهای ورزشی جهان است که بهترین بازیکنان اسکواش از سراسر دنیا را گرد هم می‌آورد. این مسابقات شامل رقابت‌های فردی و تیمی است که در محیط‌های مدرن برگزار می‌شود. تماشاگران شاهد نمایش مهارت‌های فنی و روحیه رقابتی ورزشکاران برتر خواهند بود.</desc>
   </programme>
   <programme start="20260617120000 -0500" stop="20260617130000 -0500" channel="sport2">
     <title lang="fa">هایلایت ورزشی</title>
@@ -4035,6 +4248,7 @@
   <programme start="20260617173000 -0500" stop="20260617183000 -0500" channel="sport2">
     <title lang="fa">ورزش و نرمش</title>
     <title lang="en">ورزش و نرمش</title>
+    <desc lang="fa">برنامهای ورزشی که به معرفی انواع تمرینات بدنی و روشهای سلامتبخش توجه دارد. این برنامه به مخاطبان کمک میکند تا با تمرینات ساده و موثر، سلامت و تناسب اندام خود را بهبود بخشند و به سبک زندگی فعالتری دست یابند. با تمرکز بر اهمیت ورزش منظم، برنامه راهنمایی عملی برای همه سنین فراهم میکند.</desc>
   </programme>
   <programme start="20260617183000 -0500" stop="20260617193000 -0500" channel="sport2">
     <title lang="fa">تنیس</title>
@@ -4059,6 +4273,9 @@
   <programme start="20260617223000 -0500" stop="20260617233000 -0500" channel="sport2">
     <title lang="fa">اسکواش</title>
     <title lang="en">New Zealand Open 2026</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/IGJA6QumuRN42sq1lN9LQPTg8q.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/eoS18fGliTTXoResh67QdNzjatw.jpg" width="500" height="750"/>
+    <desc lang="fa">مسابقات اسکواش نیوزیلند ۲۰۲۶ یکی از برجسته‌ترین رویدادهای ورزشی جهان است که بهترین بازیکنان اسکواش از سراسر دنیا را گرد هم می‌آورد. این مسابقات شامل رقابت‌های فردی و تیمی است که در محیط‌های مدرن برگزار می‌شود. تماشاگران شاهد نمایش مهارت‌های فنی و روحیه رقابتی ورزشکاران برتر خواهند بود.</desc>
   </programme>
   <programme start="20260617020000 -0500" stop="20260617030000 -0500" channel="sport3">
     <title lang="fa">ورزش در خانه</title>
@@ -4088,6 +4305,7 @@
   <programme start="20260617013000 -0500" stop="20260617033000 -0500" channel="sport4">
     <title lang="fa">Mexico All Stars vs Los Angeles Black Storm</title>
     <title lang="en">Mexico All Stars vs Los Angeles Black Storm</title>
+    <desc lang="fa">در این مسابقهٔ ورزشی هیجان‌انگیز، تیم ستاره‌های مکسیکو با قوت و شور خود را برای رویارویی با طوفان سیاه لس‌آنجلس آماده می‌کند. این دو تیم در سال ۲۰۲۲ در یک بازی فوق‌العاده به رقابت می‌پردازند که هواداران را در انتظار یک پیروزی درخشان نگاه‌دارد.</desc>
     <date>2022</date>
   </programme>
   <programme start="20260617033000 -0500" stop="20260617061500 -0500" channel="sport4">
@@ -4129,26 +4347,40 @@
   <programme start="20260617024500 -0500" stop="20260617034500 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">Tehran Iran in 2025 | 15 Best Experiences for Travelers</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rGf1jTRsuIwWFakid7VAS9CkF2f.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/j2tbmoUYlILffvPJpCqMzXGGZfU.jpg" width="500" height="750"/>
+    <desc lang="fa">این فیلم کوتاه مسافران را در سفری جذاب به تهران سال ۱۴۰۴ دعوت می‌کند و پانزده تجربه برتر و خاطره‌انگیز در این شهر پرتلاطم را به نمایش می‌گذارد. از معماری تاریخی و بازارهای سنتی گرفته تا مکان‌های مدرن و فرهنگی، این ویلاگ به بیننده کمک می‌کند تا بهترین راه‌ها برای کاوش و لذت‌بردن از تهران را کشف کند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260617031500 -0500" stop="20260617041500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">Pasargadae: The Oldest Persian Garden In The World</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/9Q7Q6B4hVE6DWl72m02mJceMCQS.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/gqkKWCfIGYvrdRWBVXn5Uy8jDiO.jpg" width="500" height="750"/>
+    <desc lang="fa">پاسارگاد میراث زیبای سلطنت کوروش بزرگ است که یکی از قدیمی‌ترین باغ‌های ایرانی در جهان به شمار می‌رود. این مستند کوتاه به بررسی معماری شگفت‌انگیز، طرح‌های باغی باستانی و تاثیر فرهنگی این شاهکار تاریخی بر تمدن‌های بعدی می‌پردازد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260617041500 -0500" stop="20260617051500 -0500" channel="travel">
     <title lang="fa">Walking Tour</title>
     <title lang="en">The MOST Vibrant Market in Iran | Tajrish Bazaar</title>
+    <icon src="https://image.tmdb.org/t/p/w500/1XrbXWwEJ4jtEJXwiBi6tHPCNH.jpg" width="500" height="750"/>
+    <desc lang="fa">این فیلم کوتاه به تماشاگران دعوت می‌کند تا در میان رنگین‌ترین و شلوغ‌ترین بازار ایران، بازار تاجریش، قدم زنند و از نزدیک شاهد زندگی روزمره، صنایع دستی محلی و فرهنگ غنی این مکان تاریخی باشند. این تور بصری یک سفر جذاب به دل تهران است که طعم، بو و رنگ‌های واقعی شهر را به نمایش می‌گذارد.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260617063000 -0500" stop="20260617073000 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">Life in Tehran Iran Left Me Speechless</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rGf1jTRsuIwWFakid7VAS9CkF2f.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/j2tbmoUYlILffvPJpCqMzXGGZfU.jpg" width="500" height="750"/>
+    <desc lang="fa">یک سفر بصری شگفت‌انگیز به دل تهران که در آن شهر باستانی با تمام پیچیدگی‌ها و زیبایی‌های خود نمایان می‌شود. این فیلم کوتاه با لحنی صادقانه، تناقض‌های شهری، رنگ‌های زندگی روزمره و لحظات فراموش‌نشدنی را ثبت می‌کند که ناظر را بی‌صدا می‌گذارد. تهران به عنوان یک شخصیت زنده، با داستان‌های خود را به روایت‌گر بازگو می‌کند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260617071500 -0500" stop="20260617081500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">Life in IRAN</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/9Q7Q6B4hVE6DWl72m02mJceMCQS.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/gqkKWCfIGYvrdRWBVXn5Uy8jDiO.jpg" width="500" height="750"/>
+    <desc lang="fa">این مستند کوتاه به تصویر کشیدن زندگی روزمره مردم ایران و تنوع فرهنگی آن‌ها را دنبال می‌کند. از خیابان‌های شهری گرفته تا روستاهای دورافتاده، فیلم نقش حیاتی انسان‌ها و رویاها را در این سرزمین تاریخی به نمایش می‌گذارد. این اثر پنجره‌ای به درون روح ایران و تاب‌آوری فرهنگی آن باز می‌کند.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260617081500 -0500" stop="20260617091500 -0500" channel="travel">
@@ -4178,16 +4410,24 @@
   <programme start="20260617104500 -0500" stop="20260617114500 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">Tehran Iran in 2025 | 15 Best Experiences for Travelers</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rGf1jTRsuIwWFakid7VAS9CkF2f.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/j2tbmoUYlILffvPJpCqMzXGGZfU.jpg" width="500" height="750"/>
+    <desc lang="fa">این فیلم کوتاه مسافران را در سفری جذاب به تهران سال ۱۴۰۴ دعوت می‌کند و پانزده تجربه برتر و خاطره‌انگیز در این شهر پرتلاطم را به نمایش می‌گذارد. از معماری تاریخی و بازارهای سنتی گرفته تا مکان‌های مدرن و فرهنگی، این ویلاگ به بیننده کمک می‌کند تا بهترین راه‌ها برای کاوش و لذت‌بردن از تهران را کشف کند.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260617111500 -0500" stop="20260617121500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">Pasargadae: The Oldest Persian Garden In The World</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/9Q7Q6B4hVE6DWl72m02mJceMCQS.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/gqkKWCfIGYvrdRWBVXn5Uy8jDiO.jpg" width="500" height="750"/>
+    <desc lang="fa">پاسارگاد میراث زیبای سلطنت کوروش بزرگ است که یکی از قدیمی‌ترین باغ‌های ایرانی در جهان به شمار می‌رود. این مستند کوتاه به بررسی معماری شگفت‌انگیز، طرح‌های باغی باستانی و تاثیر فرهنگی این شاهکار تاریخی بر تمدن‌های بعدی می‌پردازد.</desc>
     <date>2024</date>
   </programme>
   <programme start="20260617121500 -0500" stop="20260617131500 -0500" channel="travel">
     <title lang="fa">Walking Tour</title>
     <title lang="en">The MOST Vibrant Market in Iran | Tajrish Bazaar</title>
+    <icon src="https://image.tmdb.org/t/p/w500/1XrbXWwEJ4jtEJXwiBi6tHPCNH.jpg" width="500" height="750"/>
+    <desc lang="fa">این فیلم کوتاه به تماشاگران دعوت می‌کند تا در میان رنگین‌ترین و شلوغ‌ترین بازار ایران، بازار تاجریش، قدم زنند و از نزدیک شاهد زندگی روزمره، صنایع دستی محلی و فرهنگ غنی این مکان تاریخی باشند. این تور بصری یک سفر جذاب به دل تهران است که طعم، بو و رنگ‌های واقعی شهر را به نمایش می‌گذارد.</desc>
     <date>2025</date>
   </programme>
   <programme start="20260617203000 -0500" stop="20260617215500 -0500" channel="turkey">
