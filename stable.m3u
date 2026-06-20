@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-06-20 14:13 UTC
+# Generated 2026-06-20 17:16 UTC
 
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه 1" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
@@ -159,6 +159,8 @@ https://ncdn.telewebion.ir/radionamayesh/live/playlist.m3u8
 https://ncdn.telewebion.ir/radiosaba/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو تهران" tvg-logo="https://static.telewebion.ir/channelsLogo/6bd4f383-6b4d-45b6-b69c-5e030a93a042/default" group-title="تلوبیون",رادیو تهران
 https://ncdn.telewebion.ir/radiotehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رادیو زیارت" tvg-logo="https://static.telewebion.ir/channelsLogo/MjRhZTBhMDU2YmJmMDVlN2RjNTAyZDMyMjc5ZTlmMDg4ZjU0ZDJiM2Y2Yzk3ZTMzMDY4YTQxNjdlNWY1NjJmMA/default" group-title="تلوبیون",رادیو زیارت
+https://ncdn.telewebion.ir/radioziarat/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو فرهنگ" tvg-logo="https://static.telewebion.ir/channelsLogo/2016a911-5b68-4e64-a68b-b130fc065546/default" group-title="تلوبیون",رادیو فرهنگ
 https://ncdn.telewebion.ir/radiofarhang/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو جوان" tvg-logo="https://static.telewebion.ir/channelsLogo/YzFkOTVmNDI3NTI4MDkzYTEwMWQzNDIyNzhhZmM3NzhmMzc4MTExOTVjYzJmYzI1OWMwOTE5MzM0ZTVkZTVjYQ/default" group-title="تلوبیون",رادیو جوان
