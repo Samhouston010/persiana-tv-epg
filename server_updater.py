@@ -17,6 +17,60 @@ def proxy_url(original_url):
 # channels that stay in سراسری — everything else national → خبری و سرگرمی
 SARASARI_SLUGS = {'tv1','tv2','tv3','tv4','tehran','ofogh','amouzesh','salamat','faratar'}
 
+SLUG_LOGO = {
+    'tv1':'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png',
+    'tv2':'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png',
+    'tv3':'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png',
+    'tv4':'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png',
+    'tehran':'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png',
+    'varzesh':'https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png',
+    'ofogh':'https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png',
+    'amouzesh':'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png',
+    'irinn':'https://i.imgur.com/8tzsC9h.png',
+    'irinn2':'https://i.imgur.com/8tzsC9h.png',
+    'nasim':'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png',
+    'namayesh':'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png',
+    'mostanad':'https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png',
+    'ifilm':'https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png',
+    'salamat':'https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png',
+    'pooya':'https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png',
+    'omid':'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png',
+    'sepehr':'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png',
+    'faratar':'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png',
+    'tamasha':'https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png',
+    'abadan':'https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png',
+    'azarbayjangharbi':'https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png',
+    'ara':'https://i.ibb.co/dwSHt2SG/Ara.png',
+    'aftab':'https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png',
+    'atrak':'https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png',
+    'esfahan':'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png',
+    'aflak':'https://i.imgur.com/LkLCHpf.png',
+    'alborz':'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png',
+    'ilam':'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png',
+    'baran':'https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png',
+    'bushehr':'https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png',
+    'jahanbin':'https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png',
+    'khavaran':'https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png',
+    'khorasanrazavi':'https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png',
+    'khalijefars':'https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png',
+    'khoozestan':'https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png',
+    'dena':'https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png',
+    'zagros':'https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png',
+    'sabalan':'https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png',
+    'semnan':'https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png',
+    'sahand':'https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png',
+    'fars':'https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png',
+    'qazvin':'https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png',
+    'tabarestan':'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png',
+    'mahabad':'https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png',
+    'hamoon':'https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png',
+    'sina':'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png',
+    'kordestan':'https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png',
+    'kerman':'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png',
+    'kish':'https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png',
+    'taban':'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png',
+}
+
 SLUG_TVG_ID = {
     'tv1':'IRIB1.ir','tv2':'IRIB2.ir','tv3':'IRIB3.ir','tv4':'IRIB4.ir',
     'tehran':'TehranTV.ir','varzesh':'VarzeshTV.ir','ofogh':'OfoghTV.ir',
@@ -54,8 +108,7 @@ def fetch_irib_m3u():
         if t in ("radio",):
             continue
         name = ch.get("name", slug)
-        img = ch.get("image_name", "")
-        logo = f"https://static.telewebion.com/channelsLogo/{img}/default" if img else ""
+        logo = SLUG_LOGO.get(slug, "")
         tvg_id = SLUG_TVG_ID.get(slug, "")
         url = f"https://ncdn.telewebion.ir/{slug}/live/playlist.m3u8"
 
