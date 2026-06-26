@@ -35,7 +35,7 @@ for i, line in enumerate(lines):
         url = lines[i+1] if i+1 < len(lines) else ''
         if 'telewebion' in url:
             out.append(TAGS_TELEWEBION)
-        else:
+        elif 'antik.sk' not in url:
             out.append(TAGS_NORMAL)
         count += 1
     out.append(line)
