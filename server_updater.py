@@ -122,7 +122,8 @@ def fetch_irib_m3u():
         if t in ("radio",):
             continue
         name = ch.get("name", slug)
-        logo = SLUG_LOGO.get(slug, "")
+        img = ch.get("image_name", "")
+        logo = SLUG_LOGO.get(slug) or (f"https://cdn.telewebion.ir/channelsLogo/{img}/default" if img else "")
         tvg_id = SLUG_TVG_ID.get(slug, "")
         url = f"https://ncdn.telewebion.ir/{slug}/live/playlist.m3u8"
 
