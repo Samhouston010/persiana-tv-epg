@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 API='https://www.persianagroup.tv/api/v1'; SITE='https://www.persianagroup.tv/'
 RAW='https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main'
 TZ='-0500'
-ECLUB=('English Club TV','English Club TV','https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png','http://181.214.140.229:8888/eclub/playlist.m3u8')
+ECLUB=('English Club TV','English Club TV','https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png','https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8')
 H={'User-Agent':'Mozilla/5.0','Referer':SITE}
 s=requests.Session(); s.headers.update(H)
 def au(u):
