@@ -60,6 +60,7 @@ for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'پرشیانا',cat
 add('',ECLUB[1],ECLUB[0],ECLUB[2],ECLUB[3],'پرشیانا')
 for g in order:
     for nf,ne,lg,url in extra[g]: add('',ne,nf,lg,url,g)
+    if g in ('شبکه اسرائیل','لبنان'): add('',ECLUB[1],ECLUB[0],ECLUB[2],ECLUB[3],g)
 for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'ALL',catchup=True)
 for g in order:
     for nf,ne,lg,url in extra[g]: add('',ne,nf,lg,url,'ALL')

@@ -138,6 +138,8 @@ def fetch_irib_m3u():
         lines.append(url)
         count += 1
 
+    lines.append('#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png" group-title="سراسری",English Club TV')
+    lines.append('http://181.214.140.229:8888/eclub/playlist.m3u8')
     content = "\n".join(lines) + "\n"
     Path("irib.m3u").write_text(content, encoding="utf-8")
     Path("irib_original.m3u").write_text(content, encoding="utf-8")
