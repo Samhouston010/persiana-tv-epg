@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-06-29 18:05 UTC
+# Generated 2026-06-29 20:04 UTC
 
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه 1" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
@@ -7,6 +7,8 @@ https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="شبکه 3" tvg-logo="https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default" group-title="سراسری",شبکه 3
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="شبکه 4" tvg-logo="https://static.telewebion.ir/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default" group-title="سراسری",شبکه 4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="نسیم" tvg-logo="https://static.telewebion.ir/channelsLogo/NWMwZWI1N2NiNTgzZjVhYjViNmMxNTYzZjQ0ODczZTMwZWEyZWQyMDJlN2RjMmIwNTUzYmE4NTFiZDljYzQwOQ/default" group-title="سراسری",نسیم
 https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="خبر" tvg-logo="https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default" group-title="سراسری",خبر
@@ -23,6 +25,8 @@ https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="شبکه تهران" tvg-logo="https://static.telewebion.ir/channelsLogo/NzQyZGZmZmI2MTlkZmYxZTdkMzFjNmVlYzY3MzdmNTJkNzZmYTZkOGYxM2U5YjJmMjk2NGQyMDhmZWMyYjY2Yw/default" group-title="سراسری",شبکه تهران
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مستند" tvg-logo="https://static.telewebion.ir/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default" group-title="سراسری",مستند
+https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="قرآن" tvg-logo="https://static.telewebion.ir/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default" group-title="سراسری",قرآن
 https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="آموزش" tvg-logo="https://static.telewebion.ir/channelsLogo/80849bee-6fb3-4e82-8047-da2ead8b61bf/default" group-title="سراسری",آموزش
@@ -31,6 +35,10 @@ https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="افق" tvg-logo="https://static.telewebion.ir/channelsLogo/OTc3YjJkNzk0MmJjMjkxMTRmNjk2MmNhNTdiNGNkNjMxNjE2NWU1ZDI5MzlhMjI0MzZiYzljNDVkMjRkZTkxMA/default" group-title="سراسری",افق
 https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="امید" tvg-logo="https://static.telewebion.ir/channelsLogo/NzRjZTk4ZmFjMGNlNzMzMjM2N2JjYWE1YTFmYmVkOTMzYTVmNzgzNzk1ZGZlMDJiMGM5NzU1YTM3NDkyZmY0Zg/default" group-title="سراسری",امید
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="فراتر" tvg-logo="https://static.telewebion.ir/channelsLogo/6495b89d-0463-4544-9f09-0321b26ad116/default" group-title="سراسری",فراتر
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="خبر 2" tvg-logo="https://static.telewebion.ir/channelsLogo/0a85d80d-6380-4fe4-b23f-23a2615a411e/default" group-title="سراسری",خبر 2
 https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="آذربایجان غربی" tvg-logo="https://static.telewebion.ir/channelsLogo/b1a30927-c269-4c05-a02f-d6056d59eae7/default" group-title="استانی",آذربایجان غربی
@@ -39,6 +47,8 @@ https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="البرز" tvg-logo="https://static.telewebion.ir/channelsLogo/f38a5e88-f85d-4b1e-a102-74b0889cae33/default" group-title="استانی",البرز
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="اصفهان" tvg-logo="https://static.telewebion.ir/channelsLogo/YTM3Zjk1NjI2NDljM2Q0NjA3ZGY2OGJkMTFhNDU4MjRmOWFkZDc5MGMwYThjZTVjN2UxYWQ0MWEwOTFlNGNkOQ/default" group-title="استانی",اصفهان
+https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="سبلان" tvg-logo="https://static.telewebion.ir/channelsLogo/Njg3ZWFiNjYzNzc4ZWE3MmVhZjUyMDFmNzFkZGY5NGNiNGUyN2UyZjgwY2I3ZGUxZWMxM2M4ZjYzYWEwODgzZQ/default" group-title="استانی",سبلان
 https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ایلام" tvg-logo="https://static.telewebion.ir/channelsLogo/ZjZmYWFkMDdlY2Q1Nzg1OGI5YTEzNjk2NDBjODc4Njk1YzNiY2U5ODRmODRkNDA1Mzk4M2IwNzY3MjIwMzQ2MQ/default" group-title="استانی",ایلام
@@ -101,6 +111,8 @@ https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
 https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="حبیب" tvg-logo="https://static.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default" group-title="تلوبیون",حبیب
 https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="گلخانه" tvg-logo="https://static.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="تلوبیون",گلخانه
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="لبیک" tvg-logo="https://static.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default" group-title="تلوبیون",لبیک
 https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رویا" tvg-logo="https://static.telewebion.ir/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" group-title="تلوبیون",رویا
