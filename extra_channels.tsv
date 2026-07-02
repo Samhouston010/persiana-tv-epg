@@ -1,10 +1,13 @@
 ﻿group|name_fa|name_en|logo|url
 اخبار فارسی|ایران اینترنشنال|Iran International|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternational.default.svg|https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
+اخبار فارسی|ایران اینترنشنال (بکاپ)|Iran International (Backup)|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternational.default.svg|https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 اخبار فارسی|دژ|DEJ TV|https://www.parsatv.com/index_files/channels/dejtv.jpg|https://rdejhls.wns.live/hls/stream.m3u8
 اخبار فارسی|ملی گرا|MelliG TV|https://www.parsatv.com/index_files/channels/melligtv.jpg|https://mellihls.wns.live/hls/stream.m3u8
 اخبار فارسی|بی‌بی‌سی فارسی|BBC Persian|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcpersian.default.svg|https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+اخبار فارسی|بی‌بی‌سی فارسی (بکاپ)|BBC Persian (Backup)|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcpersian.default.svg|https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
 اخبار فارسی|منوتو|Manoto|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg|https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
 اخبار فارسی|صدای آمریکا|VOA Persian|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/voapersian.default.png|https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+اخبار فارسی|صدای آمریکا (بکاپ)|VOA Persian (Backup)|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/voapersian.default.png|https://voaphls.wns.live/hls/stream.m3u8
 اخبار فارسی|رادیو فردا TV|Radio Farda TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg|https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
 اخبار فارسی|پارس|Pars TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/parstv.default.svg|https://parshls.wns.live/hls/stream.m3u8
 اخبار فارسی|میهن|Mihan TV|https://www.parsatv.com/index_files/channels/mihantv.jpg|https://iptv.mihantv.com/mihantv/playlist.m3u8
@@ -50,12 +53,12 @@
 شبکه‌های فارسی|4U TV|4U TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/4utv.default.png|https://hls.4utv.live/hls/stream.m3u8
 شبکه‌های فارسی|تپش|Tapesh|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pbctapesh.default.png|https://iptv.tapesh.tv/tapesh/playlist.m3u8
 شبکه‌های فارسی|تپش ایران|Tapesh Iran|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tapesh2.default.png|https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-شبکه‌های فارسی|PMC|PMC|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg|https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
-شبکه‌های فارسی|PMC Royale|PMC Royale|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg|https://pmcrohls.wns.live/hls/stream.m3u8
-شبکه‌های فارسی|رادیو جوان TV|Radio Javan TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiojavan.default.svg|https://rjtvhls.wns.live/hls/stream.m3u8
-شبکه‌های فارسی|آوانگ|Avang TV|https://www.parsatv.com/index_files/channels/avang.png|https://hls.avang.live/hls/stream.m3u8
-شبکه‌های فارسی|نواهنگ|Navahang TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/navahang.default.svg|https://hls.navahang.live/hls/stream.m3u8
-شبکه‌های فارسی|سان موزیک|Sun Music|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/sunmusic.default.png|https://hls.sunmusic.live/hls/stream.m3u8
+موسیقی|PMC|PMC|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg|https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+موسیقی|PMC Royale|PMC Royale|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg|https://pmcrohls.wns.live/hls/stream.m3u8
+موسیقی|رادیو جوان TV|Radio Javan TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiojavan.default.svg|https://rjtvhls.wns.live/hls/stream.m3u8
+موسیقی|آوانگ|Avang TV|https://www.parsatv.com/index_files/channels/avang.png|https://hls.avang.live/hls/stream.m3u8
+موسیقی|نواهنگ|Navahang TV|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/navahang.default.svg|https://hls.navahang.live/hls/stream.m3u8
+موسیقی|سان موزیک|Sun Music|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/sunmusic.default.png|https://hls.sunmusic.live/hls/stream.m3u8
 رادیو فارسی|رادیو ایران اینترنشنال|Iran International Radio|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternationalradio.default.png|https://radio.iraninternational.app/iintl_c
 رادیو فارسی|رادیو فردا|Radio Farda|https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg|https://stream.radiojar.com/cp13r2cpn3quv
 رادیو فارسی|رادیو همراه|Radio Hamrah|https://www.parsatv.com/index_files/channels/radiohamrah.jpg|https://stream-148.zeno.fm/nezaycc28vzuv
@@ -136,7 +139,7 @@
 آمریکا|BBC Home|BBC Home|https://i.imgur.com/Ii8DX1x.png|https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 آمریکا|Docurama|Docurama|https://i.imgur.com/bNg8mze.png|https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 آمریکا|Drybar Comedy|Drybar Comedy|https://i.imgur.com/EldlmTp.png|https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-آمریکا|Music Channel|Music Channel|http://media.boni-records.com/logo.png|http://media.boni-records.com/index.m3u8
+موسیقی|Music Channel|Music Channel|http://media.boni-records.com/logo.png|http://media.boni-records.com/index.m3u8
 انگلیس|BBC One Ⓖ|BBC One Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png|https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
 انگلیس|BBC Two Ⓖ|BBC Two Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png|https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
 انگلیس|Channel 4 Ⓢ|Channel 4 Ⓢ|https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png|http://176.65.146.105:8011/play/a07w/index.m3u8
@@ -270,7 +273,7 @@
 ژاپن|Dlife|Dlife|https://i.imgur.com/6gJZHPv.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ژاپن|LaLa TV|LaLa TV|https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ژاپن|Mnet|Mnet|https://www.lyngsat.com/logo/tv/mm/m_net_jp.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-ژاپن|Music ON TV!（エムオン）|Music ON TV!（エムオン）|https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+موسیقی|Music ON TV!（エムオン）|Music ON TV!（エムオン）|https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ژاپن|歌謡ポップスチャンネル|歌謡ポップスチャンネル|https://www.lyngsat-logo.com/logo/tv/kk/kayo-pops-jp.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ژاپن|キッズステーション|キッズステーション|https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ژاپن|日テレNEWS24|日テレNEWS24|https://i.imgur.com/jtSYegn.png|https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -284,9 +287,9 @@
 آلمان|3sat Ⓖ|3sat Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/640px-3sat_2019.svg.png|https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 آلمان|ARD Alpha Ⓖ|ARD Alpha Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/640px-ARD_alpha.svg.png|https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 آلمان|ARTE Ⓖ|ARTE Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/186px-Arte_Logo_2017.svg.png|https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-آلمان|DELUXE MUSIC|DELUXE MUSIC|https://i.imgur.com/E65GQN9.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-آلمان|DELUXE MUSIC DANCE BY KONTOR|DELUXE MUSIC DANCE BY KONTOR|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-آلمان|DELUXE MUSIC RAP|DELUXE MUSIC RAP|https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+موسیقی|DELUXE MUSIC|DELUXE MUSIC|https://i.imgur.com/E65GQN9.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+موسیقی|DELUXE MUSIC DANCE BY KONTOR|DELUXE MUSIC DANCE BY KONTOR|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+موسیقی|DELUXE MUSIC RAP|DELUXE MUSIC RAP|https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 آلمان|SCHLAGER DELUXE|SCHLAGER DELUXE|https://i.imgur.com/YPpgUOg.png|https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 آلمان|KiKa Ⓖ|KiKa Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/640px-Kika_2012.svg.png|https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 آلمان|ONE Ⓖ|ONE Ⓖ|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/One_2022.svg/640px-One_2022.svg.png|https://mcdn-one.ard.de/ardone/hls/master.m3u8
@@ -754,7 +757,7 @@
 ایتالیا|Webcom Tv|Webcom Tv|https://i.imgur.com/KLwj2vj.png|https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8
 ایتالیا|WLTV|WLTV|https://i.imgur.com/aL8jKtU.png|https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 ایتالیا|Yvii Tv|Yvii Tv|https://i.imgur.com/yP5AvDo.png|https://stream.wired-shop.com/hls/yviitv.m3u8
-ایتالیا|Zerouno Tv Music|Zerouno Tv Music|https://i.imgur.com/r74lqW8.png|https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+موسیقی|Zerouno Tv Music|Zerouno Tv Music|https://i.imgur.com/r74lqW8.png|https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 ایتالیا|Zerouno Tv News|Zerouno Tv News|https://i.imgur.com/vxRzyjE.png|https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 ایتالیا|Antenna Sicilia Ⓣ|Antenna Sicilia Ⓣ|https://i.imgur.com/8DOdqsE.png|https://www.twitch.tv/antennasicilia
 ایتالیا|Telecolor Ⓣ|Telecolor Ⓣ|https://i.imgur.com/rfNg6fw.png|https://www.twitch.tv/telecolorlive
@@ -852,4 +855,37 @@
 ژاپن|NHK World-Japan|NHK World-Japan||https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 ژاپن|QVC (1080p)|QVC (1080p)||https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 ژاپن|JOEX-DTV (540p)|JOEX-DTV (540p)||https://tvasahi.mov3.co/hls/tvasahi.m3u8
+ازبکستان|O'zbekiston|O'zbekiston||https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+ازبکستان|Yoshlar|Yoshlar||https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
+ازبکستان|Toshkent|Toshkent||https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+ازبکستان|Sport|Sport||https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+ازبکستان|Madaniyat va ma'rifat|Madaniyat va ma'rifat||https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+ازبکستان|Dunyo bo'ylab|Dunyo bo'ylab||https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
+ازبکستان|Bolajon|Bolajon||https://stream8.cinerama.uz/1007/playlist.m3u8
+ازبکستان|Navo|Navo||https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+ازبکستان|Kinoteatr|Kinoteatr||https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+ازبکستان|O'zbekiston 24|O'zbekiston 24||https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+ازبکستان|Mahalla|Mahalla||https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
+ازبکستان|Milliy|Milliy||https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
+ازبکستان|UzReport TV|UzReport TV||https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+ازبکستان|Zo'r TV|Zo'r TV||https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+ازبکستان|Sevimli TV|Sevimli TV||https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
+ازبکستان|FTV|FTV||https://stream8.cinerama.uz/1018/playlist.m3u8
+ازبکستان|Aqlvoy|Aqlvoy||https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+ازبکستان|Dasturxon TV|Dasturxon TV||https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+ازبکستان|BIZ TV|BIZ TV||https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+موسیقی|BIZ Music|BIZ Music||https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+ازبکستان|BIZ Cinema|BIZ Cinema||https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+ازبکستان|MY5|MY5||https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+ازبکستان|Nurafshon TV|Nurafshon TV||https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+ازبکستان|Renessans TV|Renessans TV||https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+ازبکستان|Taraqqiyot TV|Taraqqiyot TV||https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+ازبکستان|O'zbekiston Tarixi|O'zbekiston Tarixi||https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+ازبکستان|Andijon MTRK|Andijon MTRK||https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
+ازبکستان|Buxoro MTRK|Buxoro MTRK||https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
+ازبکستان|Farg'ona MTRK|Farg'ona MTRK||https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+ازبکستان|Navoiy MTRK|Navoiy MTRK||https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
+ازبکستان|Makon TV|Makon TV||https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+ازبکستان|Qaraqalpaqstan|Qaraqalpaqstan||https://stream8.cinerama.uz/1467/playlist.m3u8
 شبکه‌های خارجی|شبکه 12 اسرائیل|Channel 12 Israel|https://upload.wikimedia.org/wikipedia/he/thumb/4/4e/Keshet_12_Logo_2018.svg/320px-Keshet_12_Logo_2018.svg.png|http://181.214.140.229:8891/
+پرشیانا|ام بی سی پرشیا|MBC Persia|https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png|https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8

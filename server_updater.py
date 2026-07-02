@@ -138,7 +138,9 @@ def fetch_irib_m3u():
         lines.append(url)
         count += 1
 
-    lines.append('#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png" group-title="سراسری",English Club TV')
+    lines.append('#EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="شبکه 3 (بکاپ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="سراسری",شبکه 3 (بکاپ)')
+    lines.append('https://s1-cloud.irib.ir/securelive3/tv3hd/tv3hd.m3u8')
+    lines.append('#EXTINF:-1 tvg-id="" tvg-name="English Club TV" tvg-logo="http://181.214.140.229:8888/eclub_logo.png" group-title="سراسری",English Club TV')
     lines.append('https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8')
     content = "\n".join(lines) + "\n"
     Path("irib.m3u").write_text(content, encoding="utf-8")
