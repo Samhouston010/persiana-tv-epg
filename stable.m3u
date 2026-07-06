@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-07-06 15:42 UTC
+# Generated 2026-07-06 18:11 UTC
 
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه 1" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
@@ -21,16 +21,10 @@ https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IFilm" tvg-logo="https://static.telewebion.ir/channelsLogo/NTgyNmRjMzlhMGY4MmUwNGNjZDJiMjM4OTEwNjMxNTRmMjA5Mjc1N2FiYWY2MGEzOGVkZTg1NWM0Yzc5YzU4Mw/default" group-title="سراسری",IFilm
 https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="نمایش" tvg-logo="https://static.telewebion.ir/channelsLogo/cf874981-6dbe-4a64-b6c1-41c715714b34/default" group-title="سراسری",نمایش
-https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="شبکه تهران" tvg-logo="https://static.telewebion.ir/channelsLogo/NzQyZGZmZmI2MTlkZmYxZTdkMzFjNmVlYzY3MzdmNTJkNzZmYTZkOGYxM2U5YjJmMjk2NGQyMDhmZWMyYjY2Yw/default" group-title="سراسری",شبکه تهران
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مستند" tvg-logo="https://static.telewebion.ir/channelsLogo/NmI1OTM5YTljNWYxNjBhNTEyNDE4ZmYwY2FhODY1MzQwMWI4N2VmOTc5MmVhYTg5YmIwZDlmZDJhZmZjMTc2ZQ/default" group-title="سراسری",مستند
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="قرآن" tvg-logo="https://static.telewebion.ir/channelsLogo/ZTIxODczOWE4OWQ4MzRmOWU2M2Q3N2ZiYmI4YzNjMTNkZmM3YmQ1NmQ2MGVjMjE5ZDljZmIyZWU5N2RkZWMwMw/default" group-title="سراسری",قرآن
 https://ncdn.telewebion.ir/quran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="آموزش" tvg-logo="https://static.telewebion.ir/channelsLogo/80849bee-6fb3-4e82-8047-da2ead8b61bf/default" group-title="سراسری",آموزش
-https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="سلامت" tvg-logo="https://static.telewebion.ir/channelsLogo/b24edd34-d2ef-4c18-9f95-7978c719ead6/default" group-title="سراسری",سلامت
 https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="افق" tvg-logo="https://static.telewebion.ir/channelsLogo/OTc3YjJkNzk0MmJjMjkxMTRmNjk2MmNhNTdiNGNkNjMxNjE2NWU1ZDI5MzlhMjI0MzZiYzljNDVkMjRkZTkxMA/default" group-title="سراسری",افق
