@@ -66,8 +66,24 @@ for d,pr in allp:
         bd=au(p.get('backdrop_url') or '')
         if bd.startswith('http'): ET.SubElement(pe,'icon',{'src':bd,'width':'780','height':'439'})
         if po.startswith('http'): ET.SubElement(pe,'icon',{'src':po,'width':'500','height':'750'})
-        if p.get('desc_fa'): ET.SubElement(pe,'desc',{'lang':'fa'}).text=p['desc_fa']
-        elif p.get('desc_en'): ET.SubElement(pe,'desc',{'lang':'en'}).text=p['desc_en']
+        desc=p.get('desc_fa') or p.get('desc_en') or ''
+        pres=p.get('presentation')
+        if pres: desc=('['+pres+'] '+desc).strip()
+        if desc: ET.SubElement(pe,'desc',{'lang':'fa' if p.get('desc_fa') or pres else 'en'}).text=desc
+        et=p.get('episode_title')
+        if et: ET.SubElement(pe,'sub-title',{'lang':'fa'}).text=et
+        se,ep=p.get('season'),p.get('episode')
+        if ep:
+            try:
+                epi=int(ep); si=int(se) if se else None
+                on=ET.SubElement(pe,'episode-num',{'system':'onscreen'})
+                on.text=('S%02dE%02d'%(si,epi)) if si else ('E%d'%epi)
+                ns=ET.SubElement(pe,'episode-num',{'system':'xmltv_ns'})
+                ns.text='%d.%d.'%((si-1) if si else 0,epi-1)
+            except (TypeError,ValueError): pass
+        pg=p.get('pg_rating')
+        if pg:
+            rt=ET.SubElement(pe,'rating'); ET.SubElement(rt,'value').text=str(pg)
         dr=p.get('director'); ca=lst(p.get('cast_list'))
         if dr or ca:
             cr=ET.SubElement(pe,'credits')
