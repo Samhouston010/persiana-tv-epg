@@ -379,7 +379,7 @@
   <programme start="20260708163000 -0500" stop="20260708193000 -0500" channel="fight">
     <title lang="fa">LFL</title>
     <title lang="en">LFL</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] مسابقه‌ای ورزشی هیجان‌انگیز که تیم‌های مختلف در رقابتی شدید برای کسب قهرمانی به میدان می‌روند. بازیکنان با مهارت و تاب‌آوری خود تلاش می‌کنند تا برای تیم خود افتخار و پیروزی به ارمغان آورند.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -1264,7 +1264,7 @@
   <programme start="20260708230000 -0500" stop="20260709004500 -0500" channel="reality">
     <title lang="fa">BTS World Tour 'Arirang' in Goyang: Live Viewing</title>
     <title lang="en">BTS World Tour 'Arirang' in Goyang: Live Viewing Day 3  Part 2</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] پخش زندهٔ روز سوم کنسرت جهانی BTS با نام 'Arirang' در شهر گویانگ کره جنوبی. این قسمت دوم شامل اجرای بخش دوم کنسرت با آهنگ‌های محبوب و لحظات خاص گروه است.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -1317,7 +1317,7 @@
   <programme start="20260708163000 -0500" stop="20260708173000 -0500" channel="sport1">
     <title lang="fa">پینگ پنگ</title>
     <title lang="en">USSmash 2026</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] پینگ پنگ یک برنامه ورزشی است که مسابقات تنیس روی میز را پوشش می‌دهد و بهترین بازیکنان جهان را در رقابت‌های شدید به نمایش می‌گذارد. این برنامه تکنیک‌های پیشرفته، استراتژی‌های بازی و لحظات هیجان‌انگیز را برجسته می‌کند.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -1490,7 +1490,7 @@
   <programme start="20260708211500 -0500" stop="20260708220000 -0500" channel="sport3">
     <title lang="fa">(تکرار) Fernando Tatis Jr.'s MLB highlights</title>
     <title lang="en">(تکرار) Fernando Tatis Jr.'s MLB highlights</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] مجموعهای از برترین لحظات فرناندو تاتیس جونیور در لیگ بزرگ بیسبال که شامل ضربات قدرتمند، دفاع درخشان و بازیهای تعیینکننده است. این برنامه تکرار شده، خلاصهای از مهارتهای استثنایی این ستاره جوان را نشان میدهد.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -1499,7 +1499,7 @@
   <programme start="20260708220000 -0500" stop="20260709000000 -0500" channel="sport3">
     <title lang="fa">(تکرار) Evandro/Arthur vs Plavins/Fokerots | Brasília</title>
     <title lang="en">(تکرار) Evandro/Arthur vs Plavins/Fokerots | Brasília</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] مسابقه والیبال ساحلی بین تیم برزیلی اوندرو و آرتور برابر تیم لتونیایی پلاوینز و فوکروتس در برزیلیا. این دیدار بخشی از مسابقات بین‌المللی والیبال ساحلی است که تیم‌های برتر جهان را به رقابت می‌کشاند.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -1517,7 +1517,7 @@
   <programme start="20260708223000 -0500" stop="20260708231500 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">My FIRST Time in IRAN!</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] یک مسافر برای اولین بار به ایران سفر می‌کند و تجربیات منحصر به فردش را در این سفر به اشتراک می‌گذارد. این فیلم کوتاه لحظات جالب، فرهنگ غنی و دیدارهای خاطره‌انگیز را در قالب یک وبلاگ بصری به تصویر می‌کشد.</desc>
     <rating>
       <value>PG</value>
     </rating>
@@ -1526,7 +1526,7 @@
   <programme start="20260708231500 -0500" stop="20260709000000 -0500" channel="travel">
     <title lang="fa">VLOG</title>
     <title lang="en">17 Things About Persian Culture | I Love Iran!</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] یک فیلم کوتاه که ۱۷ جنبه از فرهنگ غنی ایرانی را به تصویر می‌کشد و از موسیقی سنتی گرفته تا آداب و رسوم روزمره را معرفی می‌کند. این اثر نگاهی عمیق به هویت فرهنگی ایران و ارزش‌های ماندگار آن دارد.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -1535,7 +1535,7 @@
   <programme start="20260708203000 -0500" stop="20260708222100 -0500" channel="turkey">
     <title lang="fa">ستوان عثمانی</title>
     <title lang="en">The Ottoman Lieutenant</title>
-    <desc lang="fa">[زیرنویس]</desc>
+    <desc lang="fa">[زیرنویس] در سال ۱۹۱۵ میلادی، یک ستوان جوان عثمانی به یک روستای دورافتاده در آناتولی اعزام می‌شود و با یک پرستار آمریکایی آشنا می‌شود که برای کمک به مردم محلی آمده است. میان تنش‌های جنگی جهانی اول و فشارهای سیاسی، عشقی پیچیده و ممنوع بین آن‌ها رشد می‌کند. داستان تاریخی این فیلم عشق و وفاداری را در میان خرابی‌های جنگ به تصویر می‌کشد.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -1550,7 +1550,7 @@
   <programme start="20260708223000 -0500" stop="20260708233000 -0500" channel="turkey">
     <title lang="fa">شهرزاد</title>
     <title lang="en">Şahrzad</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] شهرزاد داستان زنی جوان است که برای نجات جانش از مرگ، خود را به عنوان داماد شاهی معرفی می‌کند. در میان بازی‌های سیاسی و خطرات کاخ، او تدریجاً دل شاه را فتح می‌کند و عشقی واقعی میان آنان شکل می‌گیرد.</desc>
     <episode-num system="onscreen">S02E03</episode-num>
     <episode-num system="xmltv_ns">1.2.</episode-num>
     <rating>
@@ -1583,7 +1583,7 @@
   <programme start="20260708234500 -0500" stop="20260709004500 -0500" channel="turkey">
     <title lang="fa">افعی تهران</title>
     <title lang="en">Tahran Engereği</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] داستان یک تحقیق پیچیده درباره شبکه‌ای خطرناک از جنایتکاران که در تهران فعالیت می‌کنند و زندگی شهروندان را به خطر می‌اندازند. یک کارآگاه با تجربه باید با رازهای عمیق و پیچیده‌ای روبرو شود تا بتواند این شبکه را متلاشی کند.</desc>
     <episode-num system="onscreen">S01E06</episode-num>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <rating>
@@ -1877,7 +1877,7 @@
   <programme start="20260709163000 -0500" stop="20260709193000 -0500" channel="fight">
     <title lang="fa">LFL MMA</title>
     <title lang="en">LFL MMA</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] مسابقه‌ای هیجان‌انگیز از مبارزات MMA که بهترین ورزشکاران را در رینگ به مواجهه می‌کشاند. هر قسمت شامل مبارزات شدید و تکنیکی است که تماشاگران را تا آخرین لحظه به تعلیق درمی‌آورد.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -2764,7 +2764,7 @@
   <programme start="20260709230000 -0500" stop="20260710002400 -0500" channel="reality">
     <title lang="fa">گروه کرنبریز: زیر پوست - اجرای زنده در پاریس</title>
     <title lang="en">The Cranberries: Beneath the Skin - Live in Paris</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] فیلم مستند کنسرت گروه آیرلندی کرنبریز که در سال ۲۰۰۱ در پاریس ضبط شده است. این اجرای زنده شامل آهنگ‌های معروف گروه و لحظات پشت صحنه‌ای است که عمق هنری و شخصی اعضای گروه را نشان می‌دهد.</desc>
     <rating>
       <value>+13</value>
     </rating>
@@ -2817,7 +2817,7 @@
   <programme start="20260709164500 -0500" stop="20260709174500 -0500" channel="sport1">
     <title lang="fa">بدمینتون</title>
     <title lang="en">Badminton 2026</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] پوشش جامع رقابت‌های بدمینتون سال ۲۰۲۶ با تمرکز بر بازی‌های حساس و عملکرد ورزشکاران برتر جهان. این برنامه ورزشی شامل مسابقات انفرادی و دوجانبه است که توسط کمانتاتورهای متخصص تشریح می‌شود.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -2825,6 +2825,8 @@
   <programme start="20260709180000 -0500" stop="20260709190000 -0500" channel="sport1">
     <title lang="fa">تنیس </title>
     <title lang="en">تنیس گرند اسلم  ویمبلدون</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rQekKZM4yKw928vnPkbxFWmG8Uo.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/agiItFfsvNsjpinLGwjfpYOhLaX.jpg" width="500" height="750"/>
     <desc lang="fa">[زبان اصلی] این مستند ورزشی دیدار حماسی تنیس را به تصویر می‌کشد که در میادین بزرگ جهان از جمله ویمبلدون و گرند اسلم برگزار می‌شود. فیلم حکایت رقابت شدید بازیکنان برتر جهان را روایت می‌کند که برای کسب عناوین ارزشمند و اثبات برتری خود تلاش می‌کنند. این اثر جذابیت، درام و احساسات ورزش سلطنتی را به مخاطب نزدیک می‌سازد.</desc>
     <rating>
       <value>1.0</value>
@@ -2833,7 +2835,7 @@
   <programme start="20260709193000 -0500" stop="20260709203000 -0500" channel="sport1">
     <title lang="fa">Italy - Iran 2019</title>
     <title lang="en">والیبال خاطره انگیز</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] مستند ورزشی از دیدار تاریخی والیبال ایران و ایتالیا در سال ۲۰۱۹ که یکی از برترین تیم‌های جهان را به چالش می‌کشد. این برنامه لحظات درخشان بازیکنان ایرانی و تلاش‌های فراموش‌نشدنی آن‌ها را در مقابل قهرمانان اروپایی به تصویر می‌کشد.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -2841,7 +2843,7 @@
   <programme start="20260709230000 -0500" stop="20260710000000 -0500" channel="sport1">
     <title lang="fa">NBA</title>
     <title lang="en">Harden &amp; Curry Duel </title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] تماشای دیدار حماسی میان دو ستاره برتر NBA، جیمز هاردن و استفن کری، که هر کدام تلاش می‌کنند تا برتری خود را به ثبت برسانند. این برنامه ورزشی شامل بهترین لحظات بازی، تحلیل فنی و نظرات کارشناسان است.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -3280,7 +3282,7 @@
   <programme start="20260709223000 -0500" stop="20260709231500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">20 Things to Know before visiting IRAN</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] این فیلم مستند کوتاه بیستی نکته ضروری را برای سفر به ایران معرفی می‌کند که هر گردشگر باید پیش از ورود به کشور بداند. از فرهنگ و آداب رفتار محلی گرفته تا نکات عملی سفر، این فیلم راهنمایی جامع برای تجربه‌ای بهتر فراهم می‌کند.</desc>
     <rating>
       <value>PG</value>
     </rating>
@@ -3289,7 +3291,7 @@
   <programme start="20260709231500 -0500" stop="20260709234500 -0500" channel="travel">
     <title lang="fa">Documentary</title>
     <title lang="en">How to Visit IRAN? 10 Travel Tips</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] این فیلم کوتاه مجموعه‌ای از نکات عملی و مفید برای سفر به ایران ارائه می‌دهد که به گردشگران کمک می‌کند تا سفری امن و لذت‌بخش داشته باشند. از نکات مربوط به آب‌وهوا و لباس گرفته تا راهنمایی‌های فرهنگی و نکات ایمنی، این راهنما تمام جنبه‌های ضروری سفر را پوشش می‌دهد.</desc>
     <rating>
       <value>PG</value>
     </rating>
@@ -3308,7 +3310,7 @@
   <programme start="20260709203000 -0500" stop="20260709221600 -0500" channel="turkey">
     <title lang="fa">دوردست</title>
     <title lang="en">Distant</title>
-    <desc lang="fa">[زیرنویس]</desc>
+    <desc lang="fa">[زیرنویس] داستان عشق و جدایی دو نفر در زمان جنگ که میان فاصله‌های جغرافیایی و تاریخی گم شده‌اند. فیلم به تصویر کشیدن احساسات عمیق و تنهایی انسان‌ها در برابر بلایای تاریخی می‌پردازد.</desc>
     <rating>
       <value>+15</value>
     </rating>
@@ -3323,7 +3325,7 @@
   <programme start="20260709223000 -0500" stop="20260709233000 -0500" channel="turkey">
     <title lang="fa">آفتاب پرست</title>
     <title lang="en">Bukalemun</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] داستان خانوادهای معمولی که در یک محله پرجنب و جوش زندگی میکنند و با مسائل روزمره و طنزآمیز زندگی روبرو میشوند. این سریال با نگاه کمیک به روابط خانوادگی و تعاملات اجتماعی، لحظات خنده‌دار و قابل تأملی را به تصویر میکشد.</desc>
     <episode-num system="onscreen">S01E06</episode-num>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <rating>
@@ -3356,7 +3358,7 @@
   <programme start="20260709234500 -0500" stop="20260710004500 -0500" channel="turkey">
     <title lang="fa">پدر گواردیولا</title>
     <title lang="en">Baba Guardiola</title>
-    <desc lang="fa">[زبان اصلی]</desc>
+    <desc lang="fa">[زبان اصلی] داستان یک مرد که در سایه قدرت و نفوذ بزرگ‌ترین باندهای جنایی رشد می‌یابد و به تدریج خود را به عنوان رهبری بی‌رحم تثبیت می‌کند. او میان وفاداری خانوادگی و تصمیمات خطرناک درام‌ناکی را تجربه می‌کند که زندگی اطرافیانش را برای همیشه تغییر می‌دهد.</desc>
     <episode-num system="onscreen">S02E02</episode-num>
     <episode-num system="xmltv_ns">1.1.</episode-num>
     <rating>
@@ -4639,6 +4641,8 @@
   <programme start="20260710180000 -0500" stop="20260710190000 -0500" channel="sport1">
     <title lang="fa">تنیس </title>
     <title lang="en">تنیس گرند اسلم  ویمبلدون</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rQekKZM4yKw928vnPkbxFWmG8Uo.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w500/agiItFfsvNsjpinLGwjfpYOhLaX.jpg" width="500" height="750"/>
     <desc lang="fa">[زبان اصلی] این مستند ورزشی دیدار حماسی تنیس را به تصویر می‌کشد که در میادین بزرگ جهان از جمله ویمبلدون و گرند اسلم برگزار می‌شود. فیلم حکایت رقابت شدید بازیکنان برتر جهان را روایت می‌کند که برای کسب عناوین ارزشمند و اثبات برتری خود تلاش می‌کنند. این اثر جذابیت، درام و احساسات ورزش سلطنتی را به مخاطب نزدیک می‌سازد.</desc>
     <rating>
       <value>1.0</value>

@@ -33,6 +33,19 @@ for off in range(-1,3):
     r=s.get(API+'/programs',params={'date':ds},timeout=20)
     pr=r.json().get('programs',[]) if r.ok else []
     print('  '+ds+': '+str(len(pr))); allp.append((d,pr))
+print('Filling missing synopses...')
+nfilled=0
+for d,pr in allp:
+    for p in pr:
+        if p.get('desc_fa') or p.get('desc_en'): continue
+        try:
+            r=s.post(API+'/programs/'+str(p['id'])+'/synopsis',timeout=20)
+            if r.ok:
+                j=r.json()
+                p['desc_fa']=j.get('desc_fa'); p['desc_en']=j.get('desc_en')
+                if p['desc_fa'] or p['desc_en']: nfilled+=1
+        except Exception: pass
+print('  filled '+str(nfilled))
 print('M3U...')
 L=['#EXTM3U x-tvg-url=\"'+RAW+'/persiana.xml.gz\"']; n=0
 for c in ch:
