@@ -28,7 +28,7 @@ ch=s.get(API+'/channels',timeout=20).json().get('channels',[])
 print('  '+str(len(ch)))
 today=datetime.now(); allp=[]
 print('Programs...')
-for off in range(-1,3):
+for off in range(-1,8):
     d=today+timedelta(days=off); ds=d.strftime('%Y-%m-%d')
     r=s.get(API+'/programs',params={'date':ds},timeout=20)
     pr=r.json().get('programs',[]) if r.ok else []
