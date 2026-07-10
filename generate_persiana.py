@@ -1,4 +1,4 @@
-﻿import requests, gzip
+﻿import re, requests, gzip
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime, timedelta
@@ -103,6 +103,8 @@ for d,pr in allp:
             if dr: ET.SubElement(cr,'director').text=str(dr)
             for ac in ca[:8]: ET.SubElement(cr,'actor').text=ac
         if p.get('year'): ET.SubElement(pe,'date').text=str(p['year'])
+        for cn in [c.strip() for c in re.split('[,،]',p.get('country') or '') if c.strip()][:3]:
+            ET.SubElement(pe,'country',{'lang':'fa'}).text=cn
         gs=lst(p.get('genres_fa')) or lst(p.get('genres_en'))
         for gn in gs[:3]: ET.SubElement(pe,'category',{'lang':'fa'}).text=gn
         im=p.get('imdb') or p.get('rating')
