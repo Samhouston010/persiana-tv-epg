@@ -50,18 +50,18 @@ with open('extra_channels.tsv', encoding='utf-8-sig') as f:
 print('  groups: '+str(len(order)))
 print('M3U...')
 L=['#EXTM3U x-tvg-url=\"'+RAW+'/persiana.xml.gz\"']
-def add(cid,ne,nf,lg,url,group,catchup=False):
-    if catchup:
-        L.append('#EXTINF:-1 tvg-id="'+cid+'" tvg-name="'+ne+'" tvg-logo="'+lg+'" group-title="'+group+'" catchup="default" catchup-source="'+url+'?start={utc}&end={utcend}" catchup-days="1",'+nf)
-    else:
-        L.append('#EXTINF:-1 tvg-id="'+cid+'" tvg-name="'+ne+'" tvg-logo="'+lg+'" group-title="'+group+'",'+nf)
+def add(cid,ne,nf,lg,url,group):
+    # ponytail: catchup="default"/catchup-days was removed 2026-07-11 -- Persiana's CDN
+    # ignores the ?start=/&end= query params catchup-source relies on (always serves the
+    # live edge regardless), so the tag was advertising a rewind feature that doesn't work.
+    L.append('#EXTINF:-1 tvg-id="'+cid+'" tvg-name="'+ne+'" tvg-logo="'+lg+'" group-title="'+group+'",'+nf)
     L.append(url)
-for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'پرشیانا',catchup=True)
+for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'پرشیانا')
 add('',ECLUB[1],ECLUB[0],ECLUB[2],ECLUB[3],'پرشیانا')
 for g in order:
     for nf,ne,lg,url in extra[g]: add('',ne,nf,lg,url,g)
     if g in ('شبکه اسرائیل','لبنان'): add('',ECLUB[1],ECLUB[0],ECLUB[2],ECLUB[3],g)
-for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'ALL',catchup=True)
+for cid,nf,ne,lg,url in persiana_rows: add(cid,ne,nf,lg,url,'ALL')
 for g in order:
     for nf,ne,lg,url in extra[g]: add('',ne,nf,lg,url,'ALL')
 add('',ECLUB[1],ECLUB[0],ECLUB[2],ECLUB[3],'ALL')
