@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 API='https://www.persianagroup.tv/api/v1'; SITE='https://www.persianagroup.tv/'
 RAW='https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main'
 TZ='-0500'
-ECLUB=('English Club TV','English Club TV','https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png','https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8')
+ECLUB=('English Club TV','English Club TV','http://181.214.140.229:8888/eclub_logo.png','https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8')
 H={'User-Agent':'Mozilla/5.0','Referer':SITE}
 s=requests.Session(); s.headers.update(H)
 def au(u):
@@ -85,6 +85,8 @@ for d,pr in allp:
         pe=ET.SubElement(tv,'programme',{'start':xt(a),'stop':xt(b),'channel':cid})
         ET.SubElement(pe,'title',{'lang':'fa'}).text=p.get('title_fa') or p.get('title_en') or 'Program'
         if p.get('title_en'): ET.SubElement(pe,'title',{'lang':'en'}).text=p['title_en']
+        et=p.get('episode_title')
+        if et: ET.SubElement(pe,'sub-title',{'lang':'fa'}).text=et
         if p.get('desc_fa'): ET.SubElement(pe,'desc',{'lang':'fa'}).text=p['desc_fa']
         elif p.get('desc_en'): ET.SubElement(pe,'desc',{'lang':'en'}).text=p['desc_en']
         dr=p.get('director'); ca=lst(p.get('cast_list'))
@@ -97,6 +99,18 @@ for d,pr in allp:
             ET.SubElement(pe,'category',{'lang':'fa'}).text=gn
         ps=au(p.get('poster_url') or p.get('backdrop_url'))
         if ps.startswith('http'): ET.SubElement(pe,'icon',{'src':ps})
+        if p.get('country'): ET.SubElement(pe,'country',{'lang':'fa'}).text=str(p['country'])
+        se,ep=p.get('season'),p.get('episode')
+        if ep:
+            try:
+                epi=int(ep); si=int(se) if se else None
+                on=ET.SubElement(pe,'episode-num',{'system':'onscreen'})
+                on.text=('S%02dE%02d'%(si,epi)) if si else ('E%d'%epi)
+                ns=ET.SubElement(pe,'episode-num',{'system':'xmltv_ns'})
+                ns.text='%d.%d.'%((si-1) if si else 0,epi-1)
+            except (TypeError,ValueError): pass
+        if p.get('pg_rating'):
+            rt=ET.SubElement(pe,'rating'); ET.SubElement(rt,'value').text=str(p['pg_rating'])
         im=p.get('imdb') or p.get('rating')
         if im:
             try:
