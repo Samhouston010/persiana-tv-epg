@@ -1,11 +1,3 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-07-19 19:24 UTC
+# Generated 2026-07-19 20:49 UTC
 
-#EXTINF:-1 tvg-id="" tvg-name="سهند" tvg-logo="https://static.telewebion.ir/channelsLogo/NjQ0MTQyODE5ZTYzZmZjNTliNTBmY2I2NDk1MjczM2JlOTk1NTljYWExODY0ZjFiMWU0OTZiY2Y4OTc4MjQ4MQ/default" group-title="استانی",سهند
-https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
-#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-name="جهانبین" tvg-logo="https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default" group-title="استانی",جهانبین
-https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="کرمان" tvg-logo="https://static.telewebion.ir/channelsLogo/ODE1YWIxNjcxYTU1NWM2YmJkYmRkNzE5OGJiOTQ0YmEyNzhjMDBkMGU2N2MwOTlhMGFjYzZhYjc1MjRjM2E5OA/default" group-title="استانی",کرمان
-https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="همدان" tvg-logo="https://static.telewebion.ir/channelsLogo/NTlmNTJkOGUyOTMwZjAxNmJhODAwMjdmYTkxNzM4NTIyZjg2ZWI4YTc4MTUzOThkMGEzNTI5N2ZkZjM0YTY3Ng/default" group-title="استانی",همدان
-https://ncdn.telewebion.ir/sina/live/playlist.m3u8
