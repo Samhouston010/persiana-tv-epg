@@ -694,10 +694,14 @@ https://hls.vox1.live/hls/stream.m3u8
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YourTimeTV.ir@SD",YourTime TV group-title="کانال‌های ایرانی"
-https://live.yourtime.tv/hls/stream.m3u8
+https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD",HodHod Farsi TV (1080p) group-title="کانال‌های ایرانی"
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
 
 #EXTINF:-1 tvg-id="IRINN.ir@SD",IRINN (576p) group-title="کانال‌های ایرانی"
 http://185.9.2.18/chid_926/index.m3u8
+
+# === Iranian Channels - iptv-org - 2026-08-01 02:48 UTC ===
+#EXTINF:-1 tvg-id="YazdTV.ir@SD",Yazd TV group-title="کانال‌های ایرانی"
+http://89.45.60.82/0.ts
