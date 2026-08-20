@@ -65,26 +65,6 @@
     <display-name lang="en">Fight</display-name>
     <icon src="https://www.persianagroup.tv/assets/logos/fight.png"/>
   </channel>
-  <channel id="sport1">
-    <display-name lang="fa">Sports 1</display-name>
-    <display-name lang="en">Sports 1</display-name>
-    <icon src="https://www.persianagroup.tv/assets/logos/sport1.png"/>
-  </channel>
-  <channel id="sport2">
-    <display-name lang="fa">Sports 2</display-name>
-    <display-name lang="en">Sports 2</display-name>
-    <icon src="https://www.persianagroup.tv/assets/logos/sport2.png"/>
-  </channel>
-  <channel id="sport3">
-    <display-name lang="fa">Sports 3</display-name>
-    <display-name lang="en">Sports 3</display-name>
-    <icon src="https://www.persianagroup.tv/assets/logos/sport3.png"/>
-  </channel>
-  <channel id="sport4">
-    <display-name lang="fa">Women Sports</display-name>
-    <display-name lang="en">Women Sports</display-name>
-    <icon src="https://www.persianagroup.tv/assets/logos/sport4.png"/>
-  </channel>
   <channel id="music">
     <display-name lang="fa">Music</display-name>
     <display-name lang="en">Music</display-name>
@@ -109,5 +89,10 @@
     <display-name lang="fa">Travel</display-name>
     <display-name lang="en">Travel</display-name>
     <icon src="https://www.persianagroup.tv/assets/logos/travel.png"/>
+  </channel>
+  <channel id="Podcast">
+    <display-name lang="fa">Podcast</display-name>
+    <display-name lang="en">Podcast</display-name>
+    <icon src="https://www.persianagroup.tv/assets/logos/podcast.png"/>
   </channel>
 </tv>
