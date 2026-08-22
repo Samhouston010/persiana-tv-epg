@@ -37,3 +37,9 @@ https://setmixhls.persiana.live/hls/stream.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Podcast" tvg-name="Podcast" tvg-logo="https://www.persianagroup.tv/assets/logos/podcast.png" group-title="Persiana",Podcast
 https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Rap" tvg-name="Rap" tvg-logo="https://www.persianagroup.tv/assets/logos/rap.png" group-title="Persiana",Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="China" tvg-name="China" tvg-logo="https://www.persianagroup.tv/assets/logos/china.png" group-title="Persiana",China
+https://chinahls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Voyage" tvg-name="Voyage" tvg-logo="https://www.persianagroup.tv/assets/logos/voyage.png" group-title="Persiana",Voyage
+https://voyhls.persiana.live/hls/stream.m3u8

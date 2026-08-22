@@ -37,6 +37,12 @@ https://setmixhls.persiana.live/hls/stream.m3u8
 https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Podcast" tvg-name="Podcast" tvg-logo="https://www.persianagroup.tv/assets/logos/podcast.png" group-title="Persiana",Podcast
 https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Rap" tvg-name="Rap" tvg-logo="https://www.persianagroup.tv/assets/logos/rap.png" group-title="Persiana",Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="China" tvg-name="China" tvg-logo="https://www.persianagroup.tv/assets/logos/china.png" group-title="Persiana",China
+https://chinahls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Voyage" tvg-name="Voyage" tvg-logo="https://www.persianagroup.tv/assets/logos/voyage.png" group-title="Persiana",Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternational.default.svg" group-title="اخبار فارسی",ایران اینترنشنال
 https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEJ TV" tvg-logo="https://www.parsatv.com/index_files/channels/dejtv.jpg" group-title="اخبار فارسی",دژ
