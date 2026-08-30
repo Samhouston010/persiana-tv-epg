@@ -686,5 +686,13 @@
     "logo": "https://static.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default",
     "telewebion_slug": "makran",
     "sepehr_channel_id": null
+  },
+  {
+    "name": "کاسپین",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/bfd64daa-7e88-429c-a74c-d17eabda48e3/default",
+    "telewebion_slug": "caspian",
+    "sepehr_channel_id": null
   }
 ]
