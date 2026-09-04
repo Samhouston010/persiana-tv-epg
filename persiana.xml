@@ -110,1829 +110,6 @@
     <display-name lang="en">Voyage</display-name>
     <icon src="https://www.persianagroup.tv/assets/logos/voyage.png"/>
   </channel>
-  <programme start="20260902203000 -0500" stop="20260902205000 -0500" channel="China">
-    <title lang="fa">مارپیچ</title>
-    <title lang="en">The Spirealm</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/pmUWKAxTWyo9JsKQskECPpWwYrn.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/9fg3f2OW0yDnx6SfBWctYCs4ZU7.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] مهارت‌های جیو شی تا مرز توانایی‌اش پیش می‌رود وقتی در هزارتوی خشن واقعیت مجازی با چالش‌های مرگ و زندگی روبه‌رو می‌شود.</desc>
-    <sub-title lang="fa">ساتچان (۶)</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>Danny Pang Phat, Gao Wei</director>
-      <actor>Xia Zhiguang</actor>
-      <actor>Huang Junjie</actor>
-      <actor>Liu Ruogu</actor>
-      <actor>Liu Xiaobei</actor>
-      <actor>Li Xin</actor>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">چین</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902213000 -0500" stop="20260902221500 -0500" channel="China">
-    <title lang="fa">لذت زندگی</title>
-    <title lang="en">Joy of Life</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/4eNmWhBfDfAj8qbKHPgW394rAK8.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] دانشجوی تاریخ و فرهنگ برای ورود به کلاس دکتر یه، رمانی تاریخی می‌نویسد و خود را جای فن شیان، جوانی با گذشته‌ای رازآلود می‌گذارد؛ پسری که از کودکی در شهری ساحلی بزرگ می‌شود، به پایتخت می‌رود و با رنج و سختی، راه عدالت و نیکی را پیش می‌گیرد.</desc>
-    <sub-title lang="fa">قسمت ۲۶</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>Mao Ni</director>
-      <actor>Zhang Ruoyun</actor>
-      <actor>Li Qin</actor>
-      <actor>Chen Daoming</actor>
-      <actor>Wu Gang</actor>
-      <actor>Xin Zhilei</actor>
-    </credits>
-    <date>2019</date>
-    <country lang="fa">چین</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902223000 -0500" stop="20260902231400 -0500" channel="China">
-    <title lang="fa">بهشت در آتش</title>
-    <title lang="en">Nirvana in Fire</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/4pBohJyXnAf7yvzyMTD1953RIjY.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/taqGVujrSxaRrEXuGlIHGVRi3m4.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] مِی چانگ‌سو با وجود بیماری و ضعف جسمی، با ذهنی تیز وارد بازی قدرت دربار می‌شود تا برای تراژدی‌ای فراموش‌شده عدالت بخواهد.</desc>
-    <sub-title lang="fa">خداحافظی با یک دوست</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <actor>Huang Xiaoming</actor>
-      <actor>Liu Haoran</actor>
-      <actor>Tong Liya</actor>
-      <actor>Zhang Huiwen</actor>
-      <actor>Sun Chun</actor>
-    </credits>
-    <date>2015</date>
-    <country lang="fa">چین</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260903001600 -0500" channel="China">
-    <title lang="fa">تصنیف طولانی</title>
-    <title lang="en">The Long Ballad</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/NyL6tC8Cii8D3ZYVIvDCOMXwLD.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/sktJsZZW8sAobXMMvg7gZVXeEBB.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] لی چانگ‌گه پس از قتل‌عام خانواده‌اش به دست لی شی‌مین، امپراتور تانگ، با لباس مردانه راهی شوو می‌شود تا ارتشی برای انتقام بسازد. اما در نبردی شکست می‌خورد و اسیر آشی‌نا سون، ژنرال ترک‌های شرقی، می‌شود و ناچار به عنوان مشاور نظامی او خدمت می‌کند.</desc>
-    <sub-title lang="fa">قسمت ۲۶</sub-title>
-    <episode-num system="onscreen">S01E26</episode-num>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>Xia Da</director>
-      <actor>Dilraba Dilmurat</actor>
-      <actor>Leo Wu</actor>
-      <actor>Liu Yuning</actor>
-      <actor>Zhao Lusi</actor>
-      <actor>Fang Yilun</actor>
-    </credits>
-    <date>2021</date>
-    <country lang="fa">چین</country>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">جنگی</category>
-    <star-rating system="IMDB">
-      <value>8.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902011500 -0500" stop="20260902023000 -0500" channel="Podcast">
-    <title lang="fa">ایرانی‌ها در داستان تولد مسیح چه می‌کنند؟</title>
-    <title lang="en">ایرانی‌ها در داستان تولد مسیح چه می‌کنند؟</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=K9QSA_hBO5o</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <actor>Bplus Podcast</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902023000 -0500" stop="20260902050000 -0500" channel="Podcast">
-    <title lang="fa">همین حالا دست بکشید، قبل از اینکه هوش مصنوعی به جای شما تصمیم بگیرد | سث گودین</title>
-    <title lang="en">Quit NOW Before AI Makes The Choice For You | Seth Godin</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=g7AxxkywiFI</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <actor>The Diary Of A CEO</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902050000 -0500" stop="20260902053000 -0500" channel="Podcast">
-    <title lang="fa">پرونده های تاریک</title>
-    <title lang="en">Dark Files</title>
-    <icon src="https://image.tmdb.org/t/p/w500/vJrFuxMFiCvEEoSB0EWxT1cuj1A.jpg" width="500" height="750"/>
-    <desc lang="fa">[زبان اصلی] با پرونده های تاریک ،برنامه‌ای پر از رازهای نیمه‌تمام، پرونده‌های عجیب و مرموز، قتل‌های زنجیره‌ای و جنایات مافیایی، ما پرده از تاریک‌ترین معماها برمیداریم ...
-برنامه‌ای جذاب و دلهره‌آور با بررسی پرونده‌های جنایی عجیب ‌و حتی حل نشده. با ما همراه باشید تا به عمق تاریک‌ترین معماهای جنایی نفوذ کنیم ...</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <date>2025</date>
-    <category lang="fa">مستند</category>
-    <category lang="fa">رازآلود</category>
-  </programme>
-  <programme start="20260902053000 -0500" stop="20260902070000 -0500" channel="Podcast">
-    <title lang="fa">هنر (ن)‌جنگیدن</title>
-    <title lang="en">هنر (ن)‌جنگیدن</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/3AeeyWKVXSmxPwEcSvfJ0gdb12P.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w500/yBGsa9OQtKeMjdzPkNKgPYT1GXf.jpg" width="500" height="750"/>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=uzKK_R6rcbU</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <actor>خودکست</actor>
-    </credits>
-    <date>2025</date>
-  </programme>
-  <programme start="20260902070000 -0500" stop="20260902093000 -0500" channel="Podcast">
-    <title lang="fa">ایجنت‌های هوش مصنوعی: ارزشمندترین مهارتی که می‌توانید یاد بگیرید</title>
-    <title lang="en">AI Agents: The Most Valuable Skill You Can Learn</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=5p-sq8v3OXw</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <actor>Open Residency</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902093000 -0500" stop="20260902114500 -0500" channel="Podcast">
-    <title lang="fa">10 سال آینده همه را شگفت‌زده خواهد کرد | پیتر دیامندیس</title>
-    <title lang="en">The Next 10 Years Will Shock Everyone | Peter Diamandis</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=eHqIZInOxeE</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>16.08.26</director>
-      <actor>Tom Bilyeu</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902114500 -0500" stop="20260902133000 -0500" channel="Podcast">
-    <title lang="fa">چرا همیشه خسته‌ای و این تقصیر تو نیست</title>
-    <title lang="en">Why You’re Always Tired and It’s Not Your Fault</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=zECoaEZRRFU</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>13.08.26</director>
-      <actor>The Diary Of A CEO</actor>
-    </credits>
-    <date>2025</date>
-  </programme>
-  <programme start="20260902133000 -0500" stop="20260902150000 -0500" channel="Podcast">
-    <title lang="fa">ایدئولوژی چگونه مغز ما را تصرف می‌کند؟</title>
-    <title lang="en">ایدئولوژی چگونه مغز ما را تصرف می‌کند؟</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=48AWC25R0f8</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>16.08.26</director>
-      <actor>Bplus Podcast</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902150000 -0500" stop="20260902171500 -0500" channel="Podcast">
-    <title lang="fa">موفقیت، شادی و هدف عمیق | دکتر آرتور بروکس</title>
-    <title lang="en">Success, Happiness &amp; Deep Purpose | Dr. Arthur Brooks</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=XE0giQ4znNw</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>15.08.26</director>
-      <actor>Rich Roll</actor>
-    </credits>
-    <date>2022</date>
-  </programme>
-  <programme start="20260902173000 -0500" stop="20260902190000 -0500" channel="Podcast">
-    <title lang="fa">تولد سرمایه‌داری و تغییر اقتصاد جهان رو در تاریخ امپراتوری هلند ببینیم</title>
-    <title lang="en">تولد سرمایه‌داری و تغییر اقتصاد جهان رو در تاریخ امپراتوری هلند ببینیم</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=p5fMRTDWJJU</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>13.08.26</director>
-      <actor>Bplus Podcast</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902190000 -0500" stop="20260902213000 -0500" channel="Podcast">
-    <title lang="fa">&quot;ADHD&quot; و چگونه هرکسی می‌تواند تمرکزش را بهبود بخشد</title>
-    <title lang="en">&quot;ADHD&quot; &amp; How Anyone Can Improve Their Focus</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=hFL6qRIJZ_Y</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>14.08.26</director>
-      <actor>Andrew Huberman</actor>
-    </credits>
-    <date>2022</date>
-  </programme>
-  <programme start="20260902213000 -0500" stop="20260902234500 -0500" channel="Podcast">
-    <title lang="fa">10 سال آینده همه را شگفت‌زده خواهد کرد | پیتر دیامندیس</title>
-    <title lang="en">The Next 10 Years Will Shock Everyone | Peter Diamandis</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=eHqIZInOxeE</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>16.08.26</director>
-      <actor>Tom Bilyeu</actor>
-    </credits>
-    <date>2026</date>
-  </programme>
-  <programme start="20260902234500 -0500" stop="20260903013000 -0500" channel="Podcast">
-    <title lang="fa">چرا همیشه خسته‌ای و این تقصیر تو نیست</title>
-    <title lang="en">Why You’re Always Tired and It’s Not Your Fault</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=zECoaEZRRFU</desc>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>13.08.26</director>
-      <actor>The Diary Of A CEO</actor>
-    </credits>
-    <date>2025</date>
-  </programme>
-  <programme start="20260902223000 -0500" stop="20260902231500 -0500" channel="Voyage">
-    <title lang="fa">کامل‌ترین کشور روی زمین: نیوزیلند</title>
-    <title lang="en">The most PERFECT Country on Earth: NEW ZEALAND</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/8o7Sc9wMvZB2ZiKcR7JZ4l19xgZ.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w1280/8o7Sc9wMvZB2ZiKcR7JZ4l19xgZ.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=M4MQ4GBfZCM</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>11.08.26</director>
-      <actor>Joel and Emilia</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="fa">مستند</category>
-  </programme>
-  <programme start="20260902231500 -0500" stop="20260903000000 -0500" channel="Voyage">
-    <title lang="fa">استانبول: شیرینی های ترکیه ای | ریک استیوز</title>
-    <title lang="en">Istanbul: Turkish Delights | Rick Steves</title>
-    <desc lang="fa">[زیرنویس اختصاصی] https://www.youtube.com/watch?v=Ctd_zcFXrr0</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>11.08.26</director>
-      <actor>Rick Steves</actor>
-    </credits>
-    <date>2026</date>
-    <category lang="fa">مستند</category>
-  </programme>
-  <programme start="20260902000000 -0500" stop="20260902015400 -0500" channel="cinema">
-    <title lang="fa">۱۳ دقیقه</title>
-    <title lang="en">13 Minutes</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/zpFFDwv7RsWwQIRBHzUW7WGmycC.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/dSaDHmmDWLdoJnCnwJQToFkXJp5.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] داستانی نفس‌گیر از مردی که نزدیک بود جهان را تغییر دهد. در ۱۹۳۹، وقتی هیتلر در اوج قدرت میلیون‌ها نفر را فریب می‌داد، گئورگ السرِ رادیکال که او را قاتل می‌خواندند، به یکی از بزرگ‌ترین مبارزان مقاومت بدل شد.</desc>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>الیور هیرشبیگل</director>
-      <actor>کریستین فریدل، کاترینا شوتلر، بورگارت کلاوسنر، یوهان فون بولو، فلیکس ایتنر</actor>
-    </credits>
-    <date>2015</date>
-    <country lang="fa">آلمان</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">تاریخی</category>
-    <star-rating system="IMDB">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902023000 -0500" stop="20260902044300 -0500" channel="cinema">
-    <title lang="fa">شهرِ نفرین‌شدهٔ بهایراوکونا</title>
-    <title lang="en">Ooru Peru Bhairavakona</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/ahzZaRdrgDX6HMXj2AfbFCkBiq0.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/bPqtaVDJI2E8SheBhCgtktyBw6a.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] مردی برای یافتن پاسخ‌های فوری وارد دنیای بھایراوکونا می‌شود؛ جایی که به‌نظر می‌رسد هیچ راه گریزی از آن نیست.</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>ما آناند</director>
-      <actor>Sundeep Kishan، Varsha Bollamma، Kavya Thapar، Harsha Chemudu، Vennela Kishore</actor>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">هند</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>6.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902051500 -0500" stop="20260902070100 -0500" channel="cinema">
-    <title lang="fa">چشم‌ها</title>
-    <title lang="en">The Eyes</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/75S750SAsppSiQc0S3EuSH0K77O.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/yH2sGLdQejqf3Zk8KDuoDa5gr6E.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] سئو-جین، عکاس نامدار، پس از مرگ ناگهانی و مرموز خواهر دوقلویش درهم می‌شکند و برای کشف حقیقت وارد تحقیق می‌شود. اما هرچه پیش می‌رود، حضوری نامرئی واقعیت را می‌پیچاند، او را به جنون و پارانویا می‌کشاند و با تاریک شدن بینایی‌اش، به وحشتی هولناک می‌رسد.</desc>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>یئوم جی هو</director>
-      <actor>شین مین-آ، کیم نام-هی، کیم یونگ-آ، لی سونگ-ریونگ</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">ترسناک</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>6.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902073000 -0500" stop="20260902090000 -0500" channel="cinema">
-    <title lang="fa">کلانترهای ساوج‌ولز</title>
-    <title lang="en">The Sheriffs of Savage Wells</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/aVIVP8qm7dOP1rEFQePXEHT6WLV.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/6Goo3liSaqTTnwCJ2rMlxf9sPVc.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] در شهر عجیب ساوج ولز، پایزلی بل و کِید اوبراین برای کلانتری با هم رقابت می‌کنند. رقابتشان کم‌کم به کششی عاطفی بدل می‌شود، اما با تهدید تبهکاران خشن، باید اختلاف‌ها را کنار بگذارند و شهر را نجات دهند.</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>جان سوندز</director>
-      <actor>رایان بیلی، جف دیکامور، جیمز گیسفورد، لری بگبی، کارن سی. برد</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">رمانتیک</category>
-    <star-rating system="IMDB">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902093000 -0500" stop="20260902112100 -0500" channel="cinema">
-    <title lang="fa">بر دروازه ابدیت</title>
-    <title lang="en">At Eternity's Gate</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/xyxhjAGSdYVVtohQfhzbRL8TopL.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] ونسان ون‌گوگِ مشهور اما رنج‌کشیده، سال‌های پایانی عمرش را در آرلِ فرانسه می‌گذراند و شاهکارهایی از طبیعتِ پیرامونش می‌آفریند.</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>جولیان اشنابل</director>
-      <actor>ویلم دافو، روپرت فرند، اسکار آیزاک، مدز میکلسن، متیو آمالریک</actor>
-    </credits>
-    <date>2018</date>
-    <country lang="fa">فرانسه</country>
-    <country lang="fa">سوئیس</country>
-    <country lang="fa">بریتانیا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">تاریخی</category>
-    <star-rating system="IMDB">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902120000 -0500" stop="20260902134500 -0500" channel="cinema">
-    <title lang="fa">شیطان‌ها</title>
-    <title lang="en">Devils</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/voL01tDBiZj05lBprSVyAsx0VJB.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/iwZyDw2arOsy3q0krcPyYaHyAsW.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] کارآگاه قتل جه‌هوان که دو سال پیش با قتل همکار و باجناقش به دست یک قاتل زنجیره‌ای از پا افتاده، حالا با نفرتی کور به تعقیب او می‌پردازد. اما پس از تصادف، در بیمارستان می‌فهمد بدنش با قاتل عوض شده و برای نجات خانواده‌اش و کشف راز این جابه‌جایی، وارد تعقیبی نفس‌گیر می‌شود.</desc>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>کیم جائه-هون</director>
-      <actor>جانگ دونگ یون، اوه دائهوان، جانگ جائه هو، چوی گوی هوا، سون جونگ هاک</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">هیجان‌انگیز</category>
-    <category lang="fa">جنایی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902141500 -0500" stop="20260902165900 -0500" channel="cinema">
-    <title lang="fa">ساتلوج</title>
-    <title lang="en">Satluj</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/h7VptulPVCJUIvWCE2HzXdHljkj.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] با جست‌وجوی عمهٔ گمشده‌اش، جاسوَنت سینگ خلرا، فعال حقوق بشر، در برابر یک نظام فاسد می‌ایستد تا توطئهٔ پشت هزاران ناپدیدشدن و قتل‌های فراقضایی در اوج آشوب پنجاب را فاش کند.</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>عسل ترهان</director>
-      <actor>دیلجیت دوسانجه، آرجون رامپال، سوویندر ویکی، گیتیکا ویدیا، کانوالجیت سینگ</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">هند</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">تاریخی</category>
-    <category lang="fa">جنایی</category>
-    <star-rating system="IMDB">
-      <value>8.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902180000 -0500" stop="20260902200200 -0500" channel="cinema">
-    <title lang="fa">رویای آمریکایی</title>
-    <title lang="en">The American Dream</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/uz4AQIFsC24qVoMrYRISLDqMHze.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/hQagR2IJiVN2FBFWmuz7XOQdVOF.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] داستان جِرِمیِ فروشندهٔ یک ویدئوکلاب و بونا، نظافتچی فرودگاه، است که با پول و رابطه و حتی انگلیسیِ درست‌وحسابی، بعید بود جایی برسند؛ اما با جسارت، هوش و انسانیت، از کشف استعدادهای خام تا قراردادهای میلیون‌دلاری در NBA بالا می‌کشند و رویای آمریکایی‌شان را دنبال می‌کنند.</desc>
-    <rating>
-      <value>+16</value>
-    </rating>
-    <credits>
-      <director>آنتونی مارسیانو</director>
-      <actor>ژان پاسکال زادی، رافائل کوئنارد، گریگوری دفلور، دیوید کلارک، جاش کازابون</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">فرانسه</country>
-    <country lang="fa">کانادا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">زندگی‌نامه</category>
-    <category lang="fa">ورزشی</category>
-    <star-rating system="IMDB">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902213000 -0500" stop="20260902232100 -0500" channel="cinema">
-    <title lang="fa">بر دروازه ابدیت</title>
-    <title lang="en">At Eternity's Gate</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/xyxhjAGSdYVVtohQfhzbRL8TopL.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] ونسان ون‌گوگِ مشهور اما رنج‌کشیده، سال‌های پایانی عمرش را در آرلِ فرانسه می‌گذراند و شاهکارهایی از طبیعتِ پیرامونش می‌آفریند.</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>جولیان اشنابل</director>
-      <actor>ویلم دافو، روپرت فرند، اسکار آیزاک، مدز میکلسن، متیو آمالریک</actor>
-    </credits>
-    <date>2018</date>
-    <country lang="fa">فرانسه</country>
-    <country lang="fa">سوئیس</country>
-    <country lang="fa">بریتانیا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">تاریخی</category>
-    <star-rating system="IMDB">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902223000 -0500" stop="20260902232000 -0500" channel="comedy">
-    <title lang="fa">لیسانسه‌ها</title>
-    <title lang="en">Postgraduate Students</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/qbAQIqOQTATnHS0V2edUX5C3ahz.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/5ngi3FkB7jRvbXxoukpwkG9kLTi.jpg" width="500" height="750"/>
-    <desc lang="fa">[زبان اصلی] داستان سه دوست و چالش‌هایشان در زندگی و ازدواج</desc>
-    <sub-title lang="fa">قسمت ۲۸</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>سروش صحت</director>
-      <actor>امیرحسین رستمی، هوتن شکیبا، امیر کاظمی، متین ستوده، بیژن بنفشه خواه</actor>
-    </credits>
-    <date>2016</date>
-    <country lang="fa">ایران</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">خانوادگی</category>
-    <star-rating system="IMDB">
-      <value>5.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260903000000 -0500" channel="comedy">
-    <title lang="fa">زیاد ذوق‌زده نشو</title>
-    <title lang="en">Curb Your Enthusiasm</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/xi4yfYbgmSkRn8R9Z1wqgFqTILk.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/wQtLhlgDWJ0LoPIcnJCvrPsG0Vk.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] لری دیوید در نسخه‌ای موازی از جهان، خودش را بازی می‌کند؛ جایی که هیچ‌چیز طبق میلش پیش نمی‌رود و از نگاه او، هیچ‌کس دیگر هم کارها را درست انجام نمی‌دهد.</desc>
-    <sub-title lang="fa">خط ویژهٔ کارپول</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <episode-num system="xmltv_ns">3.5.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>لری دیوید</director>
-      <actor>لری دیوید، جف گارلین، سوزی اسمن، شریل هاینز، جی بی اسموو</actor>
-    </credits>
-    <date>2004</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902211200 -0500" channel="docs">
-    <title lang="fa">ناشناخته‌ها</title>
-    <title lang="en">The UnXplained</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/ythTNCIk4jUegUol8nfiXtkDJrG.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/k4jKrJ03pJPyDJgHGQU6au8gpRL.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] به دنیای رازهای شگفت‌انگیز، عجیب و توضیح‌ناپذیر جهان سر بزنید؛ هر قسمت با روایت دانشمندان، تاریخ‌دانان و شاهدان، می‌کوشد نشان دهد چگونه چیزهای به‌ظاهر ناممکن می‌توانند رخ دهند.</desc>
-    <sub-title lang="fa">گمشده</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <actor>William Shatner</actor>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">مستند</category>
-    <star-rating system="IMDB">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902230000 -0500" channel="docs">
-    <title lang="fa">سزار میلان: انسان بهتر، سگ بهتر</title>
-    <title lang="en">Cesar Millan: Better Human, Better Dog</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/7jY0OJGBlbAXVfiYi4ojvLzxBp3.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/zGHqW2BIkLLxYW7oAq3t2HgBLqt.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] سزار میلان سراغ سخت‌ترین پرونده‌ها می‌رود و با سگ‌هایی روبه‌رو می‌شود که رفتارهای تازه و دردسرسازشان، از عشقِ ناآگاهانه‌ی صاحبانشان بدتر شده است.</desc>
-    <sub-title lang="fa">دیوانه‌ی تمام‌عیار</sub-title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="xmltv_ns">2.3.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <actor>Cesar Millan</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">مستند</category>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>8.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260902235800 -0500" channel="docs">
-    <title lang="fa">اجلاس</title>
-    <title lang="en">The Assembly</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/bR9aEz9UEFFo6DBxPy6GOdBRaa2.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/2vQdsyOnFNoLK9V5Yc0NavStFmq.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] گروهی از مصاحبه‌کنندگان اوتیستیک و نورودایورجنت با پرسش‌های بی‌پرده، مستقیم و غیرمنتظره سراغ سلبریتی‌ها می‌روند و گفت‌وگویی صریح و بی‌سانسور می‌سازند.</desc>
-    <sub-title lang="fa">هاوی ماندل</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <date>2025</date>
-    <country lang="fa">کانادا</country>
-    <category lang="fa">مستند</category>
-    <star-rating system="IMDB">
-      <value>8.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902214500 -0500" stop="20260902222800 -0500" channel="family">
-    <title lang="fa">روزی روزگاری</title>
-    <title lang="en">Once Upon a Time</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/2NqACsHQ18uUnUaK7PecqSRLWfn.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/u95scYysMZvBoekSLmMNJjeqXcY.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] در شهری در مِین، همه شخصیت‌های افسانه‌ای میان دو جهان گرفتار نفرینی قدرتمندند. فقط یک نفر حقیقت را می‌داند و تنها او می‌تواند این طلسم را بشکند.</desc>
-    <sub-title lang="fa">دیدِ شکسته</sub-title>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>Edward Kitsis, Adam Horowitz</director>
-      <actor>Lana Parrilla</actor>
-      <actor>Colin O'Donoghue</actor>
-      <actor>Robert Carlyle</actor>
-      <actor>Gabrielle Anwar</actor>
-      <actor>Dania Ramirez</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>7.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260902235000 -0500" channel="family">
-    <title lang="fa">نیروی اهریمنی او</title>
-    <title lang="en">His Dark Materials</title>
-    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51441.20260827-122731.jpg" width="780" height="439"/>
-    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51441.20260828-111457.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] داستان دو کودک ماجراجو به‌نام‌های لایرا بلاکوا و ویل پری را روایت می‌کند که در دو جهان موازی زندگی می‌کنند ، خیلی زود آنها وارد یک ماجراجویی آسرارآمیز می‌شوند و …</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>Jack Thorne</director>
-      <actor>Dafne KeenKit ConnorRuth Wilson</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">فانتزی</category>
-    <category lang="fa">خانوادگی</category>
-    <star-rating system="IMDB">
-      <value>7.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902163000 -0500" stop="20260902193000 -0500" channel="fight">
-    <title lang="fa">بوکس بدون دستکش</title>
-    <title lang="en">بوکس بدون دستکش</title>
-    <desc lang="fa">[زبان اصلی] https://youtu.be/jjWIEOZ2THM</desc>
-    <rating>
-      <value>1.0</value>
-    </rating>
-  </programme>
-  <programme start="20260902130000 -0500" stop="20260902132400 -0500" channel="junior">
-    <title lang="fa">بابا لنگ دراز</title>
-    <title lang="en">My Daddy Long Legs</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/pVx2AAqrqJc8d05VTPzEXLt67Nd.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/eZuyNToQ8ri5eAcJzHIp0FwDZiG.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] جودی ابوت، یتیمی در نیویورک، در ۱۷سالگی بورسیه و کمک‌هزینه‌ای از نیکوکاری ناشناس می‌گیرد که به استعداد نویسندگی‌اش ایمان دارد. تنها خواسته‌اش این است که جودی هر ماه برای او نامه‌ای بنویسد، بی‌آنکه پاسخی دریافت کند.</desc>
-    <episode-num system="onscreen">E20</episode-num>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <actor>Mitsuko Horie</actor>
-      <actor>Bin Shimada</actor>
-      <actor>Chie Sato</actor>
-      <actor>Hideyuki Tanaka</actor>
-      <actor>Yuri Amano</actor>
-    </credits>
-    <date>1990</date>
-    <country lang="fa">ژاپن</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">نوستالژی</category>
-    <star-rating system="IMDB">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902133000 -0500" stop="20260902135200 -0500" channel="junior">
-    <title lang="fa">کیم پاسیبل</title>
-    <title lang="en">Kim Possible</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/mvqepnp9MMBBRkgQ7Kt6kcFbBHu.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] کیم پاسیبل هر وقت خطر یا دردسری پیش بیاید، فوری وارد عمل می‌شود تا دنیا را از شر تبهکاران نجات دهد و باز هم به تمرین تشویق برسد. خوشبختانه رون و موش‌کور برهنه‌اش، روفوس، همیشه کنارش هستند.</desc>
-    <sub-title lang="fa">نابغهٔ برهنه</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <director>Mark McCorkle, Bob Schooley</director>
-      <actor>Christy Carlson Romano</actor>
-      <actor>Will Friedle</actor>
-      <actor>Nancy Cartwright</actor>
-      <actor>Tahj Mowry</actor>
-    </credits>
-    <date>2003</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <star-rating system="IMDB">
-      <value>7.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902140000 -0500" stop="20260902141100 -0500" channel="junior">
-    <title lang="fa">باب‌اسفنجی شلوارمکعبی</title>
-    <title lang="en">SpongeBob SquarePants</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/lyUKvLPJYAdXKeIre81D4TaBJiD.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] در شهر زیرآبی بیکینی باتم، باب‌اسفنجی شاد و دست‌وپاچلفتی با حلزونش گری و دوستانش پاتریک و سندی، در رستوران کراستی کرَب کار می‌کند و مدام ناخواسته دردسر و ماجراهای عجیب به‌پا می‌کند، در حالی که همسایه بداخلاقش اختاپوس را هم کلافه می‌کند.</desc>
-    <sub-title lang="fa">مرد پریایی و پسر صدفی ۲</sub-title>
-    <episode-num system="onscreen">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <director>Stephen Hillenburg</director>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Rodger Bumpass</actor>
-      <actor>Clancy Brown</actor>
-      <actor>Carolyn Lawrence</actor>
-    </credits>
-    <date>1999</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <star-rating system="IMDB">
-      <value>7.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902143000 -0500" stop="20260902145500 -0500" channel="junior">
-    <title lang="fa">سریع و خشمگین: جاسوسان مسابقه‌دهنده</title>
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/igncLn9fmHDhCnKVubmJXzFxEna.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] یک سازمان دولتی، تونی تورتو و دوستان ماجراجویش را که عاشق سرعت‌اند، برای نفوذ مخفیانه به یک شبکه مسابقات خیابانی خلافکارانه به خدمت می‌گیرد.</desc>
-    <sub-title lang="fa">جایزه بزرگ شهر ارواح</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <actor>Tyler Posey</actor>
-      <actor>Camille Ramsey</actor>
-      <actor>Luke Youngblood</actor>
-      <actor>Jorge Diaz</actor>
-      <actor>Renée Elise Goldsberry</actor>
-    </credits>
-    <date>2019</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <star-rating system="IMDB">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902150000 -0500" stop="20260902152200 -0500" channel="junior">
-    <title lang="fa">اسکوبی-دو و حدس بزن چه کسی؟</title>
-    <title lang="en">Scooby-Doo and Guess Who?</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/9kFHNKeshxzKqMmwIvjuMtbWm7A.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] گروه معمایی در حل پرونده‌های بزرگ‌تر، با چهره‌های مشهور و به‌یادماندنی هم روبه‌رو می‌شوند.</desc>
-    <sub-title lang="fa">اسکوبی با هزار چهره</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <actor>Frank Welker</actor>
-      <actor>Matthew Lillard</actor>
-      <actor>Grey DeLisle</actor>
-      <actor>Kate Micucci</actor>
-    </credits>
-    <date>2019</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902153000 -0500" stop="20260902154200 -0500" channel="junior">
-    <title lang="fa">دنیای عجیب و شگفت‌انگیز گامبال</title>
-    <title lang="en">The Wonderfully Weird World of Gumball</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/brxUFoTavcVd9mkoixmAHoFvAgc.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/wG6tRzXB8lTE03i7NaqwO04z5Oy.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] به المور برگردید؛ جایی که قوانین واقعیت شوخی‌اند و زندگی خانوادگی هرگز عادی نیست. گامبال واترسون با برادرش داروین، خواهرش آنایس و بقیه شهر درگیر نبرد با امپراتوری فست‌فود، هوش مصنوعی عاشق مادرش و ماجراهای عجیب‌تر می‌شود؛ پر از پیچ‌وخم و طنز سوررئال.</desc>
-    <sub-title lang="fa">آماداین</sub-title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <episode-num system="xmltv_ns">0.34.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>Ben Bocquelet</director>
-      <actor>Alkaio Thiele</actor>
-      <actor>Hero Hunter</actor>
-      <actor>Kinza Khan</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-    </credits>
-    <date>2025</date>
-    <country lang="fa">بریتانیا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">علمی-تخیلی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>8.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902160000 -0500" stop="20260902160800 -0500" channel="junior">
-    <title lang="fa">پت و مت</title>
-    <title lang="en">Pat &amp; Mat</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/pufMg31EZEYOwmuZMLM8hWE6j7x.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/tvVx4hpKnFcL5ZzQxWF5aIscO8z.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پت و مت یک مجموعه انیمیشن استاپ‌موشن چکی درباره دو تعمیرکار دست‌وپاچلفتی به همین نام است که با خلاقیت و خرابکاری‌های بامزه‌شان شناخته می‌شوند.</desc>
-    <episode-num system="onscreen">E21</episode-num>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <director>Lubomír Beneš, Vladimír Jiránek</director>
-    </credits>
-    <date>1979</date>
-    <country lang="fa">Czechoslovakia</country>
-    <country lang="fa">جمهوری چک</country>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902190000 -0500" stop="20260902192400 -0500" channel="junior">
-    <title lang="fa">بابا لنگ دراز</title>
-    <title lang="en">My Daddy Long Legs</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/pVx2AAqrqJc8d05VTPzEXLt67Nd.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/eZuyNToQ8ri5eAcJzHIp0FwDZiG.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] جودی ابوت، یتیمی در نیویورک، در ۱۷سالگی بورسیه و کمک‌هزینه‌ای از نیکوکاری ناشناس می‌گیرد که به استعداد نویسندگی‌اش ایمان دارد. تنها خواسته‌اش این است که جودی هر ماه برای او نامه‌ای بنویسد، بی‌آنکه پاسخی دریافت کند.</desc>
-    <episode-num system="onscreen">E20</episode-num>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <actor>Mitsuko Horie</actor>
-      <actor>Bin Shimada</actor>
-      <actor>Chie Sato</actor>
-      <actor>Hideyuki Tanaka</actor>
-      <actor>Yuri Amano</actor>
-    </credits>
-    <date>1990</date>
-    <country lang="fa">ژاپن</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">نوستالژی</category>
-    <star-rating system="IMDB">
-      <value>6.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902193000 -0500" stop="20260902195200 -0500" channel="junior">
-    <title lang="fa">کیم پاسیبل</title>
-    <title lang="en">Kim Possible</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/mvqepnp9MMBBRkgQ7Kt6kcFbBHu.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/qsDNX8DPwWydDn9oUIhe1WcTuUH.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] کیم پاسیبل هر وقت خطر یا دردسری پیش بیاید، فوری وارد عمل می‌شود تا دنیا را از شر تبهکاران نجات دهد و باز هم به تمرین تشویق برسد. خوشبختانه رون و موش‌کور برهنه‌اش، روفوس، همیشه کنارش هستند.</desc>
-    <sub-title lang="fa">نابغهٔ برهنه</sub-title>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <director>Mark McCorkle, Bob Schooley</director>
-      <actor>Christy Carlson Romano</actor>
-      <actor>Will Friedle</actor>
-      <actor>Nancy Cartwright</actor>
-      <actor>Tahj Mowry</actor>
-    </credits>
-    <date>2003</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <star-rating system="IMDB">
-      <value>7.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902200000 -0500" stop="20260902201100 -0500" channel="junior">
-    <title lang="fa">باب‌اسفنجی شلوارمکعبی</title>
-    <title lang="en">SpongeBob SquarePants</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/lyUKvLPJYAdXKeIre81D4TaBJiD.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] در شهر زیرآبی بیکینی باتم، باب‌اسفنجی شاد و دست‌وپاچلفتی با حلزونش گری و دوستانش پاتریک و سندی، در رستوران کراستی کرَب کار می‌کند و مدام ناخواسته دردسر و ماجراهای عجیب به‌پا می‌کند، در حالی که همسایه بداخلاقش اختاپوس را هم کلافه می‌کند.</desc>
-    <sub-title lang="fa">مرد پریایی و پسر صدفی ۲</sub-title>
-    <episode-num system="onscreen">S01E81</episode-num>
-    <episode-num system="xmltv_ns">0.80.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <director>Stephen Hillenburg</director>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Fagerbakke</actor>
-      <actor>Rodger Bumpass</actor>
-      <actor>Clancy Brown</actor>
-      <actor>Carolyn Lawrence</actor>
-    </credits>
-    <date>1999</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <star-rating system="IMDB">
-      <value>7.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902205500 -0500" channel="junior">
-    <title lang="fa">سریع و خشمگین: جاسوسان مسابقه‌دهنده</title>
-    <title lang="en">Fast &amp; Furious: Spy Racers</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/igncLn9fmHDhCnKVubmJXzFxEna.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/cI7zYWuYTmKEdXITcUKPzjc2EW5.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] یک سازمان دولتی، تونی تورتو و دوستان ماجراجویش را که عاشق سرعت‌اند، برای نفوذ مخفیانه به یک شبکه مسابقات خیابانی خلافکارانه به خدمت می‌گیرد.</desc>
-    <sub-title lang="fa">جایزه بزرگ شهر ارواح</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <actor>Tyler Posey</actor>
-      <actor>Camille Ramsey</actor>
-      <actor>Luke Youngblood</actor>
-      <actor>Jorge Diaz</actor>
-      <actor>Renée Elise Goldsberry</actor>
-    </credits>
-    <date>2019</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <star-rating system="IMDB">
-      <value>7.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902210000 -0500" stop="20260902212200 -0500" channel="junior">
-    <title lang="fa">اسکوبی-دو و حدس بزن چه کسی؟</title>
-    <title lang="en">Scooby-Doo and Guess Who?</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/9kFHNKeshxzKqMmwIvjuMtbWm7A.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/g7vQXsELihik4oHJwqhL6WuTJ3j.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] گروه معمایی در حل پرونده‌های بزرگ‌تر، با چهره‌های مشهور و به‌یادماندنی هم روبه‌رو می‌شوند.</desc>
-    <sub-title lang="fa">اسکوبی با هزار چهره</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <actor>Frank Welker</actor>
-      <actor>Matthew Lillard</actor>
-      <actor>Grey DeLisle</actor>
-      <actor>Kate Micucci</actor>
-    </credits>
-    <date>2019</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902213000 -0500" stop="20260902214200 -0500" channel="junior">
-    <title lang="fa">دنیای عجیب و شگفت‌انگیز گامبال</title>
-    <title lang="en">The Wonderfully Weird World of Gumball</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/brxUFoTavcVd9mkoixmAHoFvAgc.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/wG6tRzXB8lTE03i7NaqwO04z5Oy.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] به المور برگردید؛ جایی که قوانین واقعیت شوخی‌اند و زندگی خانوادگی هرگز عادی نیست. گامبال واترسون با برادرش داروین، خواهرش آنایس و بقیه شهر درگیر نبرد با امپراتوری فست‌فود، هوش مصنوعی عاشق مادرش و ماجراهای عجیب‌تر می‌شود؛ پر از پیچ‌وخم و طنز سوررئال.</desc>
-    <sub-title lang="fa">آماداین</sub-title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <episode-num system="xmltv_ns">0.34.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>Ben Bocquelet</director>
-      <actor>Alkaio Thiele</actor>
-      <actor>Hero Hunter</actor>
-      <actor>Kinza Khan</actor>
-      <actor>Teresa Gallagher</actor>
-      <actor>Dan Russell</actor>
-    </credits>
-    <date>2025</date>
-    <country lang="fa">بریتانیا</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">علمی-تخیلی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>8.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902220800 -0500" channel="junior">
-    <title lang="fa">پت و مت</title>
-    <title lang="en">Pat &amp; Mat</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/pufMg31EZEYOwmuZMLM8hWE6j7x.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/tvVx4hpKnFcL5ZzQxWF5aIscO8z.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پت و مت یک مجموعه انیمیشن استاپ‌موشن چکی درباره دو تعمیرکار دست‌وپاچلفتی به همین نام است که با خلاقیت و خرابکاری‌های بامزه‌شان شناخته می‌شوند.</desc>
-    <episode-num system="onscreen">E21</episode-num>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <rating>
-      <value>G</value>
-    </rating>
-    <credits>
-      <director>Lubomír Beneš, Vladimír Jiránek</director>
-    </credits>
-    <date>1979</date>
-    <country lang="fa">Czechoslovakia</country>
-    <country lang="fa">جمهوری چک</country>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902213600 -0500" channel="korea">
-    <title lang="fa">دستورالعمل عشق</title>
-    <title lang="en">Recipe For Love</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/l1iP4NG6dhEoqooag7btdO807k1.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/u9CoYXucqSrIVvucjvQq6WsgWOU.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] دو خانواده که ۳۰ سال درگیر کینه و سوءتفاهم بوده‌اند، با آشتی و التیام زخم‌های هم، دوباره به هم نزدیک می‌شوند و در نهایت به یک خانواده تبدیل می‌شوند.</desc>
-    <sub-title lang="fa">آنچه خانواده می‌نامیم</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>نام دائه جونگ، لی سونگ یانگ، لی سو اون</director>
-      <actor>Jin Se-yeon</actor>
-      <actor>Park Ki-woong</actor>
-      <actor>Kim Mi-sook</actor>
-      <actor>Kim Seung-su</actor>
-      <actor>Yoo Ho-jeong</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902230500 -0500" channel="korea">
-    <title lang="fa">شاهدخت دادستان</title>
-    <title lang="en">Prosecutor Princess</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/99cOxach9UaBVRLmK1oztEFC56d.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/dE1IML0dc278FDelf9dG35rMQRD.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] ما هه‌ری با حافظه و تمرکز فوق‌العاده‌اش به‌راحتی وکالت را پشت سر می‌گذارد، اما بیشتر به مد و راحتی علاقه دارد و از کار سخت فراری است. او در کشمکش با همکاران و پرونده‌های دشوار، کم‌کم به دادستانی مسئول و عدالت‌خواه تبدیل می‌شود.</desc>
-    <sub-title lang="fa">قسمت دوازدهم</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <director>استودیو مک‌کوئین</director>
-      <actor>Kim So-yeon</actor>
-      <actor>Park Si-hoo</actor>
-      <actor>Han Jung-soo</actor>
-      <actor>Choi Song-hyun</actor>
-      <actor>Min Young-won</actor>
-    </credits>
-    <date>2010</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">جنایی</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>6.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260903003100 -0500" channel="korea">
-    <title lang="fa">عشق گره خورده ما</title>
-    <title lang="en">Our Sticky Love</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/vQeDMonIjv3b69ODZPv1U5qlrtC.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] یک دادستان جاه‌طلب حافظه‌اش را از دست می‌دهد و با مربی بوکسـی که می‌گوید دوست‌پسرش است زندگی می‌کند؛ آیا این موقعیت عجیب می‌تواند به عشقی واقعی تبدیل شود؟</desc>
-    <sub-title lang="fa">قسمت ۸</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Kim Jang-han, Mo Ji-hye</director>
-      <actor>Jung Hae-in</actor>
-      <actor>Ahn Ha-young</actor>
-      <actor>Heo Sung-tae</actor>
-      <actor>Kim Yeong-ok</actor>
-      <actor>Jeon Bae-soo</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902211500 -0500" channel="medical">
-    <title lang="fa">ای‌اند‌ای پس از تاریکی</title>
-    <title lang="en">A&amp;E After Dark</title>
-    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/cid-104013.20260813-012350.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/jDZxjoruW3X2h8vfF3DhH0ZrEPN.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] پشت‌صحنهٔ بیمارستان هال رویال اینفرمری و چالش‌های شبانهٔ کارکنان NHS در بخش اورژانس را نشان می‌دهد.</desc>
-    <sub-title lang="fa">قسمت ۸</sub-title>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <date>2021</date>
-    <country lang="fa">بریتانیا</country>
-    <category lang="fa">مستند</category>
-    <category lang="fa">پزشکی</category>
-    <star-rating system="IMDB">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902214500 -0500" stop="20260902222700 -0500" channel="medical">
-    <title lang="fa">تیم پزشکی شیکاگو</title>
-    <title lang="en">Chicago Med</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/9eym662FRJJb9wdgCiDKPDciZzf.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] سفری پرتنش و احساسی در دل شلوغی‌های روزمره پرهیاهوترین بیمارستان شهر؛ جایی که تیمی شجاع از پزشکان با پرونده‌های تازه و الهام‌گرفته از رویدادهای روز، در آشوب نفس‌گیر اورژانس، بیمارستان را سرپا نگه می‌دارند و روابطی پرحرارت می‌سازند.</desc>
-    <sub-title lang="fa">از کی شروع کردیم به عوض شدن</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <episode-num system="xmltv_ns">5.0.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>Dick Wolf, Matt Olmstead</director>
-      <actor>Steven Weber</actor>
-      <actor>Jessy Schram</actor>
-      <actor>Luke Mitchell</actor>
-      <actor>Sarah Ramos</actor>
-      <actor>Darren Barnet</actor>
-    </credits>
-    <date>2020</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260902234500 -0500" channel="medical">
-    <title lang="fa">کد سیاه</title>
-    <title lang="en">Code Black</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/AekZz93QCISOYFELhxyRCSzcAit.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] درامی پزشکی الهام‌گرفته از مستندی تحسین‌شده که در شلوغ‌ترین و بدنام‌ترین اورژانس کشور می‌گذرد؛ جایی که کارکنان استثنایی برای حفظ اصولشان و نجات بیمارانی که بیش از همه به آن‌ها نیاز دارند، با سیستمی فرسوده می‌جنگند.</desc>
-    <sub-title lang="fa">فشارِ کابین</sub-title>
-    <episode-num system="onscreen">S03E05</episode-num>
-    <episode-num system="xmltv_ns">2.4.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>Michael Seitzman</director>
-      <actor>Marcia Gay Harden</actor>
-      <actor>Luis Guzmán</actor>
-      <actor>Benjamin Hollingsworth</actor>
-      <actor>Harry M. Ford</actor>
-      <actor>William Allen Young</actor>
-    </credits>
-    <date>2018</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902021500 -0500" stop="20260902032300 -0500" channel="plus">
-    <title lang="fa">نبرد سرنوشت‌ها</title>
-    <title lang="en">Battle of Fates</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/x0y9qTZLiiJmV4eEGnx6lMh010Q.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/o4DOGStruvyfrfKhazBO9UbxRhR.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] آیا سرنوشت از پیش تعیین شده است و کسی واقعاً می‌تواند آن را بخواند؟ در یک رقابت بی‌سابقه، ۴۹ سرنوشت‌خوان برتر کره با شمن‌گری، ساجو، تاروت و چهره‌خوانی برای اثبات مهارتشان می‌جنگند. فقط خوانندگان واقعی سرنوشت می‌مانند. برنده کیست؟</desc>
-    <sub-title lang="fa">قسمت ۵</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <actor>Jeon Hyun-moo</actor>
-      <actor>Park Na-rae</actor>
-      <actor>Park Ha-seon</actor>
-      <actor>Shindong</actor>
-      <actor>Kang Ji-young</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902034500 -0500" stop="20260902043400 -0500" channel="plus">
-    <title lang="fa">تنگه وحشت</title>
-    <title lang="en">Cape Fear</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پس از آزادی از زندان، قاتل محکوم مکس کِیدی به‌تدریج وارد زندگی خانوادهٔ وکلای متأهلی می‌شود که او را به زندان انداخته‌اند، و با تهدید و انتقام، آرامششان را به کابوس بدل می‌کند.</desc>
-    <sub-title lang="fa">حس‌های شبح‌وار</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Nick Antosca</director>
-      <actor>Amy Adams</actor>
-      <actor>Javier Bardem</actor>
-      <actor>Patrick Wilson</actor>
-      <actor>Joe Anders</actor>
-      <actor>Lily Collias</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <category lang="fa">جنایی</category>
-    <star-rating system="IMDB">
-      <value>7.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902050000 -0500" stop="20260902060400 -0500" channel="plus">
-    <title lang="fa">آواتار: آخرین بادافزار</title>
-    <title lang="en">Avatar: The Last Airbender</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/tJXUmCBnWj00BCv6H3znQGsAYsM.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پسر جوانی که به‌عنوان آواتار شناخته می‌شود باید چهار نیروی عنصر را بیاموزد تا جهانی درگیر جنگ را نجات دهد و با دشمنی بی‌رحم که می‌خواهد او را متوقف کند، روبه‌رو شود.</desc>
-    <sub-title lang="fa">هزاران چیز</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>Albert Kim</director>
-      <actor>Gordon Cormier</actor>
-      <actor>Kiawentiio</actor>
-      <actor>Ian Ousley</actor>
-      <actor>Dallas Liu</actor>
-      <actor>Miyako</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902061500 -0500" stop="20260902070000 -0500" channel="plus">
-    <title lang="fa">آقای اشتباه</title>
-    <title lang="en">Mr. Wrong</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/56gRM0UZEnbYyMy6ivwbympeVAr.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/gLIgB9hWc14ffEnH7MLV9V2E1OP.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] اوزگور، صاحب ثروتمند رستوران، زندگی بی‌خیال و بی‌اعتقادی به عشق دارد. از سوی دیگر، ازگی از رابطه‌های اشتباه خسته شده و می‌خواهد بالاخره ازدواج کند. اوزگور برای کمک به او، آموزش رابطه می‌دهد و کم‌کم همسایه بودنشان همه‌چیز را پیچیده‌تر می‌کند.</desc>
-    <sub-title lang="fa">قسمت چهاردهم</sub-title>
-    <episode-num system="onscreen">S01E28</episode-num>
-    <episode-num system="xmltv_ns">0.27.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Deniz Yorulmazer</director>
-      <actor>Can Yaman</actor>
-      <actor>Özge Gürel</actor>
-      <actor>Gürgen Öz</actor>
-      <actor>Fatma Toptaş</actor>
-      <actor>Sarp Can Köroğlu</actor>
-    </credits>
-    <date>2020</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902073000 -0500" stop="20260902093000 -0500" channel="plus">
-    <title lang="fa">چنگال‌های آتشین</title>
-    <title lang="en">Blazing Fists</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/zvWxMJXx4tP8fiBaNnaK5LXYSi9.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/r7wFGCy6jizOBa90HM4Yf17u5Tz.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] ایکوتو و ریومـا پس از آشنایی در کانون اصلاح و تربیت به هم نزدیک می‌شوند. با الهام از حرف‌های میکورو آساکورا، رویای حضور در رویداد رزمی Breaking Down را دنبال می‌کنند، اما رقابت‌های پیش‌رو ممکن است همه‌چیز را به هم بزند.</desc>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Takashi Miike</director>
-      <actor>Danhi Kinoshita</actor>
-      <actor>Kaname Yoshizawa</actor>
-      <actor>GACKT</actor>
-      <actor>Mariko Shinoda</actor>
-      <actor>Anna Tsuchiya</actor>
-    </credits>
-    <date>2025</date>
-    <country lang="fa">ژاپن</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">اکشن</category>
-    <star-rating system="IMDB">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902103000 -0500" stop="20260902115400 -0500" channel="plus">
-    <title lang="fa">در محاصره طوفان</title>
-    <title lang="en">Thrash</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/hniERZojXCEc7Fp3yljZUigOAhm.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/adk8weka3O5648g3de4z3y4aE7G.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] وقتی یک طوفان ویرانگر به شهر ساحلی می‌کوبد، ساکنان گرفتار باید در برابر آب‌های بالا‌آمده و کوسه‌های گرسنه برای زنده ماندن بجنگند.</desc>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Tommy Wirkola</director>
-      <actor>Phoebe Dynevor</actor>
-      <actor>Whitney Peak</actor>
-      <actor>Djimon Hounsou</actor>
-      <actor>Alyla Browne</actor>
-      <actor>Stacy Clausen</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">ترسناک</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902130000 -0500" stop="20260902140000 -0500" channel="plus">
-    <title lang="fa">منشأ</title>
-    <title lang="en">FROM</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/piAmLLUXCkH5ODK6uYd4jhRP4El.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] در شهری کابوس‌وار در قلب آمریکا که هرکس واردش شود گیر می‌افتد، ساکنان ناخواسته برای حفظ زندگی عادی و یافتن راه فرار می‌جنگند؛ در حالی که باید از جنگل اطراف و موجودات هولناکی که شب‌ها بیرون می‌آیند هم جان سالم به در ببرند.</desc>
-    <sub-title lang="fa">روزی روزگاری...</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>John Griffin</director>
-      <actor>Harold Perrineau</actor>
-      <actor>Catalina Sandino Moreno</actor>
-      <actor>Ricky He</actor>
-      <actor>David Alpay</actor>
-      <actor>Chloe Van Landschoot</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">ترسناک</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902141500 -0500" stop="20260902151400 -0500" channel="plus">
-    <title lang="fa">نبرد سرنوشت‌ها</title>
-    <title lang="en">Battle of Fates</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/x0y9qTZLiiJmV4eEGnx6lMh010Q.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/o4DOGStruvyfrfKhazBO9UbxRhR.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] آیا سرنوشت از پیش تعیین شده است و کسی واقعاً می‌تواند آن را بخواند؟ در یک رقابت بی‌سابقه، ۴۹ سرنوشت‌خوان برتر کره با شمن‌گری، ساجو، تاروت و چهره‌خوانی برای اثبات مهارتشان می‌جنگند. فقط خوانندگان واقعی سرنوشت می‌مانند. برنده کیست؟</desc>
-    <sub-title lang="fa">قسمت ۶</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <rating>
-      <value>+15</value>
-    </rating>
-    <credits>
-      <actor>Jeon Hyun-moo</actor>
-      <actor>Park Na-rae</actor>
-      <actor>Park Ha-seon</actor>
-      <actor>Shindong</actor>
-      <actor>Kang Ji-young</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">رازآلود</category>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902154500 -0500" stop="20260902163300 -0500" channel="plus">
-    <title lang="fa">تنگه وحشت</title>
-    <title lang="en">Cape Fear</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/cl5Rs0z5Il3KHUJfOtDJs2N8Cb.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پس از آزادی از زندان، قاتل محکوم مکس کِیدی به‌تدریج وارد زندگی خانوادهٔ وکلای متأهلی می‌شود که او را به زندان انداخته‌اند، و با تهدید و انتقام، آرامششان را به کابوس بدل می‌کند.</desc>
-    <sub-title lang="fa">سوراخ‌شده</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Nick Antosca</director>
-      <actor>Amy Adams</actor>
-      <actor>Javier Bardem</actor>
-      <actor>Patrick Wilson</actor>
-      <actor>Joe Anders</actor>
-      <actor>Lily Collias</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <category lang="fa">جنایی</category>
-    <star-rating system="IMDB">
-      <value>7.2/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902170000 -0500" stop="20260902175600 -0500" channel="plus">
-    <title lang="fa">آواتار: آخرین بادافزار</title>
-    <title lang="en">Avatar: The Last Airbender</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/tJXUmCBnWj00BCv6H3znQGsAYsM.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] پسر جوانی که به‌عنوان آواتار شناخته می‌شود باید چهار نیروی عنصر را بیاموزد تا جهانی درگیر جنگ را نجات دهد و با دشمنی بی‌رحم که می‌خواهد او را متوقف کند، روبه‌رو شود.</desc>
-    <sub-title lang="fa">مثلِ دو اژدها</sub-title>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <rating>
-      <value>PG</value>
-    </rating>
-    <credits>
-      <director>Albert Kim</director>
-      <actor>Gordon Cormier</actor>
-      <actor>Kiawentiio</actor>
-      <actor>Ian Ousley</actor>
-      <actor>Dallas Liu</actor>
-      <actor>Miyako</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">فانتزی</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902181500 -0500" stop="20260902190000 -0500" channel="plus">
-    <title lang="fa">آقای اشتباه</title>
-    <title lang="en">Mr. Wrong</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/56gRM0UZEnbYyMy6ivwbympeVAr.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/gLIgB9hWc14ffEnH7MLV9V2E1OP.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] اوزگور، صاحب ثروتمند رستوران، زندگی بی‌خیال و بی‌اعتقادی به عشق دارد. از سوی دیگر، ازگی از رابطه‌های اشتباه خسته شده و می‌خواهد بالاخره ازدواج کند. اوزگور برای کمک به او، آموزش رابطه می‌دهد و کم‌کم همسایه بودنشان همه‌چیز را پیچیده‌تر می‌کند.</desc>
-    <sub-title lang="fa">قسمت چهاردهم</sub-title>
-    <episode-num system="onscreen">S01E29</episode-num>
-    <episode-num system="xmltv_ns">0.28.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Deniz Yorulmazer</director>
-      <actor>Can Yaman</actor>
-      <actor>Özge Gürel</actor>
-      <actor>Gürgen Öz</actor>
-      <actor>Fatma Toptaş</actor>
-      <actor>Sarp Can Köroğlu</actor>
-    </credits>
-    <date>2020</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902190000 -0500" stop="20260902202400 -0500" channel="plus">
-    <title lang="fa">در محاصره طوفان</title>
-    <title lang="en">Thrash</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/hniERZojXCEc7Fp3yljZUigOAhm.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/adk8weka3O5648g3de4z3y4aE7G.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] وقتی یک طوفان ویرانگر به شهر ساحلی می‌کوبد، ساکنان گرفتار باید در برابر آب‌های بالا‌آمده و کوسه‌های گرسنه برای زنده ماندن بجنگند.</desc>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Tommy Wirkola</director>
-      <actor>Phoebe Dynevor</actor>
-      <actor>Whitney Peak</actor>
-      <actor>Djimon Hounsou</actor>
-      <actor>Alyla Browne</actor>
-      <actor>Stacy Clausen</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">ترسناک</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902193000 -0500" stop="20260902211100 -0500" channel="plus">
-    <title lang="fa">گورکن ها</title>
-    <title lang="en">The Badgers</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/6HeTs9twIaE33IwlxZKqr1Egwap.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/oppW8nqRkaCCIsvae7l0RgMzT3r.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] برنی ۱۱ساله به گروه پیشاهنگی «گورکن‌ها» می‌پیوندد تا جام طلایی را که پدر مرحومش برده بود، به دست آورد. اما با آمدن مادرخوانده افراطی‌اش، گر‌دی، رقابت‌ها لغو می‌شود. برنی برای رسیدن به تنها شانسش تقلب می‌کند و این کار رقابتی تلخ و بحرانی بزرگ برای گروه به راه می‌اندازد.</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Paul Magnus Lundø</director>
-      <actor>Nils Elias Olsen</actor>
-      <actor>Caroline Johansen</actor>
-      <actor>Øystein Martinsen</actor>
-      <actor>Kristoffer Lycke Abrahamsen</actor>
-      <actor>Justine Osafo</actor>
-    </credits>
-    <date>2025</date>
-    <country lang="fa">نروژ</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">خانوادگی</category>
-    <star-rating system="IMDB">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902213000 -0500" stop="20260902223000 -0500" channel="plus">
-    <title lang="fa">منشأ</title>
-    <title lang="en">FROM</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/piAmLLUXCkH5ODK6uYd4jhRP4El.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/pRtJagIxpfODzzb0T0NAvZSzErC.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] در شهری کابوس‌وار در قلب آمریکا که هرکس واردش شود گیر می‌افتد، ساکنان ناخواسته برای حفظ زندگی عادی و یافتن راه فرار می‌جنگند؛ در حالی که باید از جنگل اطراف و موجودات هولناکی که شب‌ها بیرون می‌آیند هم جان سالم به در ببرند.</desc>
-    <sub-title lang="fa">روزی روزگاری...</sub-title>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <episode-num system="xmltv_ns">1.9.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>John Griffin</director>
-      <actor>Harold Perrineau</actor>
-      <actor>Catalina Sandino Moreno</actor>
-      <actor>Ricky He</actor>
-      <actor>David Alpay</actor>
-      <actor>Chloe Van Landschoot</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">ترسناک</category>
-    <category lang="fa">رازآلود</category>
-    <star-rating system="IMDB">
-      <value>8.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902211900 -0500" channel="reality">
-    <title lang="fa">آوت‌لست</title>
-    <title lang="en">Outlast</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/jF213rbxMD7U5wphWM48C80Jawr.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/xPvFth5XCdF7TfpPOFvMUXYOpsQ.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] در طبیعت وحشی و یخ‌زده آلاسکا، ۱۶ شرکت‌کننده برای بردن جایزه‌ای بزرگ می‌جنگند؛ اما برای پیروزی باید از گرگ‌های تنها به یک تیم واقعی تبدیل شوند.</desc>
-    <sub-title lang="fa">بچهٔ جدید</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>سیلوستر استالونه، دیو بروم</director>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">ماجراجویی</category>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>6.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902224800 -0500" channel="reality">
-    <title lang="fa">کارداشیان‌ها</title>
-    <title lang="en">The Kardashians</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/u61OejejfB3e2Aal0XSCq4gZ9W4.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/y5tqHu7Rly3RS9uJZqTTraf7mQ2.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس اختصاصی] The family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilariou...</desc>
-    <sub-title lang="fa">تو خانواده‌مان را نابود کردی</sub-title>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <episode-num system="xmltv_ns">3.8.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>مت پکستون</director>
-      <actor>کریس جنر، کورتنی کارداشیان بارکر، کیم کارداشیان، کلوئی کارداشیان، کندال جنر</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>8.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260903004000 -0500" channel="reality">
-    <title lang="fa">تومارولند </title>
-    <title lang="en">Tomorrowland: Winter </title>
-    <icon src="https://image.tmdb.org/t/p/w1280/8OQdoOKES4bEYuNSpkUA4vvWLj1.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/r2UBNamyr5zYAGqzX8KzNlVsPjv.jpg" width="500" height="750"/>
-    <desc lang="fa">[زبان اصلی] اجرای زنده Martin Garrix, David Guetta, Hardwell, Armin van Buuren, Anyma, Alok وگاس روی استیج اصلی تومارولند ۲۰۲۶، شبی پرانرژی و هیجان‌انگیز برای طرفداران موسیقی الکترونیک و تجربه‌ای فراموش‌نشدنی</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Tomorrowland Festival</director>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">کره جنوبی</country>
-    <category lang="fa">موزیکال</category>
-    <category lang="fa">رئالیتی شو</category>
-    <star-rating system="IMDB">
-      <value>10.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902214500 -0500" stop="20260902223000 -0500" channel="series">
-    <title lang="fa">۹۱۱</title>
-    <title lang="en">9-1-1</title>
-    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-53722.20260901-002717.jpg" width="780" height="439"/>
-    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-52767.20260826-101409.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] داستان نیروهای موقعیت‌های ویژه که سریعاً و به‌عنوان اولین واحد به موقعیت اعزام می‌شوند تا با بدترین و وخیم‌ترین وضعیت‌ها دست و پنجه نرم کنند.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <date>2018</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>7.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260902234100 -0500" channel="series">
-    <title lang="fa">فلش</title>
-    <title lang="en">The Flash</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/7k9xmm2rxFJ2rsvhWozQQz874NB.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w300/uDnx0j18nFM4JFLMviF3GK1biTF.jpg" width="500" height="750"/>
-    <desc lang="fa">[زیرنویس] پس از اصابت صاعقه و بیدار شدن از کمای نه‌ماهه، بری آلن قدرتی خارق‌العاده برای سرعتی فراانسانی به دست می‌آورد و با کمک تیم S.T.A.R. Labs در نقش فلش، برای محافظت از شهرش می‌جنگد.</desc>
-    <sub-title lang="fa">خط پایان</sub-title>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>Geoff Johns, Greg Berlanti, Andrew Kreisberg</director>
-      <actor>Grant Gustin</actor>
-      <actor>Candice Patton</actor>
-      <actor>Danielle Panabaker</actor>
-      <actor>Danielle Nicolet</actor>
-      <actor>Kayla Compton</actor>
-    </credits>
-    <date>2016</date>
-    <country lang="fa">آمریکا</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">ماجراجویی</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902223000 -0500" stop="20260902233000 -0500" channel="travel">
-    <title lang="fa">Documentary</title>
-    <title lang="en">About the Persian language</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=QCOdjzr04xM</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <date>2021</date>
-  </programme>
-  <programme start="20260902230000 -0500" stop="20260903000000 -0500" channel="travel">
-    <title lang="fa">VLOG</title>
-    <title lang="en">THIS IRAN City Has it ALL!</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=nXowYkO7NTQ</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <date>2024</date>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260903003000 -0500" channel="travel">
-    <title lang="fa">VLOG</title>
-    <title lang="en">Traditional Isfahan | Things to do &amp; Tips</title>
-    <desc lang="fa">[زبان اصلی] https://www.youtube.com/watch?v=zzAGTSLnVtc&amp;list=PLZJQF1Jx9nxqB8vrH88dzbIe9ESoqanT5&amp;index=3</desc>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <date>2017</date>
-  </programme>
-  <programme start="20260902203000 -0500" stop="20260902214700 -0500" channel="turkey">
-    <title lang="fa">بی سرپرست ها</title>
-    <title lang="en">6 of Us</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/gTPfMUXFIgG6HZeR5hif2fvGzOv.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w1280/gTPfMUXFIgG6HZeR5hif2fvGzOv.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] داستان شش خواهر و برادر است که پس از مرگ ناگهانی والدینشان برای بقا و حفظ کنار هم ماندن می‌جنگند. ریشه این فاجعه به عشق ممنوعه پدر و مادرشان در ماردین برمی‌گردد؛ عشقی که با انتقام ویران شد و آن‌ها را به دل استانبول و خطرهایش کشاند.</desc>
-    <sub-title lang="fa">قسمت دهم</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Cem Karcı</director>
-      <actor>Hazal Subaşı</actor>
-      <actor>Kaan Mirac Sezen</actor>
-      <actor>Doğa Bayram</actor>
-      <actor>Ece Bağcı</actor>
-      <actor>Züleyha Yıldız</actor>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.0/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902220000 -0500" stop="20260902230500 -0500" channel="turkey">
-    <title lang="fa">گُل‌جمال</title>
-    <title lang="en">Gülcemal</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/uViff0bzXy95HK1fvi36UogLTNx.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w1280/uViff0bzXy95HK1fvi36UogLTNx.jpg" width="500" height="750"/>
-    <desc lang="fa">[زبان اصلی] داستان عشق و نفرت میان گولجمالِ زخمی و تاریک، که مادرش او را رها کرده، و دواِ زیباست؛ عشقی پرشور که میان آتش، فداکاری و انتقام شکل می‌گیرد. آیا عشق بر نفرت سال‌هاه غلبه می‌کند؟</desc>
-    <sub-title lang="fa">قسمت دهم</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <rating>
-      <value>+14</value>
-    </rating>
-    <credits>
-      <director>Yusuf Pirhasan</director>
-      <actor>Murat Ünalmış</actor>
-      <actor>Melis Sezen</actor>
-      <actor>Ayda Aksel</actor>
-      <actor>Edip Tepeli</actor>
-      <actor>Nilay Erdönmez</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20260902233000 -0500" stop="20260903000600 -0500" channel="turkey">
-    <title lang="fa">نابغه</title>
-    <title lang="en">The Good &amp; The Bad</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/kt7JCtDy5bfCW0z8zxMF7lHeUG3.jpg" width="780" height="439"/>
-    <icon src="https://image.tmdb.org/t/p/w1280/kt7JCtDy5bfCW0z8zxMF7lHeUG3.jpg" width="500" height="750"/>
-    <desc lang="fa">[دوبله] رجب پس از مرگ مادربزرگش در غم و افسردگی فرو می‌رود و هیچ‌کس نمی‌تواند کمکش کند. زینب که دنبال خانه است، مدتی با او هم‌خانه می‌شود. با وجود دلخوری‌های اول، کم‌کم به هم نزدیک می‌شوند، اما اندوه رجب تا تجربه‌ای تازه زندگی‌اش را دگرگون کند، باقی می‌ماند.</desc>
-    <sub-title lang="fa">قسمت ۳۱</sub-title>
-    <episode-num system="onscreen">S01E42</episode-num>
-    <episode-num system="xmltv_ns">0.41.</episode-num>
-    <rating>
-      <value>+17</value>
-    </rating>
-    <credits>
-      <director>Damla Serim</director>
-      <actor>Aras Bulut İynemli</actor>
-      <actor>Uğur Polat</actor>
-      <actor>Taner Ölmez</actor>
-      <actor>Onur Saylak</actor>
-      <actor>Melis Sezen</actor>
-    </credits>
-    <date>2024</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">رمانتیک</category>
-    <category lang="fa">جنایی</category>
-    <star-rating system="IMDB">
-      <value>7.7/10</value>
-    </star-rating>
-  </programme>
   <programme start="20260903203000 -0500" stop="20260903205000 -0500" channel="China">
     <title lang="fa">مارپیچ</title>
     <title lang="en">The Spirealm</title>
@@ -14893,6 +13070,1160 @@
     <category lang="fa">ماجراجویی</category>
     <star-rating system="IMDB">
       <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911020000 -0500" stop="20260911033500 -0500" channel="cinema">
+    <title lang="fa">پرستار شب</title>
+    <title lang="en">Night Nurse</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] با تماس‌های کلاهبرداری و آزاردهنده، آرامش یک مجتمع بازنشستگی به هم می‌ریزد و یک پرستار خیال‌پرداز به بیمار مرموزش دل می‌بندد و درگیر ماجرایی پرتنش می‌شود.</desc>
+    <rating>
+      <value>+15</value>
+    </rating>
+    <credits>
+      <director>جورجیا برنشتاین</director>
+      <actor>جمره پاکسوی، بروس مک‌کنزی، الینور هندریکس، کالین رز ترندی، میمی راجرز</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>5.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911041500 -0500" stop="20260911054600 -0500" channel="cinema">
+    <title lang="fa">رویارویی با ال چاپو</title>
+    <title lang="en">Facing El Chapo</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/alpf5v4UqSFawPmG9RX03Or4BDk.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] دو افسر مکزیکی باید پس از درگیری با رئیس بی‌رحم یک کارتل، آخرین ساعات شیفتشان را زنده بمانند.</desc>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>چاوا کارتاس</director>
+      <actor>آلفونسو هررا، نوه هرناندز، هکتور کوتسیفاکیس، خوان پابلو کروز گارسیا، پائولا فرناندز</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">مکزیک</country>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>6.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911063000 -0500" stop="20260911083700 -0500" channel="cinema">
+    <title lang="fa">جو پیل هو: ظهور خشم</title>
+    <title lang="en">Jo Pil-ho: The Dawning Rage</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/57rzB3e08jiNexS4tq1K5efdLe.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/k4QPUYRupu7Jv8ZWS9hiLw5OuhB.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] یک پلیس فاسد که از دست مأمور سرسخت بازرسی داخلی فرار می‌کند، ناچار با یک نوجوان سرکش همراه می‌شود تا پیش از دیر شدن، توطئه‌ای خطرناک را افشا کند.</desc>
+    <rating>
+      <value>+16</value>
+    </rating>
+    <credits>
+      <director>لی جونگ بئوم</director>
+      <actor>لی سون کیون، جئون سو نی، پارک هه جون، لی یو یونگ، پارک بیونگ اون</actor>
+    </credits>
+    <date>2019</date>
+    <country lang="fa">کره جنوبی</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911004500 -0500" stop="20260911011500 -0500" channel="docs">
+    <title lang="fa">هیولاهای غول‌پیکر</title>
+    <title lang="en">Big Beasts</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/8oDRVpKqd2Bwl6sipBhAzvX34xR.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/66CZm1hKApeFAqAd3CtK0uodetF.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] از قطب‌های یخ‌زده تا جنگل‌های بارانی استوایی، با شگفت‌انگیزترین غول‌های طبیعت آشنا می‌شویم؛ موجوداتی که نشان می‌دهند بزرگ بودن، دردسرهای بزرگی هم دارد.</desc>
+    <sub-title lang="fa">اسب آبی</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+    <credits>
+      <actor>Tom Hiddleston</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <star-rating system="IMDB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911020000 -0500" stop="20260911033000 -0500" channel="docs">
+    <title lang="fa">یادداشت‌هایی درباره نابینایی</title>
+    <title lang="en">Notes on Blindness</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dZcM6mF1v9fyEg8zmpyH1g10nPU.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/y4vc2bbd3VJDcld7iUg5v0kYU3q.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] پس از نابینایی در ۱۹۸۳، جان هال با ضبط یادداشت‌های صوتی، سفری عاطفی به دلِ فقدان، تولد دوباره و امید را آغاز می‌کند؛ روایتی تکان‌دهنده و نوآورانه از جهان درونی نابینایی.</desc>
+    <rating>
+      <value>+16</value>
+    </rating>
+    <credits>
+      <director>James Spinney, Pete Middleton</director>
+      <actor>John M. Hull</actor>
+      <actor>Marilyn Hull</actor>
+      <actor>Dan Renton Skinner</actor>
+      <actor>Simone Kirby</actor>
+      <actor>Eileen Davies</actor>
+    </credits>
+    <date>2016</date>
+    <country lang="fa">بریتانیا</country>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">مستند</category>
+    <star-rating system="IMDB">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911043000 -0500" stop="20260911051200 -0500" channel="docs">
+    <title lang="fa">ناشناخته‌ها</title>
+    <title lang="en">The UnXplained</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ythTNCIk4jUegUol8nfiXtkDJrG.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/k4jKrJ03pJPyDJgHGQU6au8gpRL.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] به دنیای رازهای شگفت‌انگیز، عجیب و توضیح‌ناپذیر جهان سر بزنید؛ هر قسمت با روایت دانشمندان، تاریخ‌دانان و شاهدان، می‌کوشد نشان دهد چگونه چیزهای به‌ظاهر ناممکن می‌توانند رخ دهند.</desc>
+    <sub-title lang="fa">رازهای جنگ داخلی</sub-title>
+    <episode-num system="onscreen">S07E11</episode-num>
+    <episode-num system="xmltv_ns">6.10.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">مستند</category>
+    <star-rating system="IMDB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911060000 -0500" stop="20260911070000 -0500" channel="docs">
+    <title lang="fa">سزار میلان: انسان بهتر، سگ بهتر</title>
+    <title lang="en">Cesar Millan: Better Human, Better Dog</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/7jY0OJGBlbAXVfiYi4ojvLzxBp3.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/zGHqW2BIkLLxYW7oAq3t2HgBLqt.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] سزار میلان سراغ سخت‌ترین پرونده‌ها می‌رود و با سگ‌هایی روبه‌رو می‌شود که رفتارهای تازه و دردسرسازشان، از عشقِ ناآگاهانه‌ی صاحبانشان بدتر شده است.</desc>
+    <sub-title lang="fa">بازگشت به آینده با چمدان</sub-title>
+    <episode-num system="onscreen">S03E12</episode-num>
+    <episode-num system="xmltv_ns">2.11.</episode-num>
+    <rating>
+      <value>G</value>
+    </rating>
+    <credits>
+      <actor>Cesar Millan</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">رئالیتی شو</category>
+    <star-rating system="IMDB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911073000 -0500" stop="20260911081400 -0500" channel="docs">
+    <title lang="fa">بایلن با صدای بلند</title>
+    <title lang="en">Baylen Out Loud</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/vGjgCOv9Ac2UvohcqfcqFJ8TKT3.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/aAMITid8hFFytKmdeh3eSNbCJDA.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] داستان بایلن دوپری، زن جوانی با سندرم تورت، و مسیر پرچالش اما پر از شوخ‌طبعی اوست؛ با وجود سختی‌های روزمره، او، خانواده‌اش و نامزدش با عشق و خنده آشوب زندگی‌شان را می‌پذیرند.</desc>
+    <sub-title lang="fa">همه‌مان توره داریم</sub-title>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <date>2025</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">رئالیتی شو</category>
+    <star-rating system="IMDB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911084500 -0500" stop="20260911091500 -0500" channel="docs">
+    <title lang="fa">هیولاهای غول‌پیکر</title>
+    <title lang="en">Big Beasts</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/8oDRVpKqd2Bwl6sipBhAzvX34xR.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/66CZm1hKApeFAqAd3CtK0uodetF.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] از قطب‌های یخ‌زده تا جنگل‌های بارانی استوایی، با شگفت‌انگیزترین غول‌های طبیعت آشنا می‌شویم؛ موجوداتی که نشان می‌دهند بزرگ بودن، دردسرهای بزرگی هم دارد.</desc>
+    <sub-title lang="fa">اسب آبی</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+    <credits>
+      <actor>Tom Hiddleston</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <star-rating system="IMDB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911084500 -0500" stop="20260911101500 -0500" channel="docs">
+    <title lang="fa">یادداشت‌هایی درباره نابینایی</title>
+    <title lang="en">Notes on Blindness</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dZcM6mF1v9fyEg8zmpyH1g10nPU.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/y4vc2bbd3VJDcld7iUg5v0kYU3q.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] پس از نابینایی در ۱۹۸۳، جان هال با ضبط یادداشت‌های صوتی، سفری عاطفی به دلِ فقدان، تولد دوباره و امید را آغاز می‌کند؛ روایتی تکان‌دهنده و نوآورانه از جهان درونی نابینایی.</desc>
+    <rating>
+      <value>+16</value>
+    </rating>
+    <credits>
+      <director>James Spinney, Pete Middleton</director>
+      <actor>John M. Hull</actor>
+      <actor>Marilyn Hull</actor>
+      <actor>Dan Renton Skinner</actor>
+      <actor>Simone Kirby</actor>
+      <actor>Eileen Davies</actor>
+    </credits>
+    <date>2016</date>
+    <country lang="fa">بریتانیا</country>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">مستند</category>
+    <star-rating system="IMDB">
+      <value>7.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911001500 -0500" stop="20260911010500 -0500" channel="family">
+    <title lang="fa">ریچر</title>
+    <title lang="en">Reacher</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-37646.20260522-231510.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53848.20260831-172321.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] جک ریچر به جرم قتل دستگیر شد و اکنون پلیس به کمک او نیاز دارد. بر اساس کتاب های لی چایلد.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Nick Santora</director>
+      <actor>Alan RitchsonMaria StenMalcolm Goodwin</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911013000 -0500" stop="20260911022000 -0500" channel="family">
+    <title lang="fa">سقوط</title>
+    <title lang="en">Fallout</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53577.20260830-091502.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] در یک آینده پس از آخرالزمانی در لس‌آنجلس که به وسیله نابودی هسته‌ای به وجود آمده است، شهروندان باید در سکونتگاه‌های زیرزمینی زندگی کنند تا خود را از تابش، موجودات ناشی از تغییرات ژنتیکی و دزدان محافظت کنند...</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Graham Wagner</director>
+      <actor>Ella PurnellAaron MotenWalton Goggins</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">علمی-تخیلی</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911024500 -0500" stop="20260911034500 -0500" channel="family">
+    <title lang="fa">منطقه متروک</title>
+    <title lang="en">Black Spot</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51445.20260827-123715.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51445.20260826-110044.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] ویلفرانشی یک روستای کوچک بدون خط تلفن در حاشیه یک جنگل مرموز می باشد. با اینکه تعداد ساکنین آنجا در حال کاهش می باشد ولی جرم و جنایت در حال افزایش می باشد. افسر پلیسی در این بین سعی می کند با جرائم مبارزه کند ...</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director> Mathieu Missoffe</director>
+      <actor>Suliane BrahimHubert DelattreLaurent Capelluto</actor>
+    </credits>
+    <date>2019</date>
+    <country lang="fa">بلژیک</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">ترسناک</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911040000 -0500" stop="20260911050000 -0500" channel="family">
+    <title lang="fa">خاندان اژدها</title>
+    <title lang="en">House of the Dragon</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51444.20260828-090742.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51444.20260828-111818.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] داستان سریال 200 سال پیش از اتفاقات بازی تاج‌وتخت رخ می‌دهد و پیش‌زمینه خاندان تارگریِن را به تصویر می‌کشد.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Ryan J. Condal</director>
+      <actor>Matt SmithEmma D'ArcyOlivia Cooke</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">ماجراجویی</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911054500 -0500" stop="20260911062800 -0500" channel="family">
+    <title lang="fa">روزی روزگاری</title>
+    <title lang="en">Once Upon a Time</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/2NqACsHQ18uUnUaK7PecqSRLWfn.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/u95scYysMZvBoekSLmMNJjeqXcY.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] در شهری در مِین، همه شخصیت‌های افسانه‌ای میان دو جهان گرفتار نفرینی قدرتمندند. فقط یک نفر حقیقت را می‌داند و تنها او می‌تواند این طلسم را بشکند.</desc>
+    <sub-title lang="fa">تاریکی در حاشیهٔ شهر</sub-title>
+    <episode-num system="onscreen">S04E19</episode-num>
+    <episode-num system="xmltv_ns">3.18.</episode-num>
+    <rating>
+      <value>PG</value>
+    </rating>
+    <credits>
+      <director>Edward Kitsis, Adam Horowitz</director>
+      <actor>Lana Parrilla</actor>
+      <actor>Colin O'Donoghue</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>Gabrielle Anwar</actor>
+      <actor>Dania Ramirez</actor>
+    </credits>
+    <date>2014</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">ماجراجویی</category>
+    <category lang="fa">فانتزی</category>
+    <star-rating system="IMDB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911070000 -0500" stop="20260911075000 -0500" channel="family">
+    <title lang="fa">نیروی اهریمنی او</title>
+    <title lang="en">His Dark Materials</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51441.20260827-122731.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51441.20260828-111457.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] داستان دو کودک ماجراجو به‌نام‌های لایرا بلاکوا و ویل پری را روایت می‌کند که در دو جهان موازی زندگی می‌کنند ، خیلی زود آنها وارد یک ماجراجویی آسرارآمیز می‌شوند و …</desc>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Jack Thorne</director>
+      <actor>Dafne KeenKit ConnorRuth Wilson</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">فانتزی</category>
+    <category lang="fa">خانوادگی</category>
+    <star-rating system="IMDB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911081500 -0500" stop="20260911090500 -0500" channel="family">
+    <title lang="fa">ریچر</title>
+    <title lang="en">Reacher</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-37646.20260522-231510.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53848.20260831-172321.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] جک ریچر به جرم قتل دستگیر شد و اکنون پلیس به کمک او نیاز دارد. بر اساس کتاب های لی چایلد.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Nick Santora</director>
+      <actor>Alan RitchsonMaria StenMalcolm Goodwin</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911093000 -0500" stop="20260911102000 -0500" channel="family">
+    <title lang="fa">سقوط</title>
+    <title lang="en">Fallout</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53577.20260830-091502.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] در یک آینده پس از آخرالزمانی در لس‌آنجلس که به وسیله نابودی هسته‌ای به وجود آمده است، شهروندان باید در سکونتگاه‌های زیرزمینی زندگی کنند تا خود را از تابش، موجودات ناشی از تغییرات ژنتیکی و دزدان محافظت کنند...</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Graham Wagner</director>
+      <actor>Ella PurnellAaron MotenWalton Goggins</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">علمی-تخیلی</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911104500 -0500" stop="20260911114500 -0500" channel="family">
+    <title lang="fa">منطقه متروک</title>
+    <title lang="en">Black Spot</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51445.20260827-123715.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51445.20260826-110044.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] ویلفرانشی یک روستای کوچک بدون خط تلفن در حاشیه یک جنگل مرموز می باشد. با اینکه تعداد ساکنین آنجا در حال کاهش می باشد ولی جرم و جنایت در حال افزایش می باشد. افسر پلیسی در این بین سعی می کند با جرائم مبارزه کند ...</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director> Mathieu Missoffe</director>
+      <actor>Suliane BrahimHubert DelattreLaurent Capelluto</actor>
+    </credits>
+    <date>2019</date>
+    <country lang="fa">بلژیک</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">ترسناک</category>
+    <category lang="fa">جنایی</category>
+    <star-rating system="IMDB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911120000 -0500" stop="20260911130000 -0500" channel="family">
+    <title lang="fa">خاندان اژدها</title>
+    <title lang="en">House of the Dragon</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-51444.20260828-090742.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-51444.20260828-111818.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] داستان سریال 200 سال پیش از اتفاقات بازی تاج‌وتخت رخ می‌دهد و پیش‌زمینه خاندان تارگریِن را به تصویر می‌کشد.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Ryan J. Condal</director>
+      <actor>Matt SmithEmma D'ArcyOlivia Cooke</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">ماجراجویی</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911001500 -0500" stop="20260911005900 -0500" channel="medical">
+    <title lang="fa">پیوند</title>
+    <title lang="en">Transplant</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ajSETcBuftCMeloOxqHMkzdelpa.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] دکتر بشیر حامد، پزشک سوریِ ماهر در طب اورژانس، با خواهر کوچکش امیره به کانادا می‌گریزد تا زندگی تازه‌ای بسازد. او پس از گرفتن رزیدنتی در بخش اورژانس یکی از بهترین بیمارستان‌های تورنتو، برای سازگاری با محیطی تازه می‌جنگد.</desc>
+    <sub-title lang="fa">نوعی بازگشت به خانه</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Joseph Kay</director>
+      <actor>Hamza Haq</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Ayisha Issa</actor>
+      <actor>Jim Watson</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">کانادا</country>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911013000 -0500" stop="20260911020200 -0500" channel="medical">
+    <title lang="fa">درمان آبی</title>
+    <title lang="en">Blue Therapy</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/mY1XhTMKEbl8LhZrQpa3zoFiMcw.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] هفت زوج از منطقه امن خود بیرون می‌آیند و روی کاناپه درمانگر می‌نشینند تا در این مجموعه واقع‌نما مشکلات رابطه‌شان را حل کنند.</desc>
+    <sub-title lang="fa">قسمت ۵</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Andy Amadi</director>
+      <actor>Karen Doherty</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">رئالیتی شو</category>
+    <star-rating system="IMDB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911023000 -0500" stop="20260911031500 -0500" channel="medical">
+    <title lang="fa">ای‌اند‌ای پس از تاریکی</title>
+    <title lang="en">A&amp;E After Dark</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/cid-104013.20260813-012350.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/jDZxjoruW3X2h8vfF3DhH0ZrEPN.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] پشت‌صحنهٔ بیمارستان هال رویال اینفرمری و چالش‌های شبانهٔ کارکنان NHS در بخش اورژانس را نشان می‌دهد.</desc>
+    <sub-title lang="fa">قسمت ۴</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <date>2022</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">پزشکی</category>
+    <star-rating system="IMDB">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911034500 -0500" stop="20260911042700 -0500" channel="medical">
+    <title lang="fa">تیم پزشکی شیکاگو</title>
+    <title lang="en">Chicago Med</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/9eym662FRJJb9wdgCiDKPDciZzf.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] سفری پرتنش و احساسی در دل شلوغی‌های روزمره پرهیاهوترین بیمارستان شهر؛ جایی که تیمی شجاع از پزشکان با پرونده‌های تازه و الهام‌گرفته از رویدادهای روز، در آشوب نفس‌گیر اورژانس، بیمارستان را سرپا نگه می‌دارند و روابطی پرحرارت می‌سازند.</desc>
+    <sub-title lang="fa">به‌خاطر یک میخ</sub-title>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Dick Wolf, Matt Olmstead</director>
+      <actor>Steven Weber</actor>
+      <actor>Jessy Schram</actor>
+      <actor>Luke Mitchell</actor>
+      <actor>Sarah Ramos</actor>
+      <actor>Darren Barnet</actor>
+    </credits>
+    <date>2020</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911050000 -0500" stop="20260911054500 -0500" channel="medical">
+    <title lang="fa">کد سیاه</title>
+    <title lang="en">Code Black</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/AekZz93QCISOYFELhxyRCSzcAit.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] درامی پزشکی الهام‌گرفته از مستندی تحسین‌شده که در شلوغ‌ترین و بدنام‌ترین اورژانس کشور می‌گذرد؛ جایی که کارکنان استثنایی برای حفظ اصولشان و نجات بیمارانی که بیش از همه به آن‌ها نیاز دارند، با سیستمی فرسوده می‌جنگند.</desc>
+    <sub-title lang="fa">تجارتِ نجاتِ جان‌ها</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Michael Seitzman</director>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Benjamin Hollingsworth</actor>
+      <actor>Harry M. Ford</actor>
+      <actor>William Allen Young</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911061500 -0500" stop="20260911065900 -0500" channel="medical">
+    <title lang="fa">پیوند</title>
+    <title lang="en">Transplant</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ajSETcBuftCMeloOxqHMkzdelpa.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] دکتر بشیر حامد، پزشک سوریِ ماهر در طب اورژانس، با خواهر کوچکش امیره به کانادا می‌گریزد تا زندگی تازه‌ای بسازد. او پس از گرفتن رزیدنتی در بخش اورژانس یکی از بهترین بیمارستان‌های تورنتو، برای سازگاری با محیطی تازه می‌جنگد.</desc>
+    <sub-title lang="fa">نوعی بازگشت به خانه</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Joseph Kay</director>
+      <actor>Hamza Haq</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Ayisha Issa</actor>
+      <actor>Jim Watson</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">کانادا</country>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911073000 -0500" stop="20260911080200 -0500" channel="medical">
+    <title lang="fa">درمان آبی</title>
+    <title lang="en">Blue Therapy</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/mY1XhTMKEbl8LhZrQpa3zoFiMcw.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] هفت زوج از منطقه امن خود بیرون می‌آیند و روی کاناپه درمانگر می‌نشینند تا در این مجموعه واقع‌نما مشکلات رابطه‌شان را حل کنند.</desc>
+    <sub-title lang="fa">قسمت ۵</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Andy Amadi</director>
+      <actor>Karen Doherty</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">رئالیتی شو</category>
+    <star-rating system="IMDB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911083000 -0500" stop="20260911091500 -0500" channel="medical">
+    <title lang="fa">ای‌اند‌ای پس از تاریکی</title>
+    <title lang="en">A&amp;E After Dark</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/cid-104013.20260813-012350.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/jDZxjoruW3X2h8vfF3DhH0ZrEPN.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] پشت‌صحنهٔ بیمارستان هال رویال اینفرمری و چالش‌های شبانهٔ کارکنان NHS در بخش اورژانس را نشان می‌دهد.</desc>
+    <sub-title lang="fa">قسمت ۴</sub-title>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <date>2022</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">پزشکی</category>
+    <star-rating system="IMDB">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911094500 -0500" stop="20260911102700 -0500" channel="medical">
+    <title lang="fa">تیم پزشکی شیکاگو</title>
+    <title lang="en">Chicago Med</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/cUh0d1ev6cEQ8KxCe3YQYa8AR50.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/9eym662FRJJb9wdgCiDKPDciZzf.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] سفری پرتنش و احساسی در دل شلوغی‌های روزمره پرهیاهوترین بیمارستان شهر؛ جایی که تیمی شجاع از پزشکان با پرونده‌های تازه و الهام‌گرفته از رویدادهای روز، در آشوب نفس‌گیر اورژانس، بیمارستان را سرپا نگه می‌دارند و روابطی پرحرارت می‌سازند.</desc>
+    <sub-title lang="fa">به‌خاطر یک میخ</sub-title>
+    <episode-num system="onscreen">S06E09</episode-num>
+    <episode-num system="xmltv_ns">5.8.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Dick Wolf, Matt Olmstead</director>
+      <actor>Steven Weber</actor>
+      <actor>Jessy Schram</actor>
+      <actor>Luke Mitchell</actor>
+      <actor>Sarah Ramos</actor>
+      <actor>Darren Barnet</actor>
+    </credits>
+    <date>2020</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911110000 -0500" stop="20260911114500 -0500" channel="medical">
+    <title lang="fa">کد سیاه</title>
+    <title lang="en">Code Black</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/AekZz93QCISOYFELhxyRCSzcAit.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] درامی پزشکی الهام‌گرفته از مستندی تحسین‌شده که در شلوغ‌ترین و بدنام‌ترین اورژانس کشور می‌گذرد؛ جایی که کارکنان استثنایی برای حفظ اصولشان و نجات بیمارانی که بیش از همه به آن‌ها نیاز دارند، با سیستمی فرسوده می‌جنگند.</desc>
+    <sub-title lang="fa">تجارتِ نجاتِ جان‌ها</sub-title>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <episode-num system="xmltv_ns">2.12.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Michael Seitzman</director>
+      <actor>Marcia Gay Harden</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Benjamin Hollingsworth</actor>
+      <actor>Harry M. Ford</actor>
+      <actor>William Allen Young</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911121500 -0500" stop="20260911125900 -0500" channel="medical">
+    <title lang="fa">پیوند</title>
+    <title lang="en">Transplant</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/ajSETcBuftCMeloOxqHMkzdelpa.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] دکتر بشیر حامد، پزشک سوریِ ماهر در طب اورژانس، با خواهر کوچکش امیره به کانادا می‌گریزد تا زندگی تازه‌ای بسازد. او پس از گرفتن رزیدنتی در بخش اورژانس یکی از بهترین بیمارستان‌های تورنتو، برای سازگاری با محیطی تازه می‌جنگد.</desc>
+    <sub-title lang="fa">نوعی بازگشت به خانه</sub-title>
+    <episode-num system="onscreen">S03E11</episode-num>
+    <episode-num system="xmltv_ns">2.10.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Joseph Kay</director>
+      <actor>Hamza Haq</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Ayisha Issa</actor>
+      <actor>Jim Watson</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">کانادا</country>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911133000 -0500" stop="20260911140200 -0500" channel="medical">
+    <title lang="fa">درمان آبی</title>
+    <title lang="en">Blue Therapy</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/mY1XhTMKEbl8LhZrQpa3zoFiMcw.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس اختصاصی] هفت زوج از منطقه امن خود بیرون می‌آیند و روی کاناپه درمانگر می‌نشینند تا در این مجموعه واقع‌نما مشکلات رابطه‌شان را حل کنند.</desc>
+    <sub-title lang="fa">قسمت ۵</sub-title>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Andy Amadi</director>
+      <actor>Karen Doherty</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">بریتانیا</country>
+    <category lang="fa">مستند</category>
+    <category lang="fa">رئالیتی شو</category>
+    <star-rating system="IMDB">
+      <value>8.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911021500 -0500" stop="20260911031800 -0500" channel="plus">
+    <title lang="fa">بانوی اول</title>
+    <title lang="en">First Lady</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/2IQ9oQumtwzvAoSnRbaUubomq4w.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/lSuCxIDnSVUQREvSA80eu8eYk54.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] یک تریلر سیاسی درباره تنش خفه‌کننده میان رئیس‌جمهور منتخب و همسرش، وقتی او در آستانه ورود به کاخ سفید، ناگهان درخواست طلاق می‌دهد و بحرانی بی‌سابقه شکل می‌گیرد.</desc>
+    <sub-title lang="fa">قسمت ۴</sub-title>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating>
+      <value>+15</value>
+    </rating>
+    <credits>
+      <actor>Eugene</actor>
+      <actor>Ji Hyun-woo</actor>
+      <actor>Lee Min-young</actor>
+      <actor>Oh Seung-eun</actor>
+      <actor>Kim Ki-bang</actor>
+    </credits>
+    <date>2025</date>
+    <country lang="fa">کره جنوبی</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911034500 -0500" stop="20260911044700 -0500" channel="plus">
+    <title lang="fa">شهر ستاره ای</title>
+    <title lang="en">Star City</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/rhJAGhOvkR8270bdXSSCzQSPY1a.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] فصلی هیجان‌انگیز از دنیای For All Mankind از نگاه شوروی؛ همراه کیهان‌نوردها، مهندسان و مأموران اطلاعاتی پشت پرده آهنین در رقابتی پرخطر برای فتح ماه.</desc>
+    <sub-title lang="fa">خرسِ زنجیری</sub-title>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Ben Nedivi, Matt Wolpert, Ronald D. Moore</director>
+      <actor>Rhys Ifans</actor>
+      <actor>Anna Maxwell Martin</actor>
+      <actor>Agnes O'Casey</actor>
+      <actor>Alice Englert</actor>
+      <actor>Solly McLeod</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">علمی-تخیلی</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911050000 -0500" stop="20260911055600 -0500" channel="plus">
+    <title lang="fa">دود</title>
+    <title lang="en">Smoke</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/89U9ojtEbqcKoL9aHH2XN75b7fz.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/c6xRvQCL07MVNamjfVU2an600q9.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] وقتی یک بازپرس آتش‌سوزی با اکراه با یک کارآگاه پلیس هم‌تیمی می‌شود، رقابتشان برای متوقف کردن دو آتش‌افروز به بازی پیچیده‌ای از رازها و سوءظن‌ها تبدیل می‌شود.</desc>
+    <sub-title lang="fa">قبرهای سفیدکاری‌شده</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Dennis Lehane</director>
+      <actor>Taron Egerton</actor>
+      <actor>Jurnee Smollett-Bell</actor>
+      <actor>Hannah Emily Anderson</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>John Leguizamo</actor>
+    </credits>
+    <date>2025</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">جنایی</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>6.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911061500 -0500" stop="20260911070000 -0500" channel="plus">
+    <title lang="fa">آقای اشتباه</title>
+    <title lang="en">Mr. Wrong</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/56gRM0UZEnbYyMy6ivwbympeVAr.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/gLIgB9hWc14ffEnH7MLV9V2E1OP.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] اوزگور، صاحب ثروتمند رستوران، زندگی بی‌خیال و بی‌اعتقادی به عشق دارد. از سوی دیگر، ازگی از رابطه‌های اشتباه خسته شده و می‌خواهد بالاخره ازدواج کند. اوزگور برای کمک به او، آموزش رابطه می‌دهد و کم‌کم همسایه بودنشان همه‌چیز را پیچیده‌تر می‌کند.</desc>
+    <sub-title lang="fa">قسمت ۱۴</sub-title>
+    <episode-num system="onscreen">S01E37</episode-num>
+    <episode-num system="xmltv_ns">0.36.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Deniz Yorulmazer</director>
+      <actor>Can Yaman</actor>
+      <actor>Özge Gürel</actor>
+      <actor>Gürgen Öz</actor>
+      <actor>Fatma Toptaş</actor>
+      <actor>Sarp Can Köroğlu</actor>
+    </credits>
+    <date>2020</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">کمدی</category>
+    <star-rating system="IMDB">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911073000 -0500" stop="20260911091600 -0500" channel="plus">
+    <title lang="fa">حتی اگر این عشق امشب ناپدید شود</title>
+    <title lang="en">Even If This Love Disappears Tonight</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" width="500" height="750"/>
+    <desc lang="fa">[دوبله] دختری دبیرستانی هر روز بدون خاطره‌ای از دیروز بیدار می‌شود. وقتی با همکلاسی خجالتی‌اش وارد رابطه می‌شود، آیا عشقشان با هر شروع تازه می‌تواند رشد کند؟</desc>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Kim Hye-young</director>
+      <actor>Choo Young-woo</actor>
+      <actor>Shin Sia</actor>
+      <actor>Cho Yu-jung</actor>
+      <actor>Jin Ho-eun</actor>
+      <actor>Cho Han-chul</actor>
+    </credits>
+    <date>2025</date>
+    <country lang="fa">کره جنوبی</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">رمانتیک</category>
+    <star-rating system="IMDB">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911001500 -0500" stop="20260911010000 -0500" channel="series">
+    <title lang="fa">ماموریت ویژه: شیر زن</title>
+    <title lang="en">Lioness</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dHqutjJaKz4x4emwPpUeefzg0Lf.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53782.20260831-154318.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] کروز مانوئلوس، یک تفنگدار جوان خشن اما پرشور، برای پیوستن به تیم عملیات ویژه جهت کمک به سرنگونی یک سازمان تروریستی از درون، استخدام می‌شود. در این میان جو، رئیس گروه عملیات ویژه، وظیفه آموزش، مدیریت و رهبری عوامل مخفی زن را به عهده دارد و…</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <actor>Zoe SaldañaLaysla De OliveiraDave Annable</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911013000 -0500" stop="20260911021200 -0500" channel="series">
+    <title lang="fa">اف‌بی‌آی</title>
+    <title lang="en">FBI</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/3QsE5FrLdDlbT8p5phcmkyuqB1i.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/hHBzILJKXvXybzx6rE8onuiVbmB.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] اداره FBI نیویورک با استفاده از تمامی استعدادها، هوش و تخصص فنی خود، به بررسی پرونده‌های مهم می‌پردازد تا شهر و کشور را در امنیت نگه دارد.</desc>
+    <sub-title lang="fa">مورد اعتماد</sub-title>
+    <episode-num system="onscreen">S07E12</episode-num>
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Dick Wolf, Craig Turk</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">جنایی</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911024500 -0500" stop="20260911034400 -0500" channel="series">
+    <title lang="fa">بادهای شوم</title>
+    <title lang="en">Dark Winds</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-53632.20260831-065556.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53632.20260831-065535.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] داستان دو افسر پلیس به نام های لیفرن و چی در جنوب غربی ناواهو دهه 1970 که وقتی به دنبال سرنخ هایی در یک پرونده قتل دوگانه می گردند، مجبور می شوند اعتقادات معنوی خود را به چالش بکشند.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Graham Roland</director>
+      <actor>Zahn McClarnonKiowa GordonJessica Matten</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">جنایی</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911040000 -0500" stop="20260911045000 -0500" channel="series">
+    <title lang="fa">پولدارک</title>
+    <title lang="en">Poldark</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-48454.20260801-095120.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53145.20260828-111117.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] راس پولدارک تصمیم میگیرد برای اینکه به جرم قاچاق محاکمه نشود، دختر مورد علاقه اش الیزابت را ترک میکند و به ارتش ملحق شود. وقتی 3 سال بعد به خانه بر میگردد متوجه میشود که پدرش مُرده، خانه بزرگ آنها ویران شده، ثروتشان از دست رفته و معشوقه اش به نامزدی پسر عمویش در آمده است.</desc>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Debbie Horsfield</director>
+      <actor>Aidan TurnerEleanor TomlinsonJack Farthing</actor>
+    </credits>
+    <date>2019</date>
+    <country lang="fa">انگلستان</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">تاریخی</category>
+    <category lang="fa">رمانتیک</category>
+    <star-rating system="IMDB">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911054500 -0500" stop="20260911063000 -0500" channel="series">
+    <title lang="fa">۹۱۱</title>
+    <title lang="en">9-1-1</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-52767.20260826-101409.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] داستان نیروهای موقعیت‌های ویژه که سریعاً و به‌عنوان اولین واحد به موقعیت اعزام می‌شوند تا با بدترین و وخیم‌ترین وضعیت‌ها دست و پنجه نرم کنند.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <date>2018</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>7.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911070000 -0500" stop="20260911074100 -0500" channel="series">
+    <title lang="fa">فلش</title>
+    <title lang="en">The Flash</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/7k9xmm2rxFJ2rsvhWozQQz874NB.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/uDnx0j18nFM4JFLMviF3GK1biTF.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] پس از اصابت صاعقه و بیدار شدن از کمای نه‌ماهه، بری آلن قدرتی خارق‌العاده برای سرعتی فراانسانی به دست می‌آورد و با کمک تیم S.T.A.R. Labs در نقش فلش، برای محافظت از شهرش می‌جنگد.</desc>
+    <sub-title lang="fa">خط پایان</sub-title>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Geoff Johns, Greg Berlanti, Andrew Kreisberg</director>
+      <actor>Grant Gustin</actor>
+      <actor>Candice Patton</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Danielle Nicolet</actor>
+      <actor>Kayla Compton</actor>
+    </credits>
+    <date>2016</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">ماجراجویی</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911081500 -0500" stop="20260911090000 -0500" channel="series">
+    <title lang="fa">ماموریت ویژه: شیر زن</title>
+    <title lang="en">Lioness</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/dHqutjJaKz4x4emwPpUeefzg0Lf.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53782.20260831-154318.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] کروز مانوئلوس، یک تفنگدار جوان خشن اما پرشور، برای پیوستن به تیم عملیات ویژه جهت کمک به سرنگونی یک سازمان تروریستی از درون، استخدام می‌شود. در این میان جو، رئیس گروه عملیات ویژه، وظیفه آموزش، مدیریت و رهبری عوامل مخفی زن را به عهده دارد و…</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <actor>Zoe SaldañaLaysla De OliveiraDave Annable</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911093000 -0500" stop="20260911101200 -0500" channel="series">
+    <title lang="fa">اف‌بی‌آی</title>
+    <title lang="en">FBI</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/3QsE5FrLdDlbT8p5phcmkyuqB1i.jpg" width="780" height="439"/>
+    <icon src="https://image.tmdb.org/t/p/w300/hHBzILJKXvXybzx6rE8onuiVbmB.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] اداره FBI نیویورک با استفاده از تمامی استعدادها، هوش و تخصص فنی خود، به بررسی پرونده‌های مهم می‌پردازد تا شهر و کشور را در امنیت نگه دارد.</desc>
+    <sub-title lang="fa">مورد اعتماد</sub-title>
+    <episode-num system="onscreen">S07E12</episode-num>
+    <episode-num system="xmltv_ns">6.11.</episode-num>
+    <rating>
+      <value>+14</value>
+    </rating>
+    <credits>
+      <director>Dick Wolf, Craig Turk</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Jeremy Sisto</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">جنایی</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>7.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911104500 -0500" stop="20260911114400 -0500" channel="series">
+    <title lang="fa">بادهای شوم</title>
+    <title lang="en">Dark Winds</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-53632.20260831-065556.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53632.20260831-065535.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] داستان دو افسر پلیس به نام های لیفرن و چی در جنوب غربی ناواهو دهه 1970 که وقتی به دنبال سرنخ هایی در یک پرونده قتل دوگانه می گردند، مجبور می شوند اعتقادات معنوی خود را به چالش بکشند.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Graham Roland</director>
+      <actor>Zahn McClarnonKiowa GordonJessica Matten</actor>
+    </credits>
+    <date>2022</date>
+    <country lang="fa">آمریکا</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">جنایی</category>
+    <category lang="fa">رازآلود</category>
+    <star-rating system="IMDB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20260911120000 -0500" stop="20260911125000 -0500" channel="series">
+    <title lang="fa">پولدارک</title>
+    <title lang="en">Poldark</title>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/backdrops/seid-48454.20260801-095120.jpg" width="780" height="439"/>
+    <icon src="https://xcastapp.com/apps/data/clients/persiana/assets/posters/seid-53145.20260828-111117.jpg" width="500" height="750"/>
+    <desc lang="fa">[زیرنویس] راس پولدارک تصمیم میگیرد برای اینکه به جرم قاچاق محاکمه نشود، دختر مورد علاقه اش الیزابت را ترک میکند و به ارتش ملحق شود. وقتی 3 سال بعد به خانه بر میگردد متوجه میشود که پدرش مُرده، خانه بزرگ آنها ویران شده، ثروتشان از دست رفته و معشوقه اش به نامزدی پسر عمویش در آمده است.</desc>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <rating>
+      <value>+17</value>
+    </rating>
+    <credits>
+      <director>Debbie Horsfield</director>
+      <actor>Aidan TurnerEleanor TomlinsonJack Farthing</actor>
+    </credits>
+    <date>2019</date>
+    <country lang="fa">انگلستان</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">تاریخی</category>
+    <category lang="fa">رمانتیک</category>
+    <star-rating system="IMDB">
+      <value>8.2/10</value>
     </star-rating>
   </programme>
 </tv>
