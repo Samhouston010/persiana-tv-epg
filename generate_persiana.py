@@ -2,9 +2,9 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime, timedelta
-API='https://www.persianagroup.tv/api/v1'; SITE='https://www.persianagroup.tv/'
+API='https://persianagroup.tv/api/v1'; SITE='https://www.persianagroup.tv/'
 RAW='https://raw.githubusercontent.com/Samhouston010/persiana-tv-epg/main'
-TZ='-0500'; H={'User-Agent':'Mozilla/5.0','Referer':SITE}
+TZ='+0000'; H={'User-Agent':'Mozilla/5.0','Referer':SITE}
 s=requests.Session(); s.headers.update(H)
 def au(u):
     u=str(u or '')

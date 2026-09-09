@@ -14,6 +14,10 @@ HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": "https://www.persianagroup.tv
 # ── Persiana API alternatives ──────────────────────────────────────────────────
 PERSIANA_ALTERNATIVES = [
     "https://www.persianagroup.tv/api/v1",
+    # Bare domain first among fallbacks -- the www cert started mismatching
+    # around 2026-09-05 (SSLCertVerificationError: hostname mismatch), and
+    # this is the one confirmed working around it.
+    "https://persianagroup.tv/api/v1",
     "https://app.persianagroup.tv/api/v1",
     "https://api.persianagroup.tv/v1",
     "https://www.persianagroup.tv/api/v2",
