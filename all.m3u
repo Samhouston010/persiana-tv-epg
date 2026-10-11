@@ -502,7 +502,7 @@ https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PooyaTVPlus.ir@SD",Pooya TV Plus group-title="کانال‌های ایرانی"
-https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RazaviTV.ir@SD",Razavi TV group-title="کانال‌های ایرانی"
 https://ncdn.telewebion.ir/razavi/live/playlist.m3u8
@@ -694,7 +694,7 @@ https://hls.vox1.live/hls/stream.m3u8
 https://avr.host247.net/live/WiseHumanTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YourTimeTV.ir@SD",YourTime TV group-title="کانال‌های ایرانی"
-https://hls.yourtime.live/hls/stream.m3u8
+https://live.yourtime.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="HodHodFarsiTV.ir@SD",HodHod Farsi TV (1080p) group-title="کانال‌های ایرانی"
 https://northtelecom.b-cdn.net/hodhodtv.m3u8
@@ -704,3 +704,7 @@ http://185.9.2.18/chid_926/index.m3u8
 
 #EXTINF:-1 tvg-id="YazdTV.ir@SD",Yazd TV group-title="کانال‌های ایرانی"
 http://89.45.60.82/0.ts
+
+# === Film & Music - iptv-org - 2026-10-11 04:23 UTC ===
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD",iFilm Persian group-title="فیلم و موسیقی"
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
