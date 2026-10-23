@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-# Generated 2026-10-22 22:53 UTC
+# Generated 2026-10-23 02:25 UTC
 
 #EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه 1" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه 1
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
@@ -83,10 +83,6 @@ https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="کرمان" tvg-logo="https://static.telewebion.ir/channelsLogo/ODE1YWIxNjcxYTU1NWM2YmJkYmRkNzE5OGJiOTQ0YmEyNzhjMDBkMGU2N2MwOTlhMGFjYzZhYjc1MjRjM2E5OA/default" group-title="استانی",کرمان
 https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="زاگرس" tvg-logo="https://static.telewebion.ir/channelsLogo/ZDcwNjM3MjMwODE0MzdlNDQ5YTEzNTZjMGE5MzMwNjBkOTcwOTRmNDE3YmZmMmQxNGM2MDI5MjI2MWFlZWM5MA/default" group-title="استانی",زاگرس
-https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="دنا" tvg-logo="https://static.telewebion.ir/channelsLogo/ODZhMTE0Y2FmNzk4MzIxMTVhY2UxNjI0ZGY5MmI3Y2NhMzY3ZDE3ZDA4MjgzYmZhZTU2ODhjYmUyOGQ2ZTUzNw/default" group-title="استانی",دنا
-https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="کیش" tvg-logo="https://static.telewebion.ir/channelsLogo/NWI5MDUzZTJhOTZlOThmOTgzZDQyMmNiYzVlYjhiZGUyOWY3OTg2NDM5YjUwOWVmMDU3OGEwYjVjZDQ0NjU2NQ/default" group-title="استانی",کیش
 https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="گلستان" tvg-logo="https://static.telewebion.ir/channelsLogo/MDFiMjQwMTlkMGM3OGNkZWM2ZmFmODM4MGI1YWYyZWM5N2UxOTkxYjUxMjRlMWYyNzVkNTQyOGVkZWFlMTZkMw/default" group-title="استانی",گلستان
@@ -169,7 +165,5 @@ https://ncdn.telewebion.ir/radiopayam/live/playlist.m3u8
 https://ncdn.telewebion.ir/radiosalamat/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رادیو ترتیل" tvg-logo="https://static.telewebion.ir/channelsLogo/YjAxZWZlYzljYTdkOGUwY2FkMjIzZjUzM2EyODkwMDkwMmQzOGViODAzYTFlYWMyZTlkYjIyNzI3YzZhZGVmNg/default" group-title="تلوبیون",رادیو ترتیل
 https://ncdn.telewebion.ir/radiotartil/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مکران" tvg-logo="https://static.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default" group-title="تلوبیون",مکران
-https://ncdn.telewebion.ir/makran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="کاسپین" tvg-logo="https://static.telewebion.ir/channelsLogo/bfd64daa-7e88-429c-a74c-d17eabda48e3/default" group-title="تلوبیون",کاسپین
 https://ncdn.telewebion.ir/caspian/live/playlist.m3u8
