@@ -480,6 +480,14 @@
     "sepehr_channel_id": null
   },
   {
+    "name": "کارون",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default",
+    "telewebion_slug": "karoon",
+    "sepehr_channel_id": null
+  },
+  {
     "name": "تلوبیون اسپرت 1",
     "tvg_id": "",
     "group": "تلوبیون",
@@ -669,6 +677,22 @@
     "group": "تلوبیون",
     "logo": "https://static.telewebion.ir/channelsLogo/YjAxZWZlYzljYTdkOGUwY2FkMjIzZjUzM2EyODkwMDkwMmQzOGViODAzYTFlYWMyZTlkYjIyNzI3YzZhZGVmNg/default",
     "telewebion_slug": "radiotartil",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "زعفران",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default",
+    "telewebion_slug": "zaferan",
+    "sepehr_channel_id": null
+  },
+  {
+    "name": "نگارستان",
+    "tvg_id": "",
+    "group": "تلوبیون",
+    "logo": "https://static.telewebion.ir/channelsLogo/5f6a1a7c-fae5-4e63-a22c-b7e3e409cba1/default",
+    "telewebion_slug": "negarestan",
     "sepehr_channel_id": null
   },
   {
