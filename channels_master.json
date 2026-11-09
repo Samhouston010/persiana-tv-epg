@@ -24,11 +24,11 @@
     "sepehr_channel_id": null
   },
   {
-    "name": "خبر",
+    "name": "شبکه 4",
     "tvg_id": "",
     "group": "سراسری",
-    "logo": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
-    "telewebion_slug": "irinn",
+    "logo": "https://static.telewebion.ir/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default",
+    "telewebion_slug": "tv4",
     "sepehr_channel_id": null
   },
   {
@@ -40,19 +40,19 @@
     "sepehr_channel_id": null
   },
   {
+    "name": "خبر",
+    "tvg_id": "",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/YjZjYTVlY2I2MGU2ZjNjOTEzZGRlYTFmODE5YTc2OGQ0M2YxMTMzNGQ5NTZiMTFmZDhiYzIzZjVkNWViZjg2Zg/default",
+    "telewebion_slug": "irinn",
+    "sepehr_channel_id": null
+  },
+  {
     "name": "ورزش",
     "tvg_id": "",
     "group": "سراسری",
     "logo": "https://static.telewebion.ir/channelsLogo/592f762d-695f-42bc-912f-ecc98546d6b5/default",
     "telewebion_slug": "varzesh",
-    "sepehr_channel_id": null
-  },
-  {
-    "name": "شبکه 4",
-    "tvg_id": "",
-    "group": "سراسری",
-    "logo": "https://static.telewebion.ir/channelsLogo/MTc1NzNhNjAxNjlhNDA4NzRhZjYzMzNhNjk2OWY2ZWIyY2JjNTEzM2ZjOTk2ZjViNjUwMTg3YjQ1OGJkMzZmOA/default",
-    "telewebion_slug": "tv4",
     "sepehr_channel_id": null
   },
   {
