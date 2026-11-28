@@ -2718,7 +2718,7 @@
   <programme start="20261128163000 +0000" stop="20261128194200 +0000" channel="fight">
     <title lang="fa">لیگ حرفه ای کشتی امریکا </title>
     <title lang="en">لیگ حرفه ای کشتی امریکا </title>
-    <desc lang="fa">[زبان اصلی] لیگ حرفه‌ای کشتی آمریکا مجموعه‌ای ورزشی است که به نمایش درگیری‌های هیجان‌انگیز و رقابت‌های شدید میان کشتی‌گیران حرفه‌ای می‌پردازد. این برنامه از شهرهای مختلف آمریکا پخش می‌شود و تماشاگران را با نمایش‌های طراحی‌شده و مسابقات واقعی کشتی سرگرم می‌کند.</desc>
+    <desc lang="fa">[زبان اصلی] لیگ حرفه‌ای کشتی آمریکا نمایشی است از شدت و هیجان ورزش کشتی در سطح حرفه‌ای، جایی که ورزشکاران برتر آمریکایی در رینگ به مصاف یکدیگر می‌روند. این مسابقات حماسی فن‌های کشتی گریکو-رومی و آزاد را به نمایش می‌گذارد و نشان‌دهنده تلاش و اراده‌ی ورزشکاران جوان برای کسب قهرمانی و درخشش در صحنه ملی است.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -4455,7 +4455,7 @@
   <programme start="20261129003000 +0000" stop="20261129034200 +0000" channel="fight">
     <title lang="fa">لیگ حرفه ای کشتی امریکا </title>
     <title lang="en">لیگ حرفه ای کشتی امریکا </title>
-    <desc lang="fa">[زبان اصلی] لیگ حرفه‌ای کشتی آمریکا مجموعه‌ای ورزشی است که به نمایش درگیری‌های هیجان‌انگیز و رقابت‌های شدید میان کشتی‌گیران حرفه‌ای می‌پردازد. این برنامه از شهرهای مختلف آمریکا پخش می‌شود و تماشاگران را با نمایش‌های طراحی‌شده و مسابقات واقعی کشتی سرگرم می‌کند.</desc>
+    <desc lang="fa">[زبان اصلی] لیگ حرفه‌ای کشتی آمریکا نمایشی است از شدت و هیجان ورزش کشتی در سطح حرفه‌ای، جایی که ورزشکاران برتر آمریکایی در رینگ به مصاف یکدیگر می‌روند. این مسابقات حماسی فن‌های کشتی گریکو-رومی و آزاد را به نمایش می‌گذارد و نشان‌دهنده تلاش و اراده‌ی ورزشکاران جوان برای کسب قهرمانی و درخشش در صحنه ملی است.</desc>
     <rating>
       <value>1.0</value>
     </rating>
@@ -10761,7 +10761,7 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20261202203000 +0000" stop="20261202225400 +0000" channel="turkey">
+  <programme start="20261202203000 +0000" stop="20261202214000 +0000" channel="turkey">
     <title lang="fa">ولیعهد</title>
     <title lang="en">Crown Prince</title>
     <icon src="https://image.tmdb.org/t/p/w1280/jLPGF6vJOfZ45Uh4YhKJe6rwSjI.jpg" width="780" height="439" />
@@ -10788,7 +10788,7 @@
       <value>8.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20261202220000 +0000" stop="20261203001500 +0000" channel="turkey">
+  <programme start="20261202220000 +0000" stop="20261202231500 +0000" channel="turkey">
     <title lang="fa">بهار</title>
     <title lang="en">Bahar</title>
     <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="780" height="439" />
@@ -12161,100 +12161,15 @@
       <value>7.7/10</value>
     </star-rating>
   </programme>
-  <programme start="20261203004500 +0000" stop="20261203024500 +0000" channel="turkey">
-    <title lang="fa">گل های وحشی</title>
-    <title lang="en">Wild heart</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] پسری که از خانواده‌ای ثروتمند ربوده شده، در خیابان بزرگ می‌شود و با کودکان بی‌خانمان پیوندی عمیق می‌سازد. سال‌ها بعد به‌طور غیرمنتظره‌ای به خانواده واقعی‌اش برمی‌گردد و میان دو جهان متفاوت گرفتار می‌شود؛ میان گذشته، هویت تازه و زخم‌های خیانت و شکاف طبقاتی برای جایگاهش می‌جنگد.</desc>
-    <sub-title lang="fa">قسمت ۳۶</sub-title>
-    <episode-num system="onscreen">S01E145</episode-num>
-    <episode-num system="xmltv_ns">0.144.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Çağatay Tosun</director>
-      <actor>Halit Özgür Sarı</actor>
-      <actor>Yurdaer Okur</actor>
-      <actor>Dolunay Soysert</actor>
-      <actor>Bertan Asllani</actor>
-      <actor>Bertan Aslani</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203020000 +0000" stop="20261203043000 +0000" channel="turkey">
-    <title lang="fa">آلپ ارسلان: سلجوقیان بزرگ</title>
-    <title lang="en">Alparslan: The Great Seljuks</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] این اثر به ساختار حکومتی، رویدادهای سیاسی، جنگ‌ها و زندگی سلطان آلپ ارسلان در امپراتوری بزرگ سلجوقی می‌پردازد.</desc>
-    <sub-title lang="fa">قسمت ۲۷</sub-title>
-    <episode-num system="onscreen">S01E96</episode-num>
-    <episode-num system="xmltv_ns">0.95.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Sedat İnci</director>
-      <actor>Barış Arduç</actor>
-      <actor>Fahriye Evcen</actor>
-      <actor>Mehmet Özgür</actor>
-      <actor>Sarp Levendoğlu</actor>
-      <actor>Gizem Karaca</actor>
-    </credits>
-    <date>2021</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>8.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203031500 +0000" stop="20261203040000 +0000" channel="turkey">
-    <title lang="fa">اون فقط 17 سالشه</title>
-    <title lang="en">Torn Apart</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w300/erd75Gon5bXL38kngnH6DCrOUj2.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] آراس، نوجوانی ۱۷ ساله، برای پیدا کردن خواهر یا برادر گمشده‌اش به بدروم می‌آید و با ورود به تقابل با خانواده قدرتمند آکایا، زندگی‌اش درگیر تنش، راز و احساسات عمیق می‌شود.</desc>
-    <sub-title lang="fa">قسمت ۲۵</sub-title>
-    <episode-num system="onscreen">S01E61</episode-num>
-    <episode-num system="xmltv_ns">0.60.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <director>Emre Kabakuşak</director>
-      <actor>Nesrin Cavadzade</actor>
-      <actor>Çağan Efe Ak</actor>
-      <actor>Armağan Oğuz</actor>
-      <actor>Ceren Ayruk</actor>
-      <actor>Dilara Aksüyek</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">اکشن</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203043000 +0000" stop="20261203065400 +0000" channel="turkey">
+  <programme start="20261203203000 +0000" stop="20261203214000 +0000" channel="turkey">
     <title lang="fa">ولیعهد</title>
     <title lang="en">Crown Prince</title>
     <icon src="https://image.tmdb.org/t/p/w1280/jLPGF6vJOfZ45Uh4YhKJe6rwSjI.jpg" width="780" height="439" />
     <icon src="https://image.tmdb.org/t/p/w300/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" width="500" height="750" />
     <desc lang="fa">[دوبله] زلفیکار کارسلی که قدرتش در ترمینال رو به افول است، به‌دنبال وارثی به‌جای پسرش می‌گردد و با تیمور، تعمیرکاری آواره و بدهکار، روبه‌رو می‌شود. این دیدار زندگی همه را زیرورو می‌کند؛ تیمور با هویت زافر وارد می‌شود و ناچار نقش همسر ریحان را هم بازی می‌کند، اما این بازی کم‌کم به عشقی واقعی در دل دروغ‌ها...</desc>
-    <sub-title lang="fa">قسمت ۹</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <sub-title lang="fa">قسمت دهم</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
     <rating>
       <value>+13</value>
     </rating>
@@ -12273,15 +12188,15 @@
       <value>8.6/10</value>
     </star-rating>
   </programme>
-  <programme start="20261203060000 +0000" stop="20261203081500 +0000" channel="turkey">
+  <programme start="20261203220000 +0000" stop="20261203231500 +0000" channel="turkey">
     <title lang="fa">بهار</title>
     <title lang="en">Bahar</title>
     <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="780" height="439" />
     <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="500" height="750" />
     <desc lang="fa">[دوبله] بهار برای همسر و فرزندانش از حرفه پزشکی‌اش گذشت، اما سال‌ها نادیده گرفته شد. وقتی بیماری ناگهانی او را تا مرز مرگ می‌برد، می‌فهمد خانواده‌اش چقدر کم قدرش را می‌دانند. پس از نجات، به زندگی برمی‌گردد، دوباره پزشک می‌شود، با رازهای شوهرش روبه‌رو می‌شود و خودش را از نو پیدا می‌کند.</desc>
     <sub-title lang="fa">قسمت ۳۲</sub-title>
-    <episode-num system="onscreen">S02E41</episode-num>
-    <episode-num system="xmltv_ns">1.40.</episode-num>
+    <episode-num system="onscreen">S02E42</episode-num>
+    <episode-num system="xmltv_ns">1.41.</episode-num>
     <rating>
       <value>+16</value>
     </rating>
@@ -12301,15 +12216,15 @@
       <value>6.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20261203073000 +0000" stop="20261203081500 +0000" channel="turkey">
+  <programme start="20261203233000 +0000" stop="20261204001500 +0000" channel="turkey">
     <title lang="fa">خانواده</title>
     <title lang="en">The Family</title>
     <icon src="https://image.tmdb.org/t/p/w1280/pGNjkVKZ6icRj3WsceB5Nd4i6fI.jpg" width="780" height="439" />
     <icon src="https://image.tmdb.org/t/p/w300/o1FRgsUSD0mqrmwZtCDtGmZbCh3.jpg" width="500" height="750" />
     <desc lang="fa">[دوبله] داستان آسلان، پسر یک خانواده بزرگ و صاحب کلوب شبانه‌ای است؛ مردی زیرک، تاریک و مرموز. با ورود روان‌شناس دوین به زندگی او، همه‌چیز به رابطه‌ای پرتنش و پرهیجان تبدیل می‌شود.</desc>
     <sub-title lang="fa">قسمت سیزدهم</sub-title>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating>
       <value>+7</value>
     </rating>
@@ -12328,91 +12243,6 @@
     <category lang="fa">رمانتیک</category>
     <star-rating system="IMDB">
       <value>7.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203084500 +0000" stop="20261203104500 +0000" channel="turkey">
-    <title lang="fa">گل های وحشی</title>
-    <title lang="en">Wild heart</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] پسری که از خانواده‌ای ثروتمند ربوده شده، در خیابان بزرگ می‌شود و با کودکان بی‌خانمان پیوندی عمیق می‌سازد. سال‌ها بعد به‌طور غیرمنتظره‌ای به خانواده واقعی‌اش برمی‌گردد و میان دو جهان متفاوت گرفتار می‌شود؛ میان گذشته، هویت تازه و زخم‌های خیانت و شکاف طبقاتی برای جایگاهش می‌جنگد.</desc>
-    <sub-title lang="fa">قسمت ۳۶</sub-title>
-    <episode-num system="onscreen">S01E145</episode-num>
-    <episode-num system="xmltv_ns">0.144.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Çağatay Tosun</director>
-      <actor>Halit Özgür Sarı</actor>
-      <actor>Yurdaer Okur</actor>
-      <actor>Dolunay Soysert</actor>
-      <actor>Bertan Asllani</actor>
-      <actor>Bertan Aslani</actor>
-    </credits>
-    <date>2023</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <star-rating system="IMDB">
-      <value>8.8/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203100000 +0000" stop="20261203123000 +0000" channel="turkey">
-    <title lang="fa">آلپ ارسلان: سلجوقیان بزرگ</title>
-    <title lang="en">Alparslan: The Great Seljuks</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] این اثر به ساختار حکومتی، رویدادهای سیاسی، جنگ‌ها و زندگی سلطان آلپ ارسلان در امپراتوری بزرگ سلجوقی می‌پردازد.</desc>
-    <sub-title lang="fa">قسمت ۲۷</sub-title>
-    <episode-num system="onscreen">S01E96</episode-num>
-    <episode-num system="xmltv_ns">0.95.</episode-num>
-    <rating>
-      <value>+13</value>
-    </rating>
-    <credits>
-      <director>Sedat İnci</director>
-      <actor>Barış Arduç</actor>
-      <actor>Fahriye Evcen</actor>
-      <actor>Mehmet Özgür</actor>
-      <actor>Sarp Levendoğlu</actor>
-      <actor>Gizem Karaca</actor>
-    </credits>
-    <date>2021</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">اکشن</category>
-    <category lang="fa">هیجان‌انگیز</category>
-    <star-rating system="IMDB">
-      <value>8.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20261203111500 +0000" stop="20261203120000 +0000" channel="turkey">
-    <title lang="fa">اون فقط 17 سالشه</title>
-    <title lang="en">Torn Apart</title>
-    <icon src="https://image.tmdb.org/t/p/w1280/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg" width="780" height="439" />
-    <icon src="https://image.tmdb.org/t/p/w300/erd75Gon5bXL38kngnH6DCrOUj2.jpg" width="500" height="750" />
-    <desc lang="fa">[دوبله] آراس، نوجوانی ۱۷ ساله، برای پیدا کردن خواهر یا برادر گمشده‌اش به بدروم می‌آید و با ورود به تقابل با خانواده قدرتمند آکایا، زندگی‌اش درگیر تنش، راز و احساسات عمیق می‌شود.</desc>
-    <sub-title lang="fa">قسمت ۲۵</sub-title>
-    <episode-num system="onscreen">S01E61</episode-num>
-    <episode-num system="xmltv_ns">0.60.</episode-num>
-    <rating>
-      <value>+7</value>
-    </rating>
-    <credits>
-      <director>Emre Kabakuşak</director>
-      <actor>Nesrin Cavadzade</actor>
-      <actor>Çağan Efe Ak</actor>
-      <actor>Armağan Oğuz</actor>
-      <actor>Ceren Ayruk</actor>
-      <actor>Dilara Aksüyek</actor>
-    </credits>
-    <date>2026</date>
-    <country lang="fa">ترکیه</country>
-    <category lang="fa">درام</category>
-    <category lang="fa">کمدی</category>
-    <category lang="fa">اکشن</category>
-    <star-rating system="IMDB">
-      <value>7.8/10</value>
     </star-rating>
   </programme>
   <programme start="20261204203000 +0000" stop="20261204211700 +0000" channel="China">
@@ -13669,6 +13499,90 @@
     <category lang="fa">درام</category>
     <category lang="fa">اکشن</category>
     <category lang="fa">ماجراجویی</category>
+    <star-rating system="IMDB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261204203000 +0000" stop="20261204214000 +0000" channel="turkey">
+    <title lang="fa">ولیعهد</title>
+    <title lang="en">Crown Prince</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/jLPGF6vJOfZ45Uh4YhKJe6rwSjI.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] زلفیکار کارسلی که قدرتش در ترمینال رو به افول است، به‌دنبال وارثی به‌جای پسرش می‌گردد و با تیمور، تعمیرکاری آواره و بدهکار، روبه‌رو می‌شود. این دیدار زندگی همه را زیرورو می‌کند؛ تیمور با هویت زافر وارد می‌شود و ناچار نقش همسر ریحان را هم بازی می‌کند، اما این بازی کم‌کم به عشقی واقعی در دل دروغ‌ها...</desc>
+    <sub-title lang="fa">قسمت یازدهم</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Tunahan Kurt</director>
+      <actor>Akin Akinözü</actor>
+      <actor>Serra Arıtürk</actor>
+      <actor>Ercan Kesal</actor>
+      <actor>Erkan Kolçak Köstendil</actor>
+      <actor>Hazal Türesan</actor>
+    </credits>
+    <date>2025</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261204220000 +0000" stop="20261204231500 +0000" channel="turkey">
+    <title lang="fa">بهار</title>
+    <title lang="en">Bahar</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] بهار برای همسر و فرزندانش از حرفه پزشکی‌اش گذشت، اما سال‌ها نادیده گرفته شد. وقتی بیماری ناگهانی او را تا مرز مرگ می‌برد، می‌فهمد خانواده‌اش چقدر کم قدرش را می‌دانند. پس از نجات، به زندگی برمی‌گردد، دوباره پزشک می‌شود، با رازهای شوهرش روبه‌رو می‌شود و خودش را از نو پیدا می‌کند.</desc>
+    <sub-title lang="fa">قسمت ۳۲</sub-title>
+    <episode-num system="onscreen">S02E43</episode-num>
+    <episode-num system="xmltv_ns">1.42.</episode-num>
+    <rating>
+      <value>+16</value>
+    </rating>
+    <credits>
+      <director>Neslihan Yeşilyurt</director>
+      <actor>Demet Evgar</actor>
+      <actor>Buğra Gülsoy</actor>
+      <actor>Elit Andaç Çam</actor>
+      <actor>Ecem Özkaya</actor>
+      <actor>Demirhan Demircioğlu</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">خانوادگی</category>
+    <star-rating system="IMDB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261204233000 +0000" stop="20261205001500 +0000" channel="turkey">
+    <title lang="fa">خانواده</title>
+    <title lang="en">The Family</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/pGNjkVKZ6icRj3WsceB5Nd4i6fI.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/o1FRgsUSD0mqrmwZtCDtGmZbCh3.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] داستان آسلان، پسر یک خانواده بزرگ و صاحب کلوب شبانه‌ای است؛ مردی زیرک، تاریک و مرموز. با ورود روان‌شناس دوین به زندگی او، همه‌چیز به رابطه‌ای پرتنش و پرهیجان تبدیل می‌شود.</desc>
+    <sub-title lang="fa">قسمت سیزدهم</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+    <credits>
+      <director>Hakan Bonomo</director>
+      <actor>Kıvanç Tatlıtuğ</actor>
+      <actor>Serenay Sarıkaya</actor>
+      <actor>Nur Sürer</actor>
+      <actor>Nejat İşler</actor>
+      <actor>Canan Ergüder</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">رمانتیک</category>
     <star-rating system="IMDB">
       <value>7.7/10</value>
     </star-rating>
@@ -17355,6 +17269,260 @@
     <category lang="fa">ماجراجویی</category>
     <star-rating system="IMDB">
       <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205004500 +0000" stop="20261205013000 +0000" channel="turkey">
+    <title lang="fa">گل های وحشی</title>
+    <title lang="en">Wild heart</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] پسری که از خانواده‌ای ثروتمند ربوده شده، در خیابان بزرگ می‌شود و با کودکان بی‌خانمان پیوندی عمیق می‌سازد. سال‌ها بعد به‌طور غیرمنتظره‌ای به خانواده واقعی‌اش برمی‌گردد و میان دو جهان متفاوت گرفتار می‌شود؛ میان گذشته، هویت تازه و زخم‌های خیانت و شکاف طبقاتی برای جایگاهش می‌جنگد.</desc>
+    <sub-title lang="fa">قسمت ۳۶</sub-title>
+    <episode-num system="onscreen">S01E147</episode-num>
+    <episode-num system="xmltv_ns">0.146.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Çağatay Tosun</director>
+      <actor>Halit Özgür Sarı</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Dolunay Soysert</actor>
+      <actor>Bertan Asllani</actor>
+      <actor>Bertan Aslani</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205020000 +0000" stop="20261205024500 +0000" channel="turkey">
+    <title lang="fa">آلپ ارسلان: سلجوقیان بزرگ</title>
+    <title lang="en">Alparslan: The Great Seljuks</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] این اثر به ساختار حکومتی، رویدادهای سیاسی، جنگ‌ها و زندگی سلطان آلپ ارسلان در امپراتوری بزرگ سلجوقی می‌پردازد.</desc>
+    <sub-title lang="fa">قسمت ۲۷</sub-title>
+    <episode-num system="onscreen">S01E98</episode-num>
+    <episode-num system="xmltv_ns">0.97.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Sedat İnci</director>
+      <actor>Barış Arduç</actor>
+      <actor>Fahriye Evcen</actor>
+      <actor>Mehmet Özgür</actor>
+      <actor>Sarp Levendoğlu</actor>
+      <actor>Gizem Karaca</actor>
+    </credits>
+    <date>2021</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205031500 +0000" stop="20261205040000 +0000" channel="turkey">
+    <title lang="fa">اون فقط 17 سالشه</title>
+    <title lang="en">Torn Apart</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/erd75Gon5bXL38kngnH6DCrOUj2.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] آراس، نوجوانی ۱۷ ساله، برای پیدا کردن خواهر یا برادر گمشده‌اش به بدروم می‌آید و با ورود به تقابل با خانواده قدرتمند آکایا، زندگی‌اش درگیر تنش، راز و احساسات عمیق می‌شود.</desc>
+    <sub-title lang="fa">قسمت ۲۵</sub-title>
+    <episode-num system="onscreen">S01E63</episode-num>
+    <episode-num system="xmltv_ns">0.62.</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+    <credits>
+      <director>Emre Kabakuşak</director>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Çağan Efe Ak</actor>
+      <actor>Armağan Oğuz</actor>
+      <actor>Ceren Ayruk</actor>
+      <actor>Dilara Aksüyek</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">کمدی</category>
+    <category lang="fa">اکشن</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205043000 +0000" stop="20261205054000 +0000" channel="turkey">
+    <title lang="fa">ولیعهد</title>
+    <title lang="en">Crown Prince</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/jLPGF6vJOfZ45Uh4YhKJe6rwSjI.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] زلفیکار کارسلی که قدرتش در ترمینال رو به افول است، به‌دنبال وارثی به‌جای پسرش می‌گردد و با تیمور، تعمیرکاری آواره و بدهکار، روبه‌رو می‌شود. این دیدار زندگی همه را زیرورو می‌کند؛ تیمور با هویت زافر وارد می‌شود و ناچار نقش همسر ریحان را هم بازی می‌کند، اما این بازی کم‌کم به عشقی واقعی در دل دروغ‌ها...</desc>
+    <sub-title lang="fa">قسمت یازدهم</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Tunahan Kurt</director>
+      <actor>Akin Akinözü</actor>
+      <actor>Serra Arıtürk</actor>
+      <actor>Ercan Kesal</actor>
+      <actor>Erkan Kolçak Köstendil</actor>
+      <actor>Hazal Türesan</actor>
+    </credits>
+    <date>2025</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205060000 +0000" stop="20261205071500 +0000" channel="turkey">
+    <title lang="fa">بهار</title>
+    <title lang="en">Bahar</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/6dXyUXZ4HsY6M3Tae9e0KZsFCo1.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] بهار برای همسر و فرزندانش از حرفه پزشکی‌اش گذشت، اما سال‌ها نادیده گرفته شد. وقتی بیماری ناگهانی او را تا مرز مرگ می‌برد، می‌فهمد خانواده‌اش چقدر کم قدرش را می‌دانند. پس از نجات، به زندگی برمی‌گردد، دوباره پزشک می‌شود، با رازهای شوهرش روبه‌رو می‌شود و خودش را از نو پیدا می‌کند.</desc>
+    <sub-title lang="fa">قسمت ۳۲</sub-title>
+    <episode-num system="onscreen">S02E43</episode-num>
+    <episode-num system="xmltv_ns">1.42.</episode-num>
+    <rating>
+      <value>+16</value>
+    </rating>
+    <credits>
+      <director>Neslihan Yeşilyurt</director>
+      <actor>Demet Evgar</actor>
+      <actor>Buğra Gülsoy</actor>
+      <actor>Elit Andaç Çam</actor>
+      <actor>Ecem Özkaya</actor>
+      <actor>Demirhan Demircioğlu</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">خانوادگی</category>
+    <star-rating system="IMDB">
+      <value>6.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205073000 +0000" stop="20261205081500 +0000" channel="turkey">
+    <title lang="fa">خانواده</title>
+    <title lang="en">The Family</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/pGNjkVKZ6icRj3WsceB5Nd4i6fI.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/o1FRgsUSD0mqrmwZtCDtGmZbCh3.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] داستان آسلان، پسر یک خانواده بزرگ و صاحب کلوب شبانه‌ای است؛ مردی زیرک، تاریک و مرموز. با ورود روان‌شناس دوین به زندگی او، همه‌چیز به رابطه‌ای پرتنش و پرهیجان تبدیل می‌شود.</desc>
+    <sub-title lang="fa">قسمت سیزدهم</sub-title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+    <credits>
+      <director>Hakan Bonomo</director>
+      <actor>Kıvanç Tatlıtuğ</actor>
+      <actor>Serenay Sarıkaya</actor>
+      <actor>Nur Sürer</actor>
+      <actor>Nejat İşler</actor>
+      <actor>Canan Ergüder</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">رمانتیک</category>
+    <star-rating system="IMDB">
+      <value>7.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205084500 +0000" stop="20261205093000 +0000" channel="turkey">
+    <title lang="fa">گل های وحشی</title>
+    <title lang="en">Wild heart</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/897uYgM4gtY0MdPRszIJngRJrIp.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] پسری که از خانواده‌ای ثروتمند ربوده شده، در خیابان بزرگ می‌شود و با کودکان بی‌خانمان پیوندی عمیق می‌سازد. سال‌ها بعد به‌طور غیرمنتظره‌ای به خانواده واقعی‌اش برمی‌گردد و میان دو جهان متفاوت گرفتار می‌شود؛ میان گذشته، هویت تازه و زخم‌های خیانت و شکاف طبقاتی برای جایگاهش می‌جنگد.</desc>
+    <sub-title lang="fa">قسمت ۳۶</sub-title>
+    <episode-num system="onscreen">S01E147</episode-num>
+    <episode-num system="xmltv_ns">0.146.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Çağatay Tosun</director>
+      <actor>Halit Özgür Sarı</actor>
+      <actor>Yurdaer Okur</actor>
+      <actor>Dolunay Soysert</actor>
+      <actor>Bertan Asllani</actor>
+      <actor>Bertan Aslani</actor>
+    </credits>
+    <date>2023</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <star-rating system="IMDB">
+      <value>8.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205100000 +0000" stop="20261205104500 +0000" channel="turkey">
+    <title lang="fa">آلپ ارسلان: سلجوقیان بزرگ</title>
+    <title lang="en">Alparslan: The Great Seljuks</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w1280/hOxTHKWxKM69OOg4C3WIfMqaOt6.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] این اثر به ساختار حکومتی، رویدادهای سیاسی، جنگ‌ها و زندگی سلطان آلپ ارسلان در امپراتوری بزرگ سلجوقی می‌پردازد.</desc>
+    <sub-title lang="fa">قسمت ۲۷</sub-title>
+    <episode-num system="onscreen">S01E98</episode-num>
+    <episode-num system="xmltv_ns">0.97.</episode-num>
+    <rating>
+      <value>+13</value>
+    </rating>
+    <credits>
+      <director>Sedat İnci</director>
+      <actor>Barış Arduç</actor>
+      <actor>Fahriye Evcen</actor>
+      <actor>Mehmet Özgür</actor>
+      <actor>Sarp Levendoğlu</actor>
+      <actor>Gizem Karaca</actor>
+    </credits>
+    <date>2021</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">اکشن</category>
+    <category lang="fa">هیجان‌انگیز</category>
+    <star-rating system="IMDB">
+      <value>8.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20261205111500 +0000" stop="20261205120000 +0000" channel="turkey">
+    <title lang="fa">اون فقط 17 سالشه</title>
+    <title lang="en">Torn Apart</title>
+    <icon src="https://image.tmdb.org/t/p/w1280/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg" width="780" height="439" />
+    <icon src="https://image.tmdb.org/t/p/w300/erd75Gon5bXL38kngnH6DCrOUj2.jpg" width="500" height="750" />
+    <desc lang="fa">[دوبله] آراس، نوجوانی ۱۷ ساله، برای پیدا کردن خواهر یا برادر گمشده‌اش به بدروم می‌آید و با ورود به تقابل با خانواده قدرتمند آکایا، زندگی‌اش درگیر تنش، راز و احساسات عمیق می‌شود.</desc>
+    <sub-title lang="fa">قسمت ۲۵</sub-title>
+    <episode-num system="onscreen">S01E63</episode-num>
+    <episode-num system="xmltv_ns">0.62.</episode-num>
+    <rating>
+      <value>+7</value>
+    </rating>
+    <credits>
+      <director>Emre Kabakuşak</director>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Çağan Efe Ak</actor>
+      <actor>Armağan Oğuz</actor>
+      <actor>Ceren Ayruk</actor>
+      <actor>Dilara Aksüyek</actor>
+    </credits>
+    <date>2026</date>
+    <country lang="fa">ترکیه</country>
+    <category lang="fa">درام</category>
+    <category lang="fa">کمدی</category>
+    <category lang="fa">اکشن</category>
+    <star-rating system="IMDB">
+      <value>7.8/10</value>
     </star-rating>
   </programme>
 <channel id="shahid-1001845"><display-name>Asharq Discovery</display-name></channel>
