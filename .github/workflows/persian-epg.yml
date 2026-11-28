@@ -31,6 +31,10 @@ jobs:
       - name: Regenerate Persiana M3U + EPG (fresh program guide)
         run: python generate_persiana.py
 
+      - name: Fold in Shahid/MBC EPG (with programme images)
+        run: python merge_shahid.py
+        continue-on-error: true
+
       - name: Build combined Persiana + News playlist
         run: python build_persian_all.py
 
